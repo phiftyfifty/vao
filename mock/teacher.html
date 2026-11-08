@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Vao: record phrases</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Noto+Sans+Lao:wght@400;600;700&display=swap" rel="stylesheet">
+<style>
+  :root { --ink: #1b2330; --muted: #6b7686; --line: #e3e8ef; --blue: #2457c5; --good: #2f7a45; --bad: #b3261e; --bg: #f6f8fb; }
+  * { box-sizing: border-box; }
+  body { margin: 0; font: 15px/1.45 Inter, system-ui, sans-serif; color: var(--ink); background: var(--bg); }
+  header { position: sticky; top: 0; z-index: 2; background: #fff; border-bottom: 1px solid var(--line); padding: 14px 20px; }
+  .bar { max-width: 860px; margin: 0 auto; display: flex; flex-wrap: wrap; gap: 10px 16px; align-items: center; }
+  h1 { font-size: 18px; margin: 0 auto 0 0; }
+  h1 a { color: var(--muted); font-weight: 500; font-size: 14px; margin-left: 10px; text-decoration: none; }
+  select, label.only { font: inherit; }
+  select { padding: 6px 8px; border: 1px solid var(--line); border-radius: 8px; background: #fff; }
+  .count { color: var(--muted); font-size: 14px; }
+  main { max-width: 860px; margin: 0 auto; padding: 8px 20px 60px; }
+  .intro { color: var(--muted); font-size: 14px; margin: 14px 0 6px; }
+  .row { display: grid; grid-template-columns: 1fr auto; gap: 12px; align-items: center; padding: 14px 0; border-bottom: 1px solid var(--line); }
+  .lao { font-family: "Noto Sans Lao", sans-serif; font-size: 24px; font-weight: 600; line-height: 1.3; }
+  .meta { font-size: 13px; color: var(--muted); }
+  .meta b { color: var(--ink); font-weight: 500; }
+  .src { display: inline-block; margin-top: 4px; font-size: 12px; padding: 1px 8px; border-radius: 999px; background: #eef1f5; color: var(--muted); }
+  .src.teacher { background: #e3f4e8; color: var(--good); }
+  .actions { display: flex; gap: 8px; }
+  button { font: 600 13px Inter, sans-serif; border-radius: 10px; border: 1px solid var(--line); background: #fff; padding: 8px 12px; cursor: pointer; color: var(--ink); }
+  button.rec { background: var(--blue); border-color: var(--blue); color: #fff; min-width: 92px; }
+  button.rec.on { background: var(--bad); border-color: var(--bad); }
+  button:disabled { opacity: .5; cursor: default; }
+  button:focus-visible, select:focus-visible { outline: 3px solid #9db8f0; outline-offset: 2px; }
+  .err { color: var(--bad); font-size: 13px; margin-top: 4px; }
+  .offline { background: #fde6e6; color: #8a2b2b; padding: 10px 12px; border-radius: 10px; margin-top: 14px; }
+  @media (max-width: 560px) { .row { grid-template-columns: 1fr; } }
+</style>
+</head>
+<body>
+<header>
+  <div class="bar">
+    <h1>Record phrases <a href="index.html">Back to the app</a></h1>
+    <select id="unit" aria-label="Unit"></select>
+    <label class="only"><input type="checkbox" id="only"> Only phrases you haven't recorded</label>
+    <span class="count" id="count"></span>
+  </div>
+</header>
+<main>
+  <p class="intro">Tap Record, say the phrase, and tap Stop. Your recording replaces the synthetic voice everywhere in the app. Record again to replace it.</p>
+  <div id="offline" class="offline" hidden>Recording needs the Vao server. Start it with <code>uv run --with mlx-whisper python -I server/score.py</code> and open this page at localhost:8792/teacher.html.</div>
+  <div id="list"></div>
+</main>
+<script src="data/units.js"></script>
+<script src="data/teacher.js"></script>
+<script src="teacher.js"></script>
+</body>
+</html>

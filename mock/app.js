@@ -1,6 +1,10 @@
 const UNITS = window.VAO_UNITS;
 const ITEMS = new Map();
-UNITS.forEach(u => u.items.forEach(it => { it.unit = u.id; ITEMS.set(it.id, it); }));
+const TEACHER = window.VAO_TEACHER || {};
+UNITS.forEach(u => u.items.forEach(it => {
+  it.unit = u.id; ITEMS.set(it.id, it);
+  if (TEACHER[it.key]) { it.audio = `teacher/${it.key}.mp3?v=${TEACHER[it.key]}`; it.audio_src = "teacher"; }
+}));
 
 const ICON_PLAY = '<svg viewBox="0 0 24 24" fill="currentColor"><path d="M3 9v6h4l5 5V4L7 9H3zm13.5 3A4.5 4.5 0 0 0 14 8v8a4.5 4.5 0 0 0 2.5-4zM14 3.2v2.1a7 7 0 0 1 0 13.4v2.1a9 9 0 0 0 0-17.6z"/></svg>';
 const ICON_MIC = '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><rect x="9" y="3" width="6" height="11" rx="3"/><path d="M5 11a7 7 0 0 0 14 0M12 18v3"/></svg>';
@@ -44,10 +48,11 @@ function playItem(it, quiet) {
   }
 }
 const hasSound = it => !!it.audio;
+const SRC_LABEL = { teacher: "teacher recording", native: "native recording", tts: "synthetic voice" };
 function srcTag(it) {
   return it.audio
-    ? '<div class="src"><i></i>native recording</div>'
-    : '<div class="src pending"><i></i>audio pending (TTS spike)</div>';
+    ? `<div class="src ${it.audio_src === "tts" ? "synth" : ""}"><i></i>${SRC_LABEL[it.audio_src] || "recording"}</div>`
+    : '<div class="src pending"><i></i>no audio yet</div>';
 }
 
 function toast(msg) {

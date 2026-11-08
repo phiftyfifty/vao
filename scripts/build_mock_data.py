@@ -4,6 +4,7 @@ Reads an immutable snapshot of the collection, never the live file.
 Run: python3 -I scripts/build_mock_data.py
 """
 
+import hashlib
 import html
 import json
 import os
@@ -23,6 +24,7 @@ MEDIA_OUT = os.path.join(ROOT, "mock", "media")
 
 KAIKKI = os.path.expanduser("~/Downloads/lao-datasets/kaikki/kaikki.org-dictionary-Lao.jsonl")
 CLASS_NOTES = os.path.join(ROOT, "scripts", "data", "class_notes.json")
+TTS_DIR = os.path.join(MEDIA_OUT, "tts")
 
 LESSON_SIZE = 6
 LAO_RE = re.compile(r"^[\u0E80-\u0EFF0-9\s?.!/_,()\u200b\u2026-]+$")
@@ -88,6 +90,17 @@ def check_lao(lao, where):
 
 
 PLAIN_LAO = re.compile(r"^[຀-໿]+$")
+
+
+def spoken_text(lao):
+    """What the synthetic voice reads: blanks and ellipses dropped, alternatives read in turn."""
+    t = re.sub(r"[_…()]", "", lao).replace("/", " ")
+    t = re.sub(r"\s+", " ", t).strip()
+    return t if re.search(r"[ກ-ໟ]", t) else None
+
+
+def tts_key(lao):
+    return hashlib.sha1(lao.encode("utf-8")).hexdigest()[:12]
 
 
 def load_dictionary():
@@ -242,8 +255,13 @@ def main():
     used_media = set()
     for u in out_units:
         for it in u["items"]:
+            it["key"] = tts_key(it["lao"])
             if it["lao"] in audio_by_lao:
                 it["audio"] = audio_by_lao[it["lao"]]
+                it["audio_src"] = "native"
+            elif os.path.exists(os.path.join(TTS_DIR, tts_key(it["lao"]) + ".mp3")):
+                it["audio"] = "tts/" + tts_key(it["lao"]) + ".mp3"
+                it["audio_src"] = "tts"
             seg = SEGMENTS.get(it["lao"])
             if seg:
                 n_hand += 1
@@ -254,9 +272,10 @@ def main():
                 if "".join(seg) != it["lao"].replace(" ", ""):
                     sys.exit(f"segmentation does not rebuild the phrase: {it['lao']} vs {seg}")
                 it["tiles"] = seg
-            for k in ("img", "audio"):
-                if it.get(k):
-                    used_media.add(it[k])
+            if it.get("img"):
+                used_media.add(it["img"])
+            if it.get("audio_src") == "native":
+                used_media.add(it["audio"])
         u["lessons"] = [
             [it["id"] for it in u["items"][i:i + LESSON_SIZE]]
             for i in range(0, len(u["items"]), LESSON_SIZE)
@@ -283,9 +302,10 @@ def main():
 
     n_items = sum(len(u["items"]) for u in out_units)
     n_lessons = sum(len(u["lessons"]) for u in out_units)
-    n_audio = sum(1 for u in out_units for it in u["items"] if it.get("audio"))
+    n_audio = sum(1 for u in out_units for it in u["items"] if it.get("audio_src") == "native")
+    n_tts = sum(1 for u in out_units for it in u["items"] if it.get("audio_src") == "tts")
     n_tiles = sum(1 for u in out_units for it in u["items"] if it.get("tiles"))
-    print(f"units {len(out_units)}  lessons {n_lessons}  items {n_items}  with audio {n_audio}  segmented {n_tiles}"
+    print(f"units {len(out_units)}  lessons {n_lessons}  items {n_items}  native audio {n_audio}  synthetic audio {n_tts}  segmented {n_tiles}"
           f" (hand {n_hand}, dictionary {n_auto})  class notes {len(class_items)}")
     print(f"media copied {len(used_media) - missing}")
     for w in warnings:

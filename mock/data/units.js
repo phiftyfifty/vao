@@ -12,7 +12,9 @@ window.VAO_UNITS = [
     "lao": "ສະບາຍດີ",
     "img": "lao-L1-s002.jpg",
     "note": "sabai = chill/relax, dee = good",
-    "audio": "lao_pilot_greet01.mp3"
+    "key": "6d05afd69e91",
+    "audio": "lao_pilot_greet01.mp3",
+    "audio_src": "native"
    },
    {
     "id": "vPNAV<_@i>",
@@ -21,6 +23,9 @@ window.VAO_UNITS = [
     "lao": "ຂອບໃຈ",
     "img": "lao-L1-s002.jpg",
     "note": null,
+    "key": "c83fbed61f0f",
+    "audio": "tts/c83fbed61f0f.mp3",
+    "audio_src": "tts",
     "tiles": [
      "ຂອບ",
      "ໃຈ"
@@ -33,7 +38,9 @@ window.VAO_UNITS = [
     "lao": "ຂໍໂທດ",
     "img": "lao-L1-s012.jpg",
     "note": null,
-    "audio": "lao_pilot_greet08.mp3"
+    "key": "fca7c2826674",
+    "audio": "lao_pilot_greet08.mp3",
+    "audio_src": "native"
    },
    {
     "id": "hdC.xW}HDR",
@@ -42,7 +49,9 @@ window.VAO_UNITS = [
     "lao": "ໂດຍ",
     "img": "lao-L1-s012.jpg",
     "note": null,
-    "audio": "lao_pilot_greet03.mp3"
+    "key": "01bbc267bb91",
+    "audio": "lao_pilot_greet03.mp3",
+    "audio_src": "native"
    },
    {
     "id": "hk4B9:E.,^",
@@ -51,7 +60,9 @@ window.VAO_UNITS = [
     "lao": "ບໍ່",
     "img": null,
     "note": null,
-    "audio": "lao_pilot_greet04.mp3"
+    "key": "63c14c3dbedf",
+    "audio": "lao_pilot_greet04.mp3",
+    "audio_src": "native"
    },
    {
     "id": "r^g_y.(iyp",
@@ -60,7 +71,9 @@ window.VAO_UNITS = [
     "lao": "ໂຊກດີ",
     "img": "lao-L1-s012.jpg",
     "note": null,
-    "audio": "lao_pilot_greet09.mp3"
+    "key": "f7fde6817060",
+    "audio": "lao_pilot_greet09.mp3",
+    "audio_src": "native"
    },
    {
     "id": "LlkLCT(Bq-",
@@ -69,7 +82,9 @@ window.VAO_UNITS = [
     "lao": "ເຈົ້າສະບາຍດີບໍ?",
     "img": "lao-L1-s021.jpg",
     "note": null,
+    "key": "c3ceb5acb76f",
     "audio": "lao_pilot_greet02.mp3",
+    "audio_src": "native",
     "tiles": [
      "ເຈົ້າ",
      "ສະບາຍດີ",
@@ -83,7 +98,9 @@ window.VAO_UNITS = [
     "lao": "ຂ້ອຍສະບາຍດີ",
     "img": "lao-L1-s012.jpg",
     "note": null,
+    "key": "40209097dc2e",
     "audio": "lao_pilot_greet05.mp3",
+    "audio_src": "native",
     "tiles": [
      "ຂ້ອຍ",
      "ສະບາຍດີ"
@@ -96,7 +113,9 @@ window.VAO_UNITS = [
     "lao": "ຂ້ອຍບໍ່ສະບາຍ",
     "img": "lao-L1-s012.jpg",
     "note": null,
+    "key": "f06560378362",
     "audio": "lao_pilot_greet06.mp3",
+    "audio_src": "native",
     "tiles": [
      "ຂ້ອຍ",
      "ບໍ່",
@@ -110,7 +129,9 @@ window.VAO_UNITS = [
     "lao": "ລາກ່ອນ",
     "img": "lao-L1-s012.jpg",
     "note": "kohn = before",
-    "audio": "lao_pilot_greet10.mp3"
+    "key": "ce522cb2ede3",
+    "audio": "lao_pilot_greet10.mp3",
+    "audio_src": "native"
    },
    {
     "id": "P6^>G/GkZ)",
@@ -119,7 +140,9 @@ window.VAO_UNITS = [
     "lao": "ໄປກ່ອນເດີ້",
     "img": "lao-L1-s012.jpg",
     "note": "lit. going before",
+    "key": "b1315f6531ba",
     "audio": "lao_pilot_greet11.mp3",
+    "audio_src": "native",
     "tiles": [
      "ໄປ",
      "ກ່ອນ",
@@ -133,6 +156,9 @@ window.VAO_UNITS = [
     "lao": "ແລ້ວພົບກັນ",
     "img": "lao-L1-s012.jpg",
     "note": "mai = again, new",
+    "key": "3e67a10df16e",
+    "audio": "tts/3e67a10df16e.mp3",
+    "audio_src": "tts",
     "tiles": [
      "ແລ້ວ",
      "ພົບ",
@@ -146,7 +172,9 @@ window.VAO_UNITS = [
     "lao": "ບໍ່ເປັນຫຍັງ",
     "img": "lao-L1-s021.jpg",
     "note": null,
+    "key": "8148016610d4",
     "audio": "lao_pilot_greet07.mp3",
+    "audio_src": "native",
     "tiles": [
      "ບໍ່",
      "ເປັນ",
@@ -160,6 +188,9 @@ window.VAO_UNITS = [
     "lao": "ຝັນດີ",
     "img": "lao-L1-s067.jpg",
     "note": null,
+    "key": "994de67c8844",
+    "audio": "tts/994de67c8844.mp3",
+    "audio_src": "tts",
     "tiles": [
      "ຝັນ",
      "ດີ"
@@ -198,7 +229,10 @@ window.VAO_UNITS = [
     "roman": "khoi",
     "lao": "ຂ້ອຍ",
     "img": null,
-    "note": "formal: khanoi · with elders: hao · very informal: koo"
+    "note": "formal: khanoi · with elders: hao · very informal: koo",
+    "key": "a0126c34be0c",
+    "audio": "tts/a0126c34be0c.mp3",
+    "audio_src": "tts"
    },
    {
     "id": "eL*(hdIRkI",
@@ -206,7 +240,10 @@ window.VAO_UNITS = [
     "roman": "jao",
     "lao": "ເຈົ້າ",
     "img": "lao-L1-s013.jpg",
-    "note": "formal: thaan · very informal: meung"
+    "note": "formal: thaan · very informal: meung",
+    "key": "898258d09217",
+    "audio": "tts/898258d09217.mp3",
+    "audio_src": "tts"
    },
    {
     "id": "Hd2lpuB7ww",
@@ -214,7 +251,10 @@ window.VAO_UNITS = [
     "roman": "laao",
     "lao": "ລາວ",
     "img": "lao-L1-s013.jpg",
-    "note": "phuhn = he/she for an elder or monk"
+    "note": "phuhn = he/she for an elder or monk",
+    "key": "6c5b6095e68c",
+    "audio": "tts/6c5b6095e68c.mp3",
+    "audio_src": "tts"
    },
    {
     "id": "t|%?@2l0g@",
@@ -222,7 +262,10 @@ window.VAO_UNITS = [
     "roman": "man",
     "lao": "ມັນ",
     "img": null,
-    "note": null
+    "note": null,
+    "key": "ddfa1b939cd0",
+    "audio": "tts/ddfa1b939cd0.mp3",
+    "audio_src": "tts"
    },
    {
     "id": "tAUfhSl-[0",
@@ -230,7 +273,10 @@ window.VAO_UNITS = [
     "roman": "phooak khoi / phooak hao",
     "lao": "ພວກຂ້ອຍ / ພວກເຮົາ",
     "img": "lao-L1-s013.jpg",
-    "note": null
+    "note": null,
+    "key": "898784a7c068",
+    "audio": "tts/898784a7c068.mp3",
+    "audio_src": "tts"
    },
    {
     "id": "eQdF}lWv$W",
@@ -239,6 +285,9 @@ window.VAO_UNITS = [
     "lao": "ພວກເຈົ້າ",
     "img": "lao-L1-s013.jpg",
     "note": null,
+    "key": "ae008db87ba6",
+    "audio": "tts/ae008db87ba6.mp3",
+    "audio_src": "tts",
     "tiles": [
      "ພວກ",
      "ເຈົ້າ"
@@ -250,7 +299,10 @@ window.VAO_UNITS = [
     "roman": "phooak khao / khaojao",
     "lao": "ພວກເຂົາ / ເຂົາເຈົ້າ",
     "img": "lao-L1-s013.jpg",
-    "note": null
+    "note": null,
+    "key": "dd11e4b7f91c",
+    "audio": "tts/dd11e4b7f91c.mp3",
+    "audio_src": "tts"
    },
    {
     "id": "FSlzI[Z[m/",
@@ -258,7 +310,10 @@ window.VAO_UNITS = [
     "roman": "paa",
     "lao": "ປ້າ",
     "img": "lao-L1-s020.jpg",
-    "note": "aa = younger paternal aunt"
+    "note": "aa = younger paternal aunt",
+    "key": "b7052c01a8e3",
+    "audio": "tts/b7052c01a8e3.mp3",
+    "audio_src": "tts"
    },
    {
     "id": "ApfKJ;OetP",
@@ -266,7 +321,10 @@ window.VAO_UNITS = [
     "roman": "loong",
     "lao": "ລຸງ",
     "img": "lao-L1-s020.jpg",
-    "note": null
+    "note": null,
+    "key": "0576970cf5e6",
+    "audio": "tts/0576970cf5e6.mp3",
+    "audio_src": "tts"
    },
    {
     "id": "m(?vr^3<:L",
@@ -274,7 +332,10 @@ window.VAO_UNITS = [
     "roman": "mae",
     "lao": "ແມ່",
     "img": "lao-L1-s020.jpg",
-    "note": null
+    "note": null,
+    "key": "792d84e9a652",
+    "audio": "tts/792d84e9a652.mp3",
+    "audio_src": "tts"
    },
    {
     "id": "vs_?.Ts=8@",
@@ -282,7 +343,10 @@ window.VAO_UNITS = [
     "roman": "phoh",
     "lao": "ພໍ່",
     "img": "lao-L1-s020.jpg",
-    "note": null
+    "note": null,
+    "key": "2abd270a0cb2",
+    "audio": "tts/2abd270a0cb2.mp3",
+    "audio_src": "tts"
    },
    {
     "id": "NSxW~8m#=5",
@@ -290,7 +354,10 @@ window.VAO_UNITS = [
     "roman": "euaai",
     "lao": "ເອື້ອຍ",
     "img": "lao-L1-s020.jpg",
-    "note": null
+    "note": null,
+    "key": "de649f7c5e79",
+    "audio": "tts/de649f7c5e79.mp3",
+    "audio_src": "tts"
    },
    {
     "id": "vDEA:J2909",
@@ -298,7 +365,10 @@ window.VAO_UNITS = [
     "roman": "aai",
     "lao": "ອ້າຍ",
     "img": "lao-L1-s020.jpg",
-    "note": null
+    "note": null,
+    "key": "c8bf0bf7bfba",
+    "audio": "tts/c8bf0bf7bfba.mp3",
+    "audio_src": "tts"
    },
    {
     "id": "sKiI./2h`p",
@@ -306,7 +376,10 @@ window.VAO_UNITS = [
     "roman": "nong",
     "lao": "ນ້ອງ",
     "img": null,
-    "note": null
+    "note": null,
+    "key": "0f60a5ba695e",
+    "audio": "tts/0f60a5ba695e.mp3",
+    "audio_src": "tts"
    },
    {
     "id": "u>^kV&JZ~j",
@@ -314,7 +387,10 @@ window.VAO_UNITS = [
     "roman": "look",
     "lao": "ລູກ",
     "img": "lao-L1-s023.jpg",
-    "note": null
+    "note": null,
+    "key": "f3987ee55562",
+    "audio": "tts/f3987ee55562.mp3",
+    "audio_src": "tts"
    },
    {
     "id": "xEO-/_]KeD",
@@ -322,7 +398,10 @@ window.VAO_UNITS = [
     "roman": "looksaai",
     "lao": "ລູກຊາຍ",
     "img": "lao-L1-s038.jpg",
-    "note": null
+    "note": null,
+    "key": "0dd6e6ccbc1f",
+    "audio": "tts/0dd6e6ccbc1f.mp3",
+    "audio_src": "tts"
    },
    {
     "id": "rs_OHl;k)1",
@@ -330,7 +409,10 @@ window.VAO_UNITS = [
     "roman": "looksaao",
     "lao": "ລູກສາວ",
     "img": "lao-L1-s038.jpg",
-    "note": null
+    "note": null,
+    "key": "dc3a9e558fff",
+    "audio": "tts/dc3a9e558fff.mp3",
+    "audio_src": "tts"
    },
    {
     "id": "Fy<=9U(h@1",
@@ -338,7 +420,10 @@ window.VAO_UNITS = [
     "roman": "faen",
     "lao": "ແຟນ",
     "img": "lao-L1-s038.jpg",
-    "note": null
+    "note": null,
+    "key": "ffd953ce3177",
+    "audio": "tts/ffd953ce3177.mp3",
+    "audio_src": "tts"
    }
   ],
   "lessons": [
@@ -380,6 +465,9 @@ window.VAO_UNITS = [
     "lao": "ເຈົ້າເຮັດວຽກຫຍັງ?",
     "img": "lao-L1-s024.jpg",
     "note": null,
+    "key": "a3106c241ce6",
+    "audio": "tts/a3106c241ce6.mp3",
+    "audio_src": "tts",
     "tiles": [
      "ເຈົ້າ",
      "ເຮັດ",
@@ -393,7 +481,10 @@ window.VAO_UNITS = [
     "roman": "khoo",
     "lao": "ຄູ",
     "img": "lao-L1-s024.jpg",
-    "note": null
+    "note": null,
+    "key": "f04d8207cc6e",
+    "audio": "tts/f04d8207cc6e.mp3",
+    "audio_src": "tts"
    },
    {
     "id": "qY]J+<v<H=",
@@ -401,7 +492,10 @@ window.VAO_UNITS = [
     "roman": "ajaan",
     "lao": "ອາຈານ",
     "img": "lao-L1-s024.jpg",
-    "note": null
+    "note": null,
+    "key": "5b6d832db5f9",
+    "audio": "tts/5b6d832db5f9.mp3",
+    "audio_src": "tts"
    },
    {
     "id": "qI=7eN`k=5",
@@ -409,7 +503,10 @@ window.VAO_UNITS = [
     "roman": "phoh/mae khooa",
     "lao": "ພໍ່/ແມ່ຄົວ",
     "img": "lao-L1-s024.jpg",
-    "note": null
+    "note": null,
+    "key": "e1b7299b31bf",
+    "audio": "tts/e1b7299b31bf.mp3",
+    "audio_src": "tts"
    },
    {
     "id": "r=aK3{1`5N",
@@ -417,7 +514,10 @@ window.VAO_UNITS = [
     "roman": "moh",
     "lao": "ໝໍ",
     "img": "lao-L1-s024.jpg",
-    "note": null
+    "note": null,
+    "key": "a6f36e157972",
+    "audio": "tts/a6f36e157972.mp3",
+    "audio_src": "tts"
    },
    {
     "id": "yXY_VVFPsF",
@@ -425,7 +525,10 @@ window.VAO_UNITS = [
     "roman": "phanyabaan",
     "lao": "ພະຍາບານ",
     "img": "lao-L1-s024.jpg",
-    "note": null
+    "note": null,
+    "key": "58ba0b37b0d4",
+    "audio": "tts/58ba0b37b0d4.mp3",
+    "audio_src": "tts"
    },
    {
     "id": "IX91x={^s<",
@@ -433,7 +536,10 @@ window.VAO_UNITS = [
     "roman": "phoojadkaan",
     "lao": "ຜູ້ຈັດການ",
     "img": "lao-L1-s024.jpg",
-    "note": null
+    "note": null,
+    "key": "998373c6c947",
+    "audio": "tts/998373c6c947.mp3",
+    "audio_src": "tts"
    },
    {
     "id": "B(>uMRqo6M",
@@ -441,7 +547,10 @@ window.VAO_UNITS = [
     "roman": "visavakohn",
     "lao": "ວິສະວະກອນ",
     "img": "lao-L1-s024.jpg",
-    "note": "mechanical: visavakohn kheuang jak"
+    "note": "mechanical: visavakohn kheuang jak",
+    "key": "93683884425a",
+    "audio": "tts/93683884425a.mp3",
+    "audio_src": "tts"
    },
    {
     "id": "w5DW-o;XH|",
@@ -449,7 +558,10 @@ window.VAO_UNITS = [
     "roman": "nak thaai hoob",
     "lao": "ນັກຖ່າຍຮູບ",
     "img": "lao-L1-s024.jpg",
-    "note": "thaai = to take, hoob = photo"
+    "note": "thaai = to take, hoob = photo",
+    "key": "b95100ee82ba",
+    "audio": "tts/b95100ee82ba.mp3",
+    "audio_src": "tts"
    },
    {
     "id": "vi,dl;%a.b",
@@ -457,7 +569,10 @@ window.VAO_UNITS = [
     "roman": "khoi pen __",
     "lao": "ຂ້ອຍເປັນ __",
     "img": "lao-L1-s024.jpg",
-    "note": null
+    "note": null,
+    "key": "8b6d53d2b1bd",
+    "audio": "tts/8b6d53d2b1bd.mp3",
+    "audio_src": "tts"
    },
    {
     "id": "nqSK9MZ-[w",
@@ -465,7 +580,10 @@ window.VAO_UNITS = [
     "roman": "khoi hed viak yoo __",
     "lao": "ຂ້ອຍເຮັດວຽກຢູ່ __",
     "img": "lao-L1-s024.jpg",
-    "note": null
+    "note": null,
+    "key": "9be1339f5e44",
+    "audio": "tts/9be1339f5e44.mp3",
+    "audio_src": "tts"
    },
    {
     "id": "pd&/bku9/S",
@@ -473,7 +591,10 @@ window.VAO_UNITS = [
     "roman": "khoi hian yoo __",
     "lao": "ຂ້ອຍຮຽນຢູ່ __",
     "img": "lao-L1-s024.jpg",
-    "note": null
+    "note": null,
+    "key": "456baf08fcb3",
+    "audio": "tts/456baf08fcb3.mp3",
+    "audio_src": "tts"
    },
    {
     "id": "C9|BDCu_f[",
@@ -481,7 +602,10 @@ window.VAO_UNITS = [
     "roman": "thoong",
     "lao": "ທຸງ",
     "img": "lao-L1-s026.jpg",
-    "note": null
+    "note": null,
+    "key": "8000520d6260",
+    "audio": "tts/8000520d6260.mp3",
+    "audio_src": "tts"
    },
    {
     "id": "o|HT|WZDMG",
@@ -489,7 +613,10 @@ window.VAO_UNITS = [
     "roman": "pathed",
     "lao": "ປະເທດ",
     "img": "lao-L1-s026.jpg",
-    "note": null
+    "note": null,
+    "key": "e871a0bc1e08",
+    "audio": "tts/e871a0bc1e08.mp3",
+    "audio_src": "tts"
    },
    {
     "id": "npMHU;g%R(",
@@ -497,7 +624,10 @@ window.VAO_UNITS = [
     "roman": "khon",
     "lao": "ຄົນ",
     "img": "lao-L1-s026.jpg",
-    "note": null
+    "note": null,
+    "key": "b37430247673",
+    "audio": "tts/b37430247673.mp3",
+    "audio_src": "tts"
    },
    {
     "id": "D#|3=RR:{:",
@@ -505,7 +635,10 @@ window.VAO_UNITS = [
     "roman": "phaasaa",
     "lao": "ພາສາ",
     "img": "lao-L1-s026.jpg",
-    "note": null
+    "note": null,
+    "key": "28a2e59b176e",
+    "audio": "tts/28a2e59b176e.mp3",
+    "audio_src": "tts"
    },
    {
     "id": "m9)+=gLCra",
@@ -513,7 +646,10 @@ window.VAO_UNITS = [
     "roman": "(phaasaa) angkid",
     "lao": "ອັງກິດ",
     "img": "lao-L1-w036-03.jpg",
-    "note": null
+    "note": null,
+    "key": "b56cb98bf0fb",
+    "audio": "tts/b56cb98bf0fb.mp3",
+    "audio_src": "tts"
    },
    {
     "id": "Ep,Ku3z~iC",
@@ -521,7 +657,10 @@ window.VAO_UNITS = [
     "roman": "falang",
     "lao": "ຝຣັ່ງ",
     "img": "lao-L1-w036-02.jpg",
-    "note": "falang = khon khao (white person)"
+    "note": "falang = khon khao (white person)",
+    "key": "1de7ebdac2a0",
+    "audio": "tts/1de7ebdac2a0.mp3",
+    "audio_src": "tts"
    },
    {
     "id": "HlBS(e~N#i",
@@ -529,7 +668,10 @@ window.VAO_UNITS = [
     "roman": "Amelica / Ameca",
     "lao": "ອາເມລິກາ",
     "img": "lao-L1-w036-00.jpg",
-    "note": null
+    "note": null,
+    "key": "4b52dde3a30c",
+    "audio": "tts/4b52dde3a30c.mp3",
+    "audio_src": "tts"
    },
    {
     "id": "jQWp(5(}wR",
@@ -537,7 +679,10 @@ window.VAO_UNITS = [
     "roman": "Kaolee",
     "lao": "ເກົາຫຼີ",
     "img": "lao-L1-w036-04.jpg",
-    "note": null
+    "note": null,
+    "key": "08e5f8aa0342",
+    "audio": "tts/08e5f8aa0342.mp3",
+    "audio_src": "tts"
    },
    {
     "id": "uT#Me0~MO-",
@@ -545,7 +690,10 @@ window.VAO_UNITS = [
     "roman": "Jeen",
     "lao": "ຈີນ",
     "img": "lao-L1-w036-05.jpg",
-    "note": null
+    "note": null,
+    "key": "7af3d96744c0",
+    "audio": "tts/7af3d96744c0.mp3",
+    "audio_src": "tts"
    },
    {
     "id": "w+k%#7l7v#",
@@ -553,7 +701,10 @@ window.VAO_UNITS = [
     "roman": "Yeepoon",
     "lao": "ຍີ່ປຸ່ນ",
     "img": "lao-L1-w036-06.jpg",
-    "note": null
+    "note": null,
+    "key": "5fb380e157b7",
+    "audio": "tts/5fb380e157b7.mp3",
+    "audio_src": "tts"
    },
    {
     "id": "QWOJ)=%.0?",
@@ -561,7 +712,10 @@ window.VAO_UNITS = [
     "roman": "Campoojia / Khamen",
     "lao": "ກຳປູເຈຍ / ຂະເຫມນ",
     "img": "lao-L1-s036.jpg",
-    "note": null
+    "note": null,
+    "key": "e03a09868f91",
+    "audio": "tts/e03a09868f91.mp3",
+    "audio_src": "tts"
    },
    {
     "id": "jp<WCvLc{t",
@@ -569,7 +723,10 @@ window.VAO_UNITS = [
     "roman": "naenam to eng",
     "lao": "ແນະນຳຕົວເອງ",
     "img": "lao-L1-s037.jpg",
-    "note": null
+    "note": null,
+    "key": "f3a2108f7711",
+    "audio": "tts/f3a2108f7711.mp3",
+    "audio_src": "tts"
    },
    {
     "id": "gHfaTt;(k1",
@@ -578,6 +735,9 @@ window.VAO_UNITS = [
     "lao": "ທຸງຫຍັງ?",
     "img": "lao-L1-s027.jpg",
     "note": null,
+    "key": "4573326da8e7",
+    "audio": "tts/4573326da8e7.mp3",
+    "audio_src": "tts",
     "tiles": [
      "ທຸງ",
      "ຫຍັງ?"
@@ -589,7 +749,10 @@ window.VAO_UNITS = [
     "roman": "Thai",
     "lao": "ໄທ",
     "img": "lao-L1-w036-01.jpg",
-    "note": null
+    "note": null,
+    "key": "e48aee4da231",
+    "audio": "tts/e48aee4da231.mp3",
+    "audio_src": "tts"
    },
    {
     "id": "oL;!SBmF0}",
@@ -597,7 +760,10 @@ window.VAO_UNITS = [
     "roman": "Viet",
     "lao": "ຫວຽດ",
     "img": null,
-    "note": null
+    "note": null,
+    "key": "4c85c926c3a5",
+    "audio": "tts/4c85c926c3a5.mp3",
+    "audio_src": "tts"
    },
    {
     "id": "tKvT=?RB:w",
@@ -605,7 +771,10 @@ window.VAO_UNITS = [
     "roman": "Canada",
     "lao": "ການາດາ",
     "img": "lao-L1-s035.jpg",
-    "note": null
+    "note": null,
+    "key": "f6a9c1c27bdc",
+    "audio": "tts/f6a9c1c27bdc.mp3",
+    "audio_src": "tts"
    },
    {
     "id": "o*FXMda{,d",
@@ -613,7 +782,10 @@ window.VAO_UNITS = [
     "roman": "Sapain",
     "lao": "ສະເປນ",
     "img": "lao-L1-w036-07.jpg",
-    "note": null
+    "note": null,
+    "key": "1ddf0f3d5b9f",
+    "audio": "tts/1ddf0f3d5b9f.mp3",
+    "audio_src": "tts"
    }
   ],
   "lessons": [
@@ -669,7 +841,10 @@ window.VAO_UNITS = [
     "roman": "lae",
     "lao": "ແລະ",
     "img": "lao-L1-s002.jpg",
-    "note": null
+    "note": null,
+    "key": "8dd92bacd9d8",
+    "audio": "tts/8dd92bacd9d8.mp3",
+    "audio_src": "tts"
    },
    {
     "id": "xJT1[S|O>~",
@@ -677,7 +852,10 @@ window.VAO_UNITS = [
     "roman": "kab / nam",
     "lao": "ກັບ",
     "img": "lao-L1-s040.jpg",
-    "note": null
+    "note": null,
+    "key": "bdb5564f9192",
+    "audio": "tts/bdb5564f9192.mp3",
+    "audio_src": "tts"
    },
    {
     "id": "G,4kEf|.xy",
@@ -685,7 +863,10 @@ window.VAO_UNITS = [
     "roman": "leu",
     "lao": "ຫຼື",
     "img": null,
-    "note": null
+    "note": null,
+    "key": "255d6348dbd9",
+    "audio": "tts/255d6348dbd9.mp3",
+    "audio_src": "tts"
    },
    {
     "id": "i*1rCozbXu",
@@ -693,7 +874,10 @@ window.VAO_UNITS = [
     "roman": "tae",
     "lao": "ແຕ່",
     "img": "lao-L1-s040.jpg",
-    "note": null
+    "note": null,
+    "key": "ac22d96d1502",
+    "audio": "tts/ac22d96d1502.mp3",
+    "audio_src": "tts"
    },
    {
     "id": "B4LZ-&A:_;",
@@ -701,7 +885,10 @@ window.VAO_UNITS = [
     "roman": "phohvaa / nyohn vaa",
     "lao": "ເພາະວ່າ / ຍ້ອນວ່າ",
     "img": "lao-L1-s054.jpg",
-    "note": null
+    "note": null,
+    "key": "e1ac0f5f1e1b",
+    "audio": "tts/e1ac0f5f1e1b.mp3",
+    "audio_src": "tts"
    },
    {
     "id": "w@HKq}`L~L",
@@ -709,7 +896,10 @@ window.VAO_UNITS = [
     "roman": "mak",
     "lao": "ມັກ",
     "img": "lao-L1-s040.jpg",
-    "note": null
+    "note": null,
+    "key": "4403d287f1dd",
+    "audio": "tts/4403d287f1dd.mp3",
+    "audio_src": "tts"
    },
    {
     "id": "zRl2{1NJCF",
@@ -717,7 +907,10 @@ window.VAO_UNITS = [
     "roman": "mee",
     "lao": "ມີ",
     "img": "lao-L1-s017.jpg",
-    "note": null
+    "note": null,
+    "key": "7ddfb046460f",
+    "audio": "tts/7ddfb046460f.mp3",
+    "audio_src": "tts"
    },
    {
     "id": "d!bc_jo)-0",
@@ -725,7 +918,10 @@ window.VAO_UNITS = [
     "roman": "hooseuk",
     "lao": "ຮູ້ສຶກ",
     "img": "lao-L1-s044.jpg",
-    "note": null
+    "note": null,
+    "key": "c78ec5d42b28",
+    "audio": "tts/c78ec5d42b28.mp3",
+    "audio_src": "tts"
    },
    {
     "id": "Az3Wt?+@s+",
@@ -734,6 +930,9 @@ window.VAO_UNITS = [
     "lao": "ເຈົ້າຮູ້ສຶກແນວໃດ?",
     "img": "lao-L1-s044.jpg",
     "note": null,
+    "key": "386a2df39840",
+    "audio": "tts/386a2df39840.mp3",
+    "audio_src": "tts",
     "tiles": [
      "ເຈົ້າ",
      "ຮູ້ສຶກ",
@@ -747,6 +946,9 @@ window.VAO_UNITS = [
     "lao": "ເປັນແນວໃດ?",
     "img": "lao-L1-s044.jpg",
     "note": null,
+    "key": "53be7f8b686d",
+    "audio": "tts/53be7f8b686d.mp3",
+    "audio_src": "tts",
     "tiles": [
      "ເປັນ",
      "ແນວໃດ?"
@@ -759,6 +961,9 @@ window.VAO_UNITS = [
     "lao": "ຄືເກົ່າ",
     "img": "lao-L1-s044.jpg",
     "note": null,
+    "key": "b17591fa4c5d",
+    "audio": "tts/b17591fa4c5d.mp3",
+    "audio_src": "tts",
     "tiles": [
      "ຄື",
      "ເກົ່າ"
@@ -770,7 +975,10 @@ window.VAO_UNITS = [
     "roman": "heew",
     "lao": "ຫິວ",
     "img": "lao-L1-s015.jpg",
-    "note": null
+    "note": null,
+    "key": "8f5c9348d715",
+    "audio": "tts/8f5c9348d715.mp3",
+    "audio_src": "tts"
    },
    {
     "id": "dHC)TOI6#^",
@@ -778,7 +986,10 @@ window.VAO_UNITS = [
     "roman": "eem",
     "lao": "ອິ່ມ",
     "img": "lao-L1-s044.jpg",
-    "note": null
+    "note": null,
+    "key": "6aa2da6451d5",
+    "audio": "tts/6aa2da6451d5.mp3",
+    "audio_src": "tts"
    },
    {
     "id": "v}|Q604n*;",
@@ -786,7 +997,10 @@ window.VAO_UNITS = [
     "roman": "deejai",
     "lao": "ດີໃຈ",
     "img": "lao-L1-s044.jpg",
-    "note": "lit. good heart"
+    "note": "lit. good heart",
+    "key": "82d5d42952c5",
+    "audio": "tts/82d5d42952c5.mp3",
+    "audio_src": "tts"
    },
    {
     "id": "udj+bCvh_<",
@@ -794,7 +1008,10 @@ window.VAO_UNITS = [
     "roman": "siajai",
     "lao": "ເສຍໃຈ",
     "img": null,
-    "note": "sia = to lose, to pass away"
+    "note": "sia = to lose, to pass away",
+    "key": "459b784597fb",
+    "audio": "tts/459b784597fb.mp3",
+    "audio_src": "tts"
    },
    {
     "id": "DU_Pn0$?,)",
@@ -802,7 +1019,10 @@ window.VAO_UNITS = [
     "roman": "jai haai",
     "lao": "ໃຈຮ້າຍ",
     "img": "lao-L1-s044.jpg",
-    "note": "haai = to scold"
+    "note": "haai = to scold",
+    "key": "0bbc58b4cbe9",
+    "audio": "tts/0bbc58b4cbe9.mp3",
+    "audio_src": "tts"
    },
    {
     "id": "O!B,hy5%(<",
@@ -811,6 +1031,9 @@ window.VAO_UNITS = [
     "lao": "ຕື່ນເຕັ້ນ",
     "img": "lao-L1-s054.jpg",
     "note": "teun = wake up, ten = dance",
+    "key": "a964e2c23d80",
+    "audio": "tts/a964e2c23d80.mp3",
+    "audio_src": "tts",
     "tiles": [
      "ຕື່ນ",
      "ເຕັ້ນ"
@@ -822,7 +1045,10 @@ window.VAO_UNITS = [
     "roman": "phoomjai",
     "lao": "ພູມໃຈ",
     "img": "lao-L1-s044.jpg",
-    "note": null
+    "note": null,
+    "key": "79d95baaa8c9",
+    "audio": "tts/79d95baaa8c9.mp3",
+    "audio_src": "tts"
    },
    {
     "id": "qYIQVR^XhQ",
@@ -830,7 +1056,10 @@ window.VAO_UNITS = [
     "roman": "tokjai",
     "lao": "ຕົກໃຈ",
     "img": null,
-    "note": "tok = to fall"
+    "note": "tok = to fall",
+    "key": "f355f454622f",
+    "audio": "tts/f355f454622f.mp3",
+    "audio_src": "tts"
    },
    {
     "id": "mgbeJXM7A5",
@@ -838,7 +1067,10 @@ window.VAO_UNITS = [
     "roman": "meuaai",
     "lao": "ເມື່ອຍ",
     "img": "lao-L1-s044.jpg",
-    "note": null
+    "note": null,
+    "key": "490941700119",
+    "audio": "tts/490941700119.mp3",
+    "audio_src": "tts"
    },
    {
     "id": "i3I`!L>G$&",
@@ -846,7 +1078,10 @@ window.VAO_UNITS = [
     "roman": "khee diad",
     "lao": "ຂີ້ດຽດ",
     "img": "lao-L1-s044.jpg",
-    "note": null
+    "note": null,
+    "key": "495dc93872c3",
+    "audio": "tts/495dc93872c3.mp3",
+    "audio_src": "tts"
    },
    {
     "id": "u{L|rE*trx",
@@ -854,7 +1089,10 @@ window.VAO_UNITS = [
     "roman": "ngao nohn",
     "lao": "ເຫງົານອນ",
     "img": "lao-L1-s044.jpg",
-    "note": null
+    "note": null,
+    "key": "d3a561b44fca",
+    "audio": "tts/d3a561b44fca.mp3",
+    "audio_src": "tts"
    },
    {
     "id": "e$6hJyQkI(",
@@ -862,7 +1100,10 @@ window.VAO_UNITS = [
     "roman": "yaan",
     "lao": "ຢ້ານ",
     "img": "lao-L1-s044.jpg",
-    "note": null
+    "note": null,
+    "key": "6b393a016f38",
+    "audio": "tts/6b393a016f38.mp3",
+    "audio_src": "tts"
    },
    {
     "id": "d1=j^zmfd7",
@@ -871,6 +1112,9 @@ window.VAO_UNITS = [
     "lao": "ເປັນໄຂ້",
     "img": "lao-L1-s044.jpg",
     "note": null,
+    "key": "0df7c558c336",
+    "audio": "tts/0df7c558c336.mp3",
+    "audio_src": "tts",
     "tiles": [
      "ເປັນ",
      "ໄຂ້"
@@ -882,7 +1126,10 @@ window.VAO_UNITS = [
     "roman": "hak der",
     "lao": "ຮັກເດີ້",
     "img": "lao-L1-s045.jpg",
-    "note": "khoi hak jao = I love you"
+    "note": "khoi hak jao = I love you",
+    "key": "641d4207ef0c",
+    "audio": "tts/641d4207ef0c.mp3",
+    "audio_src": "tts"
    },
    {
     "id": "pJ+pJ}gt]3",
@@ -890,7 +1137,10 @@ window.VAO_UNITS = [
     "roman": "khid hohd der",
     "lao": "ຄິດຮອດເດີ້",
     "img": "lao-L1-s046.jpg",
-    "note": "khoi khid hohd jao = I miss you"
+    "note": "khoi khid hohd jao = I miss you",
+    "key": "b8ad805370d3",
+    "audio": "tts/b8ad805370d3.mp3",
+    "audio_src": "tts"
    },
    {
     "id": "rkD~&l<mWC",
@@ -898,7 +1148,10 @@ window.VAO_UNITS = [
     "roman": "khoi hooseuk __",
     "lao": "ຂ້ອຍຮູ້ສຶກ__",
     "img": "lao-L1-s044.jpg",
-    "note": null
+    "note": null,
+    "key": "2267c324b989",
+    "audio": "tts/2267c324b989.mp3",
+    "audio_src": "tts"
    }
   ],
   "lessons": [
@@ -952,7 +1205,10 @@ window.VAO_UNITS = [
     "roman": "soon",
     "lao": "ສູນ",
     "img": "lao-L1-s047.jpg",
-    "note": null
+    "note": null,
+    "key": "f023bbdda9b1",
+    "audio": "tts/f023bbdda9b1.mp3",
+    "audio_src": "tts"
    },
    {
     "id": "m?@=H594aS",
@@ -960,7 +1216,10 @@ window.VAO_UNITS = [
     "roman": "neung",
     "lao": "ໜຶ່ງ",
     "img": "lao-L1-s047.jpg",
-    "note": null
+    "note": null,
+    "key": "7d39d5b74985",
+    "audio": "tts/7d39d5b74985.mp3",
+    "audio_src": "tts"
    },
    {
     "id": "zVy-lAaG+U",
@@ -968,7 +1227,10 @@ window.VAO_UNITS = [
     "roman": "song",
     "lao": "ສອງ",
     "img": "lao-L1-s047.jpg",
-    "note": null
+    "note": null,
+    "key": "0633192b4c0e",
+    "audio": "tts/0633192b4c0e.mp3",
+    "audio_src": "tts"
    },
    {
     "id": "hE!o/A^mhL",
@@ -976,7 +1238,10 @@ window.VAO_UNITS = [
     "roman": "saam",
     "lao": "ສາມ",
     "img": "lao-L1-s047.jpg",
-    "note": null
+    "note": null,
+    "key": "edde16f40892",
+    "audio": "tts/edde16f40892.mp3",
+    "audio_src": "tts"
    },
    {
     "id": "f%JvN<^~CT",
@@ -984,7 +1249,10 @@ window.VAO_UNITS = [
     "roman": "see",
     "lao": "ສີ່",
     "img": "lao-L1-s047.jpg",
-    "note": null
+    "note": null,
+    "key": "80f4bc24f6ac",
+    "audio": "tts/80f4bc24f6ac.mp3",
+    "audio_src": "tts"
    },
    {
     "id": "mDo{(/3[RE",
@@ -992,7 +1260,10 @@ window.VAO_UNITS = [
     "roman": "haa",
     "lao": "ຫ້າ",
     "img": "lao-L1-s047.jpg",
-    "note": null
+    "note": null,
+    "key": "23425696a3cf",
+    "audio": "tts/23425696a3cf.mp3",
+    "audio_src": "tts"
    },
    {
     "id": "A_NbauEO=0",
@@ -1000,7 +1271,10 @@ window.VAO_UNITS = [
     "roman": "hok",
     "lao": "ຫົກ",
     "img": "lao-L1-s047.jpg",
-    "note": null
+    "note": null,
+    "key": "618977148553",
+    "audio": "tts/618977148553.mp3",
+    "audio_src": "tts"
    },
    {
     "id": "5MZFkp>An",
@@ -1008,7 +1282,10 @@ window.VAO_UNITS = [
     "roman": "jed",
     "lao": "ເຈັດ",
     "img": "lao-L1-s047.jpg",
-    "note": null
+    "note": null,
+    "key": "3aa3583cc633",
+    "audio": "tts/3aa3583cc633.mp3",
+    "audio_src": "tts"
    },
    {
     "id": "N>0F)rak+>",
@@ -1016,7 +1293,10 @@ window.VAO_UNITS = [
     "roman": "paed",
     "lao": "ແປດ",
     "img": "lao-L1-s047.jpg",
-    "note": null
+    "note": null,
+    "key": "d39448c380d0",
+    "audio": "tts/d39448c380d0.mp3",
+    "audio_src": "tts"
    },
    {
     "id": "p.Xo|k0Z/(",
@@ -1024,7 +1304,10 @@ window.VAO_UNITS = [
     "roman": "kao",
     "lao": "ເກົ້າ",
     "img": "lao-L1-s047.jpg",
-    "note": null
+    "note": null,
+    "key": "ce573e8766f6",
+    "audio": "tts/ce573e8766f6.mp3",
+    "audio_src": "tts"
    },
    {
     "id": "KqNb40j^<c",
@@ -1032,7 +1315,10 @@ window.VAO_UNITS = [
     "roman": "sib",
     "lao": "ສິບ",
     "img": "lao-L1-s047.jpg",
-    "note": null
+    "note": null,
+    "key": "df7084d0c831",
+    "audio": "tts/df7084d0c831.mp3",
+    "audio_src": "tts"
    },
    {
     "id": "Bt@XbWWQRq",
@@ -1041,6 +1327,9 @@ window.VAO_UNITS = [
     "lao": "ສິບເອັດ",
     "img": "lao-L1-s047.jpg",
     "note": "exception: ed not neung",
+    "key": "b48f73b46f5c",
+    "audio": "tts/b48f73b46f5c.mp3",
+    "audio_src": "tts",
     "tiles": [
      "ສິບ",
      "ເອັດ"
@@ -1052,7 +1341,10 @@ window.VAO_UNITS = [
     "roman": "saao",
     "lao": "ຊາວ",
     "img": "lao-L1-s048.jpg",
-    "note": null
+    "note": null,
+    "key": "816acbb7518a",
+    "audio": "tts/816acbb7518a.mp3",
+    "audio_src": "tts"
    },
    {
     "id": "g5^!X8mBrh",
@@ -1061,6 +1353,9 @@ window.VAO_UNITS = [
     "lao": "ສາມສິບ",
     "img": "lao-L1-s048.jpg",
     "note": "lit. three-ten",
+    "key": "aa0e6451bdd7",
+    "audio": "tts/aa0e6451bdd7.mp3",
+    "audio_src": "tts",
     "tiles": [
      "ສາມ",
      "ສິບ"
@@ -1072,7 +1367,10 @@ window.VAO_UNITS = [
     "roman": "loy",
     "lao": "ຮ້ອຍ",
     "img": "lao-L1-s048.jpg",
-    "note": null
+    "note": null,
+    "key": "4642807a12aa",
+    "audio": "tts/4642807a12aa.mp3",
+    "audio_src": "tts"
    },
    {
     "id": "K`W->,G@Xk",
@@ -1080,7 +1378,10 @@ window.VAO_UNITS = [
     "roman": "phan",
     "lao": "ພັນ",
     "img": "lao-L1-s068.jpg",
-    "note": null
+    "note": null,
+    "key": "646706d22659",
+    "audio": "tts/646706d22659.mp3",
+    "audio_src": "tts"
    },
    {
     "id": "O(>fWw7}65",
@@ -1088,7 +1389,10 @@ window.VAO_UNITS = [
     "roman": "saen",
     "lao": "ແສນ",
     "img": "lao-L1-s068.jpg",
-    "note": null
+    "note": null,
+    "key": "484fbfb0d547",
+    "audio": "tts/484fbfb0d547.mp3",
+    "audio_src": "tts"
    },
    {
     "id": "JaZFMev8Pe",
@@ -1096,7 +1400,10 @@ window.VAO_UNITS = [
     "roman": "laan",
     "lao": "ລ້ານ",
     "img": "lao-L1-s068.jpg",
-    "note": null
+    "note": null,
+    "key": "b3927898b21a",
+    "audio": "tts/b3927898b21a.mp3",
+    "audio_src": "tts"
    },
    {
     "id": "MlfdlPk[?<",
@@ -1104,7 +1411,10 @@ window.VAO_UNITS = [
     "roman": "jak __?",
     "lao": "ຈັກ__?",
     "img": "lao-L1-s049.jpg",
-    "note": null
+    "note": null,
+    "key": "2e2baafaf8ab",
+    "audio": "tts/2e2baafaf8ab.mp3",
+    "audio_src": "tts"
    },
    {
     "id": "p_S?Yg1c5U",
@@ -1112,7 +1422,10 @@ window.VAO_UNITS = [
     "roman": "jak an?",
     "lao": "ຈັກອັນ?",
     "img": "lao-L1-s049.jpg",
-    "note": null
+    "note": null,
+    "key": "d99f6b58bbd8",
+    "audio": "tts/d99f6b58bbd8.mp3",
+    "audio_src": "tts"
    },
    {
     "id": "Cs:)Xk_QQe",
@@ -1121,6 +1434,9 @@ window.VAO_UNITS = [
     "lao": "ຈັກຄົນ?",
     "img": "lao-L1-s049.jpg",
     "note": null,
+    "key": "03b7450ca8d6",
+    "audio": "tts/03b7450ca8d6.mp3",
+    "audio_src": "tts",
     "tiles": [
      "ຈັກ",
      "ຄົນ?"
@@ -1133,6 +1449,9 @@ window.VAO_UNITS = [
     "lao": "ຈັກໂຕ?",
     "img": "lao-L1-s049.jpg",
     "note": "to = animals/bodies",
+    "key": "191a9b62ea4c",
+    "audio": "tts/191a9b62ea4c.mp3",
+    "audio_src": "tts",
     "tiles": [
      "ຈັກ",
      "ໂຕ?"
@@ -1144,7 +1463,10 @@ window.VAO_UNITS = [
     "roman": "diaonee",
     "lao": "ດຽວນີ້",
     "img": "lao-L1-s051.jpg",
-    "note": null
+    "note": null,
+    "key": "2a9ba295b9b8",
+    "audio": "tts/2a9ba295b9b8.mp3",
+    "audio_src": "tts"
    },
    {
     "id": "Q/]#Pk?gC%",
@@ -1153,6 +1475,9 @@ window.VAO_UNITS = [
     "lao": "ດຽວນີ້ຈັກໂມງ?",
     "img": "lao-L1-s051.jpg",
     "note": "lit. how many o'clock",
+    "key": "1c89ce86cae2",
+    "audio": "tts/1c89ce86cae2.mp3",
+    "audio_src": "tts",
     "tiles": [
      "ດຽວນີ້",
      "ຈັກ",
@@ -1166,6 +1491,9 @@ window.VAO_UNITS = [
     "lao": "ມື້ນີ້ວັນຫຍັງ?",
     "img": "lao-L1-s052.jpg",
     "note": null,
+    "key": "c0d64ccaa40c",
+    "audio": "tts/c0d64ccaa40c.mp3",
+    "audio_src": "tts",
     "tiles": [
      "ມື້ນີ້",
      "ວັນ",
@@ -1179,6 +1507,9 @@ window.VAO_UNITS = [
     "lao": "ວັນຈັນ",
     "img": "lao-L1-s052.jpg",
     "note": null,
+    "key": "55a30ceed079",
+    "audio": "tts/55a30ceed079.mp3",
+    "audio_src": "tts",
     "tiles": [
      "ວັນ",
      "ຈັນ"
@@ -1190,7 +1521,10 @@ window.VAO_UNITS = [
     "roman": "van angkhaan / van khaan",
     "lao": "ວັນອັງຄານ",
     "img": "lao-L1-s052.jpg",
-    "note": null
+    "note": null,
+    "key": "46d2c1cbc14a",
+    "audio": "tts/46d2c1cbc14a.mp3",
+    "audio_src": "tts"
    },
    {
     "id": "J})V2|kA@/",
@@ -1199,6 +1533,9 @@ window.VAO_UNITS = [
     "lao": "ວັນພຸດ",
     "img": "lao-L1-s052.jpg",
     "note": null,
+    "key": "585ef7b2b2b6",
+    "audio": "tts/585ef7b2b2b6.mp3",
+    "audio_src": "tts",
     "tiles": [
      "ວັນ",
      "ພຸດ"
@@ -1210,7 +1547,10 @@ window.VAO_UNITS = [
     "roman": "van phahad",
     "lao": "ວັນພະຫັດ",
     "img": "lao-L1-s052.jpg",
-    "note": null
+    "note": null,
+    "key": "80d7c1f80ac5",
+    "audio": "tts/80d7c1f80ac5.mp3",
+    "audio_src": "tts"
    },
    {
     "id": "jxh*[|ic@F",
@@ -1218,7 +1558,10 @@ window.VAO_UNITS = [
     "roman": "van sook",
     "lao": "ວັນສຸກ",
     "img": "lao-L1-s052.jpg",
-    "note": "sook = happy"
+    "note": "sook = happy",
+    "key": "7758f1c115e8",
+    "audio": "tts/7758f1c115e8.mp3",
+    "audio_src": "tts"
    },
    {
     "id": "N86cneY2&$",
@@ -1227,6 +1570,9 @@ window.VAO_UNITS = [
     "lao": "ວັນເສົາ",
     "img": "lao-L1-s052.jpg",
     "note": null,
+    "key": "d58f1d32da75",
+    "audio": "tts/d58f1d32da75.mp3",
+    "audio_src": "tts",
     "tiles": [
      "ວັນ",
      "ເສົາ"
@@ -1239,6 +1585,9 @@ window.VAO_UNITS = [
     "lao": "ວັນອາທິດ",
     "img": "lao-L1-s052.jpg",
     "note": "aathid = sun, week",
+    "key": "144713668520",
+    "audio": "tts/144713668520.mp3",
+    "audio_src": "tts",
     "tiles": [
      "ວັນ",
      "ອາທິດ"
@@ -1250,7 +1599,10 @@ window.VAO_UNITS = [
     "roman": "tohn sao",
     "lao": "ຕອນເຊົ້າ",
     "img": "lao-L1-s066.jpg",
-    "note": "tohn = in the / when / at"
+    "note": "tohn = in the / when / at",
+    "key": "57cb6c023488",
+    "audio": "tts/57cb6c023488.mp3",
+    "audio_src": "tts"
    },
    {
     "id": "r,nd>w<GL=",
@@ -1258,7 +1610,10 @@ window.VAO_UNITS = [
     "roman": "tohn thiaang",
     "lao": "ຕອນທ່ຽງ",
     "img": "lao-L1-s066.jpg",
-    "note": null
+    "note": null,
+    "key": "7627c276432d",
+    "audio": "tts/7627c276432d.mp3",
+    "audio_src": "tts"
    },
    {
     "id": "I>&L*<*x})",
@@ -1266,7 +1621,10 @@ window.VAO_UNITS = [
     "roman": "tohn sooai",
     "lao": "ຕອນສວາຍ",
     "img": "lao-L1-s067.jpg",
-    "note": null
+    "note": null,
+    "key": "09030eec2480",
+    "audio": "tts/09030eec2480.mp3",
+    "audio_src": "tts"
    },
    {
     "id": "Q4JV*P~sRZ",
@@ -1274,7 +1632,10 @@ window.VAO_UNITS = [
     "roman": "tohn laeng",
     "lao": "ຕອນແລງ",
     "img": "lao-L1-s066.jpg",
-    "note": null
+    "note": null,
+    "key": "451517a12af0",
+    "audio": "tts/451517a12af0.mp3",
+    "audio_src": "tts"
    },
    {
     "id": "D*#`2k7R;0",
@@ -1282,7 +1643,10 @@ window.VAO_UNITS = [
     "roman": "deuan",
     "lao": "ເດືອນ",
     "img": null,
-    "note": null
+    "note": null,
+    "key": "311b5f9d4e8d",
+    "audio": "tts/311b5f9d4e8d.mp3",
+    "audio_src": "tts"
    },
    {
     "id": "NV}B[Y`2;O",
@@ -1290,7 +1654,10 @@ window.VAO_UNITS = [
     "roman": "pee",
     "lao": "ປີ",
     "img": "lao-L1-s085.jpg",
-    "note": null
+    "note": null,
+    "key": "350c0d122284",
+    "audio": "tts/350c0d122284.mp3",
+    "audio_src": "tts"
    },
    {
     "id": "I,(Kbi)eJN",
@@ -1298,7 +1665,10 @@ window.VAO_UNITS = [
     "roman": "vanthee",
     "lao": "ວັນທີ",
     "img": "lao-L1-s086.jpg",
-    "note": null
+    "note": null,
+    "key": "56da5eeeba85",
+    "audio": "tts/56da5eeeba85.mp3",
+    "audio_src": "tts"
    },
    {
     "id": "KjReC^|p%J",
@@ -1307,6 +1677,9 @@ window.VAO_UNITS = [
     "lao": "ອາທິດໜ້າ",
     "img": null,
     "note": null,
+    "key": "a265161503eb",
+    "audio": "tts/a265161503eb.mp3",
+    "audio_src": "tts",
     "tiles": [
      "ອາທິດ",
      "ໜ້າ"
@@ -1318,7 +1691,10 @@ window.VAO_UNITS = [
     "roman": "teun",
     "lao": "ຕື່ນ",
     "img": "lao-L1-s044.jpg",
-    "note": null
+    "note": null,
+    "key": "70bbe15441d8",
+    "audio": "tts/70bbe15441d8.mp3",
+    "audio_src": "tts"
    },
    {
     "id": "et}(Wm580M",
@@ -1327,6 +1703,9 @@ window.VAO_UNITS = [
     "lao": "ເຮັດກິນ",
     "img": "lao-L1-s053.jpg",
     "note": "hed laab kin = cook laab",
+    "key": "37bf5966e432",
+    "audio": "tts/37bf5966e432.mp3",
+    "audio_src": "tts",
     "tiles": [
      "ເຮັດ",
      "ກິນ"
@@ -1338,7 +1717,10 @@ window.VAO_UNITS = [
     "roman": "kin",
     "lao": "ກິນ",
     "img": "lao-L1-s014.jpg",
-    "note": null
+    "note": null,
+    "key": "ed96a1eae0b0",
+    "audio": "tts/ed96a1eae0b0.mp3",
+    "audio_src": "tts"
    },
    {
     "id": "ltkEZYxR1D",
@@ -1346,7 +1728,10 @@ window.VAO_UNITS = [
     "roman": "deum / kin (informal)",
     "lao": "ດື່ມ",
     "img": "lao-L1-s053.jpg",
-    "note": null
+    "note": null,
+    "key": "ab0eef52b79f",
+    "audio": "tts/ab0eef52b79f.mp3",
+    "audio_src": "tts"
    },
    {
     "id": "Jf6UIr:Wk%",
@@ -1354,7 +1739,10 @@ window.VAO_UNITS = [
     "roman": "hian",
     "lao": "ຮຽນ",
     "img": "lao-L1-s025.jpg",
-    "note": "hian phaasaa Lao"
+    "note": "hian phaasaa Lao",
+    "key": "c04cc6532eb8",
+    "audio": "tts/c04cc6532eb8.mp3",
+    "audio_src": "tts"
    },
    {
     "id": "cMi#Kdmqkk",
@@ -1363,6 +1751,9 @@ window.VAO_UNITS = [
     "lao": "ເຮັດວຽກ",
     "img": null,
     "note": null,
+    "key": "4e9a3fe8f433",
+    "audio": "tts/4e9a3fe8f433.mp3",
+    "audio_src": "tts",
     "tiles": [
      "ເຮັດ",
      "ວຽກ"
@@ -1375,6 +1766,9 @@ window.VAO_UNITS = [
     "lao": "ເຮັດວຽກບ້ານ",
     "img": "lao-L1-s053.jpg",
     "note": null,
+    "key": "c82712f8f92d",
+    "audio": "tts/c82712f8f92d.mp3",
+    "audio_src": "tts",
     "tiles": [
      "ເຮັດວຽກ",
      "ບ້ານ"
@@ -1386,7 +1780,10 @@ window.VAO_UNITS = [
     "roman": "nohn",
     "lao": "ນອນ",
     "img": "lao-L1-s044.jpg",
-    "note": "pai nohn = go to sleep"
+    "note": "pai nohn = go to sleep",
+    "key": "6563ce17b0b7",
+    "audio": "tts/6563ce17b0b7.mp3",
+    "audio_src": "tts"
    },
    {
     "id": "gxT${zN$|7",
@@ -1395,6 +1792,9 @@ window.VAO_UNITS = [
     "lao": "ສິບພັນ",
     "img": "lao-L1-s068.jpg",
     "note": "lit. ten thousand; 21,000 = saao ed phan",
+    "key": "55c1bf02d29b",
+    "audio": "tts/55c1bf02d29b.mp3",
+    "audio_src": "tts",
     "tiles": [
      "ສິບ",
      "ພັນ"
@@ -1407,6 +1807,9 @@ window.VAO_UNITS = [
     "lao": "ຈັກປີ?",
     "img": "lao-L1-s049.jpg",
     "note": null,
+    "key": "2ea61b558be4",
+    "audio": "tts/2ea61b558be4.mp3",
+    "audio_src": "tts",
     "tiles": [
      "ຈັກ",
      "ປີ?"
@@ -1419,6 +1822,9 @@ window.VAO_UNITS = [
     "lao": "ຈັກພາສາ?",
     "img": "lao-L1-s049.jpg",
     "note": null,
+    "key": "232123cf65c0",
+    "audio": "tts/232123cf65c0.mp3",
+    "audio_src": "tts",
     "tiles": [
      "ຈັກ",
      "ພາສາ?"
@@ -1431,6 +1837,9 @@ window.VAO_UNITS = [
     "lao": "ຈັກປະເທດ?",
     "img": "lao-L1-s049.jpg",
     "note": null,
+    "key": "891f2d45f378",
+    "audio": "tts/891f2d45f378.mp3",
+    "audio_src": "tts",
     "tiles": [
      "ຈັກ",
      "ປະເທດ?"
@@ -1443,6 +1852,9 @@ window.VAO_UNITS = [
     "lao": "ເດືອນມັງກອນ",
     "img": "lao-L1-s084.jpg",
     "note": "deuan 1",
+    "key": "7f3c066b4811",
+    "audio": "tts/7f3c066b4811.mp3",
+    "audio_src": "tts",
     "tiles": [
      "ເດືອນ",
      "ມັງກອນ"
@@ -1455,6 +1867,9 @@ window.VAO_UNITS = [
     "lao": "ເດືອນກຸມພາ",
     "img": "lao-L1-s084.jpg",
     "note": "deuan 2",
+    "key": "e45c128c13a4",
+    "audio": "tts/e45c128c13a4.mp3",
+    "audio_src": "tts",
     "tiles": [
      "ເດືອນ",
      "ກຸມພາ"
@@ -1467,6 +1882,9 @@ window.VAO_UNITS = [
     "lao": "ເດືອນມີນາ",
     "img": "lao-L1-s084.jpg",
     "note": "deuan 3",
+    "key": "dc8fa7f763f2",
+    "audio": "tts/dc8fa7f763f2.mp3",
+    "audio_src": "tts",
     "tiles": [
      "ເດືອນ",
      "ມີນາ"
@@ -1479,6 +1897,9 @@ window.VAO_UNITS = [
     "lao": "ເດືອນເມສາ",
     "img": "lao-L1-s084.jpg",
     "note": "deuan 4",
+    "key": "64cf1be8561c",
+    "audio": "tts/64cf1be8561c.mp3",
+    "audio_src": "tts",
     "tiles": [
      "ເດືອນ",
      "ເມສາ"
@@ -1491,6 +1912,9 @@ window.VAO_UNITS = [
     "lao": "ເດືອນພຶດສະພາ",
     "img": "lao-L1-s084.jpg",
     "note": "deuan 5",
+    "key": "64d89804a08f",
+    "audio": "tts/64d89804a08f.mp3",
+    "audio_src": "tts",
     "tiles": [
      "ເດືອນ",
      "ພຶດສະພາ"
@@ -1503,6 +1927,9 @@ window.VAO_UNITS = [
     "lao": "ເດືອນມິຖຸນາ",
     "img": "lao-L1-s084.jpg",
     "note": "deuan 6",
+    "key": "c92afc6f470d",
+    "audio": "tts/c92afc6f470d.mp3",
+    "audio_src": "tts",
     "tiles": [
      "ເດືອນ",
      "ມິຖຸນາ"
@@ -1515,6 +1942,9 @@ window.VAO_UNITS = [
     "lao": "ເດືອນກໍລະກົດ",
     "img": "lao-L1-s084.jpg",
     "note": "deuan 7",
+    "key": "89371a77a4f7",
+    "audio": "tts/89371a77a4f7.mp3",
+    "audio_src": "tts",
     "tiles": [
      "ເດືອນ",
      "ກໍລະກົດ"
@@ -1527,6 +1957,9 @@ window.VAO_UNITS = [
     "lao": "ເດືອນສິງຫາ",
     "img": "lao-L1-s084.jpg",
     "note": "deuan 8",
+    "key": "43743d701efc",
+    "audio": "tts/43743d701efc.mp3",
+    "audio_src": "tts",
     "tiles": [
      "ເດືອນ",
      "ສິງຫາ"
@@ -1539,6 +1972,9 @@ window.VAO_UNITS = [
     "lao": "ເດືອນກັນຍາ",
     "img": "lao-L1-s084.jpg",
     "note": "deuan 9",
+    "key": "dbe659e59620",
+    "audio": "tts/dbe659e59620.mp3",
+    "audio_src": "tts",
     "tiles": [
      "ເດືອນ",
      "ກັນຍາ"
@@ -1551,6 +1987,9 @@ window.VAO_UNITS = [
     "lao": "ເດືອນຕຸລາ",
     "img": "lao-L1-s084.jpg",
     "note": "deuan 10",
+    "key": "d8218109cb18",
+    "audio": "tts/d8218109cb18.mp3",
+    "audio_src": "tts",
     "tiles": [
      "ເດືອນ",
      "ຕຸລາ"
@@ -1563,6 +2002,9 @@ window.VAO_UNITS = [
     "lao": "ເດືອນພະຈິກ",
     "img": "lao-L1-s084.jpg",
     "note": "deuan 11",
+    "key": "54212fcd7f38",
+    "audio": "tts/54212fcd7f38.mp3",
+    "audio_src": "tts",
     "tiles": [
      "ເດືອນ",
      "ພະຈິກ"
@@ -1575,6 +2017,9 @@ window.VAO_UNITS = [
     "lao": "ເດືອນທັນວາ",
     "img": "lao-L1-s084.jpg",
     "note": "deuan 12",
+    "key": "4a5554d25445",
+    "audio": "tts/4a5554d25445.mp3",
+    "audio_src": "tts",
     "tiles": [
      "ເດືອນ",
      "ທັນວາ"
@@ -1681,7 +2126,10 @@ window.VAO_UNITS = [
     "roman": "see",
     "lao": "ສີ",
     "img": "lao-L1-s043.jpg",
-    "note": null
+    "note": null,
+    "key": "7c8dcde841ef",
+    "audio": "tts/7c8dcde841ef.mp3",
+    "audio_src": "tts"
    },
    {
     "id": "r/vc:(b|kJ",
@@ -1690,6 +2138,9 @@ window.VAO_UNITS = [
     "lao": "ສີແດງ",
     "img": "lao-L1-s088.jpg",
     "note": null,
+    "key": "7e102431fa15",
+    "audio": "tts/7e102431fa15.mp3",
+    "audio_src": "tts",
     "tiles": [
      "ສີ",
      "ແດງ"
@@ -1702,6 +2153,9 @@ window.VAO_UNITS = [
     "lao": "ສີເຫຼືອງ",
     "img": "lao-L1-s088.jpg",
     "note": "kham = gold",
+    "key": "985a3f635d8d",
+    "audio": "tts/985a3f635d8d.mp3",
+    "audio_src": "tts",
     "tiles": [
      "ສີ",
      "ເຫຼືອງ"
@@ -1714,6 +2168,9 @@ window.VAO_UNITS = [
     "lao": "ສີຟ້າ",
     "img": "lao-L1-s088.jpg",
     "note": "faa = sky",
+    "key": "802f077e776d",
+    "audio": "tts/802f077e776d.mp3",
+    "audio_src": "tts",
     "tiles": [
      "ສີ",
      "ຟ້າ"
@@ -1726,6 +2183,9 @@ window.VAO_UNITS = [
     "lao": "ສີສົ້ມ",
     "img": "lao-L1-s043.jpg",
     "note": "also see maak kiang",
+    "key": "77e0001d7fab",
+    "audio": "tts/77e0001d7fab.mp3",
+    "audio_src": "tts",
     "tiles": [
      "ສີ",
      "ສົ້ມ"
@@ -1738,6 +2198,9 @@ window.VAO_UNITS = [
     "lao": "ສີບົວ",
     "img": "lao-L1-s088.jpg",
     "note": null,
+    "key": "d5f71edb5ced",
+    "audio": "tts/d5f71edb5ced.mp3",
+    "audio_src": "tts",
     "tiles": [
      "ສີ",
      "ບົວ"
@@ -1750,6 +2213,9 @@ window.VAO_UNITS = [
     "lao": "ສີມ່ວງ",
     "img": "lao-L1-s088.jpg",
     "note": null,
+    "key": "c10a1e96de2f",
+    "audio": "tts/c10a1e96de2f.mp3",
+    "audio_src": "tts",
     "tiles": [
      "ສີ",
      "ມ່ວງ"
@@ -1762,6 +2228,9 @@ window.VAO_UNITS = [
     "lao": "ສີຂຽວ",
     "img": "lao-L1-s088.jpg",
     "note": null,
+    "key": "3db36b32cdcf",
+    "audio": "tts/3db36b32cdcf.mp3",
+    "audio_src": "tts",
     "tiles": [
      "ສີ",
      "ຂຽວ"
@@ -1774,6 +2243,9 @@ window.VAO_UNITS = [
     "lao": "ສີນ້ຳຕານ",
     "img": "lao-L1-s088.jpg",
     "note": "naam taan = sugar; also see cafe",
+    "key": "d71579b86434",
+    "audio": "tts/d71579b86434.mp3",
+    "audio_src": "tts",
     "tiles": [
      "ສີ",
      "ນ້ຳ",
@@ -1787,6 +2259,9 @@ window.VAO_UNITS = [
     "lao": "ສີດຳ",
     "img": "lao-L1-s088.jpg",
     "note": null,
+    "key": "513614ec84fb",
+    "audio": "tts/513614ec84fb.mp3",
+    "audio_src": "tts",
     "tiles": [
      "ສີ",
      "ດຳ"
@@ -1798,7 +2273,10 @@ window.VAO_UNITS = [
     "roman": "see thao",
     "lao": "ສີເທົາ",
     "img": "lao-L1-s088.jpg",
-    "note": null
+    "note": null,
+    "key": "0afe207b4bd2",
+    "audio": "tts/0afe207b4bd2.mp3",
+    "audio_src": "tts"
    },
    {
     "id": "gq^y6&FsSI",
@@ -1807,6 +2285,9 @@ window.VAO_UNITS = [
     "lao": "ສີຂາວ",
     "img": "lao-L1-s088.jpg",
     "note": null,
+    "key": "e8c7fa9cd278",
+    "audio": "tts/e8c7fa9cd278.mp3",
+    "audio_src": "tts",
     "tiles": [
      "ສີ",
      "ຂາວ"
@@ -1819,6 +2300,9 @@ window.VAO_UNITS = [
     "lao": "ໝາກໄມ້",
     "img": "lao-L1-s096.jpg",
     "note": null,
+    "key": "64cad751147b",
+    "audio": "tts/64cad751147b.mp3",
+    "audio_src": "tts",
     "tiles": [
      "ໝາກ",
      "ໄມ້"
@@ -1831,6 +2315,9 @@ window.VAO_UNITS = [
     "lao": "ໝາກມ່ວງ",
     "img": "lao-L1-s093.jpg",
     "note": null,
+    "key": "36b1bd3c0dfd",
+    "audio": "tts/36b1bd3c0dfd.mp3",
+    "audio_src": "tts",
     "tiles": [
      "ໝາກ",
      "ມ່ວງ"
@@ -1843,6 +2330,9 @@ window.VAO_UNITS = [
     "lao": "ໝາກພ້າວ",
     "img": "lao-L1-s093.jpg",
     "note": null,
+    "key": "9f5ebcc6fc4b",
+    "audio": "tts/9f5ebcc6fc4b.mp3",
+    "audio_src": "tts",
     "tiles": [
      "ໝາກ",
      "ພ້າວ"
@@ -1854,7 +2344,10 @@ window.VAO_UNITS = [
     "roman": "maak kiang",
     "lao": "ໝາກກ້ຽງ",
     "img": "lao-L1-s043.jpg",
-    "note": null
+    "note": null,
+    "key": "ebb42d425324",
+    "audio": "tts/ebb42d425324.mp3",
+    "audio_src": "tts"
    },
    {
     "id": "fAy<Q}q#vq",
@@ -1863,6 +2356,9 @@ window.VAO_UNITS = [
     "lao": "ໝາກກ້ວຍ",
     "img": "lao-L1-s093.jpg",
     "note": null,
+    "key": "716c0f73d87c",
+    "audio": "tts/716c0f73d87c.mp3",
+    "audio_src": "tts",
     "tiles": [
      "ໝາກ",
      "ກ້ວຍ"
@@ -1874,7 +2370,10 @@ window.VAO_UNITS = [
     "roman": "maak mo",
     "lao": "ໝາກໂມ",
     "img": "lao-L1-s093.jpg",
-    "note": null
+    "note": null,
+    "key": "17b35f2a8b7e",
+    "audio": "tts/17b35f2a8b7e.mp3",
+    "audio_src": "tts"
    },
    {
     "id": "q6E/6%/t}U",
@@ -1882,7 +2381,10 @@ window.VAO_UNITS = [
     "roman": "maak nad",
     "lao": "ໝາກນັດ",
     "img": "lao-L1-s093.jpg",
-    "note": null
+    "note": null,
+    "key": "d83bc53c560b",
+    "audio": "tts/d83bc53c560b.mp3",
+    "audio_src": "tts"
    },
    {
     "id": "C:7X<!5>3o",
@@ -1890,7 +2392,10 @@ window.VAO_UNITS = [
     "roman": "maak nohd",
     "lao": "ໝາກໜອດ",
     "img": "lao-L1-s093.jpg",
-    "note": null
+    "note": null,
+    "key": "4b502f2f61ff",
+    "audio": "tts/4b502f2f61ff.mp3",
+    "audio_src": "tts"
    },
    {
     "id": "k<=Q5r6K6q",
@@ -1899,6 +2404,9 @@ window.VAO_UNITS = [
     "lao": "ໝາກມັງກອນ",
     "img": "lao-L1-s093.jpg",
     "note": null,
+    "key": "df06925e75a2",
+    "audio": "tts/df06925e75a2.mp3",
+    "audio_src": "tts",
     "tiles": [
      "ໝາກ",
      "ມັງກອນ"
@@ -1910,7 +2418,10 @@ window.VAO_UNITS = [
     "roman": "maak mangkhood",
     "lao": "ໝາກມັງຄຸດ",
     "img": "lao-L1-s093.jpg",
-    "note": null
+    "note": null,
+    "key": "9efad06d7da7",
+    "audio": "tts/9efad06d7da7.mp3",
+    "audio_src": "tts"
    },
    {
     "id": "Ldf_R,ge2Q",
@@ -1918,7 +2429,10 @@ window.VAO_UNITS = [
     "roman": "maak sidaa",
     "lao": "ໝາກສີດາ",
     "img": "lao-L1-w093-09.jpg",
-    "note": null
+    "note": null,
+    "key": "a15e0ee50155",
+    "audio": "tts/a15e0ee50155.mp3",
+    "audio_src": "tts"
    },
    {
     "id": "k/$^v;Z8PF",
@@ -1926,7 +2440,10 @@ window.VAO_UNITS = [
     "roman": "maak lam-nyai",
     "lao": "ໝາກລຳໄຍ",
     "img": "lao-L1-s093.jpg",
-    "note": null
+    "note": null,
+    "key": "4d5529ae0c86",
+    "audio": "tts/4d5529ae0c86.mp3",
+    "audio_src": "tts"
    },
    {
     "id": "Q,uBhKgDW}",
@@ -1934,7 +2451,10 @@ window.VAO_UNITS = [
     "roman": "maak ngoh",
     "lao": "ໝາກເງາະ",
     "img": "lao-L1-s093.jpg",
-    "note": null
+    "note": null,
+    "key": "e95dcf9c4c6c",
+    "audio": "tts/e95dcf9c4c6c.mp3",
+    "audio_src": "tts"
    },
    {
     "id": "j!;K0.bR6q",
@@ -1942,7 +2462,10 @@ window.VAO_UNITS = [
     "roman": "maak linchee",
     "lao": "ໝາກລິ້ນຈີ່",
     "img": "lao-L1-s093.jpg",
-    "note": null
+    "note": null,
+    "key": "bf28225cc96c",
+    "audio": "tts/bf28225cc96c.mp3",
+    "audio_src": "tts"
    },
    {
     "id": "PHkB-(8M]p",
@@ -1950,7 +2473,10 @@ window.VAO_UNITS = [
     "roman": "jeow",
     "lao": "ແຈ່ວ",
     "img": "lao-L1-s090.jpg",
-    "note": "jeow padaek = fermented fish sauce"
+    "note": "jeow padaek = fermented fish sauce",
+    "key": "59664c44e88f",
+    "audio": "tts/59664c44e88f.mp3",
+    "audio_src": "tts"
    },
    {
     "id": "Ppka$(t9mc",
@@ -1958,7 +2484,10 @@ window.VAO_UNITS = [
     "roman": "maak naao",
     "lao": "ໝາກນາວ",
     "img": "lao-L1-s098.jpg",
-    "note": null
+    "note": null,
+    "key": "51f16543365a",
+    "audio": "tts/51f16543365a.mp3",
+    "audio_src": "tts"
    }
   ],
   "lessons": [
@@ -2013,7 +2542,10 @@ window.VAO_UNITS = [
     "roman": "naam",
     "lao": "ນ້ຳ",
     "img": "lao-L1-s096.jpg",
-    "note": null
+    "note": null,
+    "key": "2d0eeb820382",
+    "audio": "tts/2d0eeb820382.mp3",
+    "audio_src": "tts"
    },
    {
     "id": "o.bq)U?[Hh",
@@ -2022,6 +2554,9 @@ window.VAO_UNITS = [
     "lao": "ນ້ຳໝາກໄມ້",
     "img": "lao-L1-s096.jpg",
     "note": null,
+    "key": "22993a974885",
+    "audio": "tts/22993a974885.mp3",
+    "audio_src": "tts",
     "tiles": [
      "ນ້ຳ",
      "ໝາກ",
@@ -2035,6 +2570,9 @@ window.VAO_UNITS = [
     "lao": "ນ້ຳໝາກພ້າວ",
     "img": "lao-L1-s096.jpg",
     "note": null,
+    "key": "57976d89028f",
+    "audio": "tts/57976d89028f.mp3",
+    "audio_src": "tts",
     "tiles": [
      "ນ້ຳ",
      "ໝາກ",
@@ -2048,6 +2586,9 @@ window.VAO_UNITS = [
     "lao": "ນ້ຳອ້ອຍ",
     "img": "lao-L1-s096.jpg",
     "note": null,
+    "key": "7f90c07f1f3c",
+    "audio": "tts/7f90c07f1f3c.mp3",
+    "audio_src": "tts",
     "tiles": [
      "ນ້ຳ",
      "ອ້ອຍ"
@@ -2060,6 +2601,9 @@ window.VAO_UNITS = [
     "lao": "ກາເຟເຢັນ",
     "img": "lao-L1-w098-11.jpg",
     "note": null,
+    "key": "38d07cc3dbc6",
+    "audio": "tts/38d07cc3dbc6.mp3",
+    "audio_src": "tts",
     "tiles": [
      "ກາເຟ",
      "ເຢັນ"
@@ -2071,7 +2615,10 @@ window.VAO_UNITS = [
     "roman": "oliang",
     "lao": "ໂອລ້ຽງ",
     "img": "lao-L1-w098-12.jpg",
-    "note": null
+    "note": null,
+    "key": "14b1bc0f391c",
+    "audio": "tts/14b1bc0f391c.mp3",
+    "audio_src": "tts"
    },
    {
     "id": "cS8tzw:]~I",
@@ -2080,6 +2627,9 @@ window.VAO_UNITS = [
     "lao": "ຊານົມ",
     "img": "lao-L1-s098.jpg",
     "note": "nom = milk",
+    "key": "f25d52c250fe",
+    "audio": "tts/f25d52c250fe.mp3",
+    "audio_src": "tts",
     "tiles": [
      "ຊາ",
      "ນົມ"
@@ -2092,6 +2642,9 @@ window.VAO_UNITS = [
     "lao": "ຊາຂຽວ",
     "img": "lao-L1-w098-13.jpg",
     "note": null,
+    "key": "306817e90d64",
+    "audio": "tts/306817e90d64.mp3",
+    "audio_src": "tts",
     "tiles": [
      "ຊາ",
      "ຂຽວ"
@@ -2103,7 +2656,10 @@ window.VAO_UNITS = [
     "roman": "naam kohn / naam khaeng",
     "lao": "ນ້ຳກ້ອນ",
     "img": "lao-L1-s101.jpg",
-    "note": "kohn = chunk, khaeng = hard"
+    "note": "kohn = chunk, khaeng = hard",
+    "key": "787eb24c05bf",
+    "audio": "tts/787eb24c05bf.mp3",
+    "audio_src": "tts"
    },
    {
     "id": "c0nd-wAqyg",
@@ -2111,7 +2667,10 @@ window.VAO_UNITS = [
     "roman": "yen",
     "lao": "ເຢັນ",
     "img": "lao-L1-s098.jpg",
-    "note": null
+    "note": null,
+    "key": "6181fb116fe8",
+    "audio": "tts/6181fb116fe8.mp3",
+    "audio_src": "tts"
    },
    {
     "id": "bk1W}/.HEn",
@@ -2119,7 +2678,10 @@ window.VAO_UNITS = [
     "roman": "naao",
     "lao": "ໜາວ",
     "img": "lao-L1-s101.jpg",
-    "note": null
+    "note": null,
+    "key": "9c1e3079eba3",
+    "audio": "tts/9c1e3079eba3.mp3",
+    "audio_src": "tts"
    },
    {
     "id": "r+/k[3mG;~",
@@ -2127,7 +2689,10 @@ window.VAO_UNITS = [
     "roman": "oon",
     "lao": "ອຸ່ນ",
     "img": "lao-L1-s101.jpg",
-    "note": null
+    "note": null,
+    "key": "811f0ccbe1a5",
+    "audio": "tts/811f0ccbe1a5.mp3",
+    "audio_src": "tts"
    },
    {
     "id": "z0]?>n~1}Q",
@@ -2135,7 +2700,10 @@ window.VAO_UNITS = [
     "roman": "hohn",
     "lao": "ຮ້ອນ",
     "img": "lao-L1-s101.jpg",
-    "note": null
+    "note": null,
+    "key": "59867d60b403",
+    "audio": "tts/59867d60b403.mp3",
+    "audio_src": "tts"
    },
    {
     "id": "KPnn_Cf$u_",
@@ -2143,7 +2711,10 @@ window.VAO_UNITS = [
     "roman": "noi",
     "lao": "ນ້ອຍ",
     "img": "lao-L1-s102.jpg",
-    "note": null
+    "note": null,
+    "key": "759ae3809b74",
+    "audio": "tts/759ae3809b74.mp3",
+    "audio_src": "tts"
    },
    {
     "id": "JS@Pa=$%b%",
@@ -2151,7 +2722,10 @@ window.VAO_UNITS = [
     "roman": "kaang",
     "lao": "ກາງ",
     "img": "lao-L1-s102.jpg",
-    "note": null
+    "note": null,
+    "key": "b0668cfb83c1",
+    "audio": "tts/b0668cfb83c1.mp3",
+    "audio_src": "tts"
    },
    {
     "id": "F,YA.q73?9",
@@ -2159,7 +2733,10 @@ window.VAO_UNITS = [
     "roman": "nyai",
     "lao": "ໃຫຍ່",
     "img": "lao-L1-s098.jpg",
-    "note": null
+    "note": null,
+    "key": "892f6a2b0172",
+    "audio": "tts/892f6a2b0172.mp3",
+    "audio_src": "tts"
    },
    {
     "id": "e^FH<+H~ov",
@@ -2167,7 +2744,10 @@ window.VAO_UNITS = [
     "roman": "ahaan",
     "lao": "ອາຫານ",
     "img": "lao-L1-s015.jpg",
-    "note": null
+    "note": null,
+    "key": "c14c1542427e",
+    "audio": "tts/c14c1542427e.mp3",
+    "audio_src": "tts"
    },
    {
     "id": "hE_rL[FZ]-",
@@ -2175,7 +2755,10 @@ window.VAO_UNITS = [
     "roman": "khao",
     "lao": "ເຂົ້າ",
     "img": "lao-L1-s016.jpg",
-    "note": null
+    "note": null,
+    "key": "efe908f797b8",
+    "audio": "tts/efe908f797b8.mp3",
+    "audio_src": "tts"
    },
    {
     "id": "u8&9tLOFRs",
@@ -2184,6 +2767,9 @@ window.VAO_UNITS = [
     "lao": "ຕຳໝາກຫຸ່ງ",
     "img": "lao-L1-w106-14.jpg",
     "note": "tam = to pound; Thai: som tam",
+    "key": "abe730355a04",
+    "audio": "tts/abe730355a04.mp3",
+    "audio_src": "tts",
     "tiles": [
      "ຕຳ",
      "ໝາກ",
@@ -2196,7 +2782,10 @@ window.VAO_UNITS = [
     "roman": "laab",
     "lao": "ລາບ",
     "img": "lao-L1-w106-15.jpg",
-    "note": null
+    "note": null,
+    "key": "8fed24807e32",
+    "audio": "tts/8fed24807e32.mp3",
+    "audio_src": "tts"
    },
    {
     "id": "O!:0uAO_b-",
@@ -2205,6 +2794,9 @@ window.VAO_UNITS = [
     "lao": "ເຂົ້າປຽກເສັ້ນ",
     "img": "lao-L1-w106-16.jpg",
     "note": "piak = wet, sen = noodles",
+    "key": "b7ba5ac8a123",
+    "audio": "tts/b7ba5ac8a123.mp3",
+    "audio_src": "tts",
     "tiles": [
      "ເຂົ້າ",
      "ປຽກ",
@@ -2217,7 +2809,10 @@ window.VAO_UNITS = [
     "roman": "kaeng noh mai",
     "lao": "ແກງໜໍ່ໄມ້",
     "img": "lao-L1-w106-17.jpg",
-    "note": "kaeng = soup"
+    "note": "kaeng = soup",
+    "key": "a1d2cf736105",
+    "audio": "tts/a1d2cf736105.mp3",
+    "audio_src": "tts"
    },
    {
     "id": "NlRfk}0i<5",
@@ -2226,6 +2821,9 @@ window.VAO_UNITS = [
     "lao": "ເຂົ້າໜົມຄົກ",
     "img": "lao-L1-w107-20.jpg",
     "note": null,
+    "key": "c27567046ca3",
+    "audio": "tts/c27567046ca3.mp3",
+    "audio_src": "tts",
     "tiles": [
      "ເຂົ້າໜົມ",
      "ຄົກ"
@@ -2237,7 +2835,10 @@ window.VAO_UNITS = [
     "roman": "khao khob",
     "lao": "ເຂົ້າໂຄບ",
     "img": "lao-L1-w107-18.jpg",
-    "note": null
+    "note": null,
+    "key": "75cf5e8a68e0",
+    "audio": "tts/75cf5e8a68e0.mp3",
+    "audio_src": "tts"
    },
    {
     "id": "irYk;H&A1O",
@@ -2245,7 +2846,10 @@ window.VAO_UNITS = [
     "roman": "seen",
     "lao": "ຊີ້ນ",
     "img": "lao-L1-s115.jpg",
-    "note": "seen haeng = beef jerky"
+    "note": "seen haeng = beef jerky",
+    "key": "a2e28e8c06b4",
+    "audio": "tts/a2e28e8c06b4.mp3",
+    "audio_src": "tts"
    },
    {
     "id": "uUKS!KlSeA",
@@ -2253,7 +2857,10 @@ window.VAO_UNITS = [
     "roman": "kai",
     "lao": "ໄກ່",
     "img": "lao-L1-s115.jpg",
-    "note": null
+    "note": null,
+    "key": "a809a08efd42",
+    "audio": "tts/a809a08efd42.mp3",
+    "audio_src": "tts"
    },
    {
     "id": "eb]Y#[^)^9",
@@ -2261,7 +2868,10 @@ window.VAO_UNITS = [
     "roman": "moo",
     "lao": "ໝູ",
     "img": "lao-L1-s088.jpg",
-    "note": null
+    "note": null,
+    "key": "3965a2d9fcc5",
+    "audio": "tts/3965a2d9fcc5.mp3",
+    "audio_src": "tts"
    },
    {
     "id": "IA^FzKrB`]",
@@ -2269,7 +2879,10 @@ window.VAO_UNITS = [
     "roman": "ngooa",
     "lao": "ງົວ",
     "img": "lao-L1-s115.jpg",
-    "note": null
+    "note": null,
+    "key": "69c77b8a4ef9",
+    "audio": "tts/69c77b8a4ef9.mp3",
+    "audio_src": "tts"
    },
    {
     "id": "uMZ&);C/Fr",
@@ -2277,7 +2890,10 @@ window.VAO_UNITS = [
     "roman": "ped",
     "lao": "ເປັດ",
     "img": "lao-L1-s107.jpg",
-    "note": null
+    "note": null,
+    "key": "11934eb12a5f",
+    "audio": "tts/11934eb12a5f.mp3",
+    "audio_src": "tts"
    },
    {
     "id": "d$:6CU6,@G",
@@ -2285,7 +2901,10 @@ window.VAO_UNITS = [
     "roman": "paa",
     "lao": "ປາ",
     "img": "lao-L1-s115.jpg",
-    "note": "Thai: plaa"
+    "note": "Thai: plaa",
+    "key": "a4e9b8b0da42",
+    "audio": "tts/a4e9b8b0da42.mp3",
+    "audio_src": "tts"
    },
    {
     "id": "A1*jcK_]83",
@@ -2293,7 +2912,10 @@ window.VAO_UNITS = [
     "roman": "paameuk",
     "lao": "ປາມຶກ",
     "img": "lao-L1-s115.jpg",
-    "note": "meuk = ink"
+    "note": "meuk = ink",
+    "key": "a734e1cc3c1c",
+    "audio": "tts/a734e1cc3c1c.mp3",
+    "audio_src": "tts"
    },
    {
     "id": "Elg0~meDX1",
@@ -2301,7 +2923,10 @@ window.VAO_UNITS = [
     "roman": "koong",
     "lao": "ກຸ້ງ",
     "img": "lao-L1-s115.jpg",
-    "note": null
+    "note": null,
+    "key": "aa237490d992",
+    "audio": "tts/aa237490d992.mp3",
+    "audio_src": "tts"
    },
    {
     "id": "j0%v2tlgfN",
@@ -2309,7 +2934,10 @@ window.VAO_UNITS = [
     "roman": "(kaa)poo",
     "lao": "(ກະ)ປູ",
     "img": "lao-L1-s115.jpg",
-    "note": null
+    "note": null,
+    "key": "07ef2799b004",
+    "audio": "tts/07ef2799b004.mp3",
+    "audio_src": "tts"
    },
    {
     "id": "m_Oy2d|w)/",
@@ -2317,7 +2945,10 @@ window.VAO_UNITS = [
     "roman": "hoy",
     "lao": "ຫອຍ",
     "img": null,
-    "note": null
+    "note": null,
+    "key": "62a00f133a01",
+    "audio": "tts/62a00f133a01.mp3",
+    "audio_src": "tts"
    },
    {
     "id": "fi<3MMvaDp",
@@ -2326,6 +2957,9 @@ window.VAO_UNITS = [
     "lao": "ອາຫານທະເລ",
     "img": "lao-L1-s115.jpg",
     "note": null,
+    "key": "01ce28d474d1",
+    "audio": "tts/01ce28d474d1.mp3",
+    "audio_src": "tts",
     "tiles": [
      "ອາຫານ",
      "ທະເລ"
@@ -2338,6 +2972,9 @@ window.VAO_UNITS = [
     "lao": "ລົດຊາດ",
     "img": "lao-L1-s117.jpg",
     "note": null,
+    "key": "c798fcfc0639",
+    "audio": "tts/c798fcfc0639.mp3",
+    "audio_src": "tts",
     "tiles": [
      "ລົດ",
      "ຊາດ"
@@ -2349,7 +2986,10 @@ window.VAO_UNITS = [
     "roman": "saeb",
     "lao": "ແຊບ",
     "img": "lao-L1-s117.jpg",
-    "note": "boh saeb = not delicious"
+    "note": "boh saeb = not delicious",
+    "key": "90e05a8babac",
+    "audio": "tts/90e05a8babac.mp3",
+    "audio_src": "tts"
    },
    {
     "id": "x}a#3>8k",
@@ -2357,7 +2997,10 @@ window.VAO_UNITS = [
     "roman": "khom",
     "lao": "ຂົມ",
     "img": "lao-L1-s117.jpg",
-    "note": null
+    "note": null,
+    "key": "b7b9c99845b2",
+    "audio": "tts/b7b9c99845b2.mp3",
+    "audio_src": "tts"
    },
    {
     "id": "q`=R/(;wj&",
@@ -2365,7 +3008,10 @@ window.VAO_UNITS = [
     "roman": "phed",
     "lao": "ເຜັດ",
     "img": "lao-L1-s117.jpg",
-    "note": "maak phed = chilli"
+    "note": "maak phed = chilli",
+    "key": "d0713bde0df9",
+    "audio": "tts/d0713bde0df9.mp3",
+    "audio_src": "tts"
    },
    {
     "id": "Odl#7;`Tw!",
@@ -2373,7 +3019,10 @@ window.VAO_UNITS = [
     "roman": "khem",
     "lao": "ເຄັມ",
     "img": "lao-L1-s117.jpg",
-    "note": "keua = salt"
+    "note": "keua = salt",
+    "key": "5acf5964cf3b",
+    "audio": "tts/5acf5964cf3b.mp3",
+    "audio_src": "tts"
    },
    {
     "id": "LTSwiTPWe8",
@@ -2381,7 +3030,10 @@ window.VAO_UNITS = [
     "roman": "vaan",
     "lao": "ຫວານ",
     "img": "lao-L1-s117.jpg",
-    "note": "khaonom = candy/dessert"
+    "note": "khaonom = candy/dessert",
+    "key": "9d499308aebb",
+    "audio": "tts/9d499308aebb.mp3",
+    "audio_src": "tts"
    },
    {
     "id": "k?F7W=8^X&",
@@ -2389,7 +3041,10 @@ window.VAO_UNITS = [
     "roman": "jaang / jeud",
     "lao": "ຈາງ / ຈືດ",
     "img": "lao-L1-s117.jpg",
-    "note": null
+    "note": null,
+    "key": "88b00ee39567",
+    "audio": "tts/88b00ee39567.mp3",
+    "audio_src": "tts"
    },
    {
     "id": "Ki9,}kzAM|",
@@ -2397,7 +3052,10 @@ window.VAO_UNITS = [
     "roman": "som",
     "lao": "ສົ້ມ",
     "img": "lao-L1-s117.jpg",
-    "note": null
+    "note": null,
+    "key": "e6ab6c276b16",
+    "audio": "tts/e6ab6c276b16.mp3",
+    "audio_src": "tts"
    },
    {
     "id": "i<WxQ$~^2e",
@@ -2405,7 +3063,10 @@ window.VAO_UNITS = [
     "roman": "nooa",
     "lao": "ນົວ",
     "img": "lao-L1-s117.jpg",
-    "note": "MSG = paeng nooa"
+    "note": "MSG = paeng nooa",
+    "key": "cc08a21ead78",
+    "audio": "tts/cc08a21ead78.mp3",
+    "audio_src": "tts"
    },
    {
     "id": "n:6[(x.Zzo",
@@ -2413,7 +3074,10 @@ window.VAO_UNITS = [
     "roman": "phak",
     "lao": "ຜັກ",
     "img": "lao-L1-s117.jpg",
-    "note": null
+    "note": null,
+    "key": "dba8eff2b2f6",
+    "audio": "tts/dba8eff2b2f6.mp3",
+    "audio_src": "tts"
    },
    {
     "id": "B=.&a7T*`Q",
@@ -2422,6 +3086,9 @@ window.VAO_UNITS = [
     "lao": "ແຈ່ວນ້ຳ",
     "img": "lao-L1-s090.jpg",
     "note": null,
+    "key": "16997893af27",
+    "audio": "tts/16997893af27.mp3",
+    "audio_src": "tts",
     "tiles": [
      "ແຈ່ວ",
      "ນ້ຳ"
@@ -2434,6 +3101,9 @@ window.VAO_UNITS = [
     "lao": "ແຈ່ວເກືອ",
     "img": "lao-L1-s090.jpg",
     "note": "keua = salt",
+    "key": "3be111cd0011",
+    "audio": "tts/3be111cd0011.mp3",
+    "audio_src": "tts",
     "tiles": [
      "ແຈ່ວ",
      "ເກືອ"
@@ -2446,6 +3116,9 @@ window.VAO_UNITS = [
     "lao": "ແຈ່ວປາແດກ",
     "img": "lao-L1-s090.jpg",
     "note": null,
+    "key": "029dad6e0394",
+    "audio": "tts/029dad6e0394.mp3",
+    "audio_src": "tts",
     "tiles": [
      "ແຈ່ວ",
      "ປາແດກ"
@@ -2458,6 +3131,9 @@ window.VAO_UNITS = [
     "lao": "ແຈ່ວຂີງ",
     "img": "lao-L1-s090.jpg",
     "note": null,
+    "key": "32932b8be7fa",
+    "audio": "tts/32932b8be7fa.mp3",
+    "audio_src": "tts",
     "tiles": [
      "ແຈ່ວ",
      "ຂີງ"
@@ -2469,7 +3145,10 @@ window.VAO_UNITS = [
     "roman": "naam maak kiang",
     "lao": "ນ້ຳໝາກກ້ຽງ",
     "img": "lao-L1-s096.jpg",
-    "note": null
+    "note": null,
+    "key": "a61bd80e412c",
+    "audio": "tts/a61bd80e412c.mp3",
+    "audio_src": "tts"
    },
    {
     "id": "n~-~aQb3DO",
@@ -2477,7 +3156,10 @@ window.VAO_UNITS = [
     "roman": "naam taohoo sai voondam",
     "lao": "ນ້ຳເຕົາຮູ້ໃສ່ວຸ້ນດຳ",
     "img": null,
-    "note": "sai = to put"
+    "note": "sai = to put",
+    "key": "94fab7450858",
+    "audio": "tts/94fab7450858.mp3",
+    "audio_src": "tts"
    },
    {
     "id": "r&*GM^.H@8",
@@ -2485,7 +3167,10 @@ window.VAO_UNITS = [
     "roman": "cafe",
     "lao": "ກາເຟ",
     "img": null,
-    "note": "cafe nom yen = iced milk coffee"
+    "note": "cafe nom yen = iced milk coffee",
+    "key": "43a8faed7179",
+    "audio": "tts/43a8faed7179.mp3",
+    "audio_src": "tts"
    },
    {
     "id": "gW}PzMN+;N",
@@ -2494,6 +3179,9 @@ window.VAO_UNITS = [
     "lao": "ເຫຼົ້າລາວ",
     "img": null,
     "note": "lao (mid-falling tone) = alcohol, laao (high tone) = Lao",
+    "key": "d9f4d10c1f1b",
+    "audio": "tts/d9f4d10c1f1b.mp3",
+    "audio_src": "tts",
     "tiles": [
      "ເຫຼົ້າ",
      "ລາວ"
@@ -2506,6 +3194,9 @@ window.VAO_UNITS = [
     "lao": "ອາຫານລາວ",
     "img": "lao-L1-s106.jpg",
     "note": null,
+    "key": "48441c885c08",
+    "audio": "tts/48441c885c08.mp3",
+    "audio_src": "tts",
     "tiles": [
      "ອາຫານ",
      "ລາວ"
@@ -2518,6 +3209,9 @@ window.VAO_UNITS = [
     "lao": "ຂອງຫວານລາວ",
     "img": "lao-L1-s107.jpg",
     "note": "khohng vaan = dessert (lit. sweet things)",
+    "key": "5380365b188e",
+    "audio": "tts/5380365b188e.mp3",
+    "audio_src": "tts",
     "tiles": [
      "ຂອງ",
      "ຫວານ",
@@ -2531,6 +3225,9 @@ window.VAO_UNITS = [
     "lao": "ນ້ຳຫວານ",
     "img": "lao-L1-s107.jpg",
     "note": "also khao lod sohng",
+    "key": "74035dfb5b9a",
+    "audio": "tts/74035dfb5b9a.mp3",
+    "audio_src": "tts",
     "tiles": [
      "ນ້ຳ",
      "ຫວານ"
@@ -2543,6 +3240,9 @@ window.VAO_UNITS = [
     "lao": "ເຂົ້າຕົ້ມ",
     "img": "lao-L1-w107-19.jpg",
     "note": "tom = boiled",
+    "key": "4ce53a5267c6",
+    "audio": "tts/4ce53a5267c6.mp3",
+    "audio_src": "tts",
     "tiles": [
      "ເຂົ້າ",
      "ຕົ້ມ"
@@ -2554,7 +3254,10 @@ window.VAO_UNITS = [
     "roman": "khaonom",
     "lao": "ເຂົ້າໜົມ",
     "img": "lao-L1-s117.jpg",
-    "note": null
+    "note": null,
+    "key": "9e45974ab4e3",
+    "audio": "tts/9e45974ab4e3.mp3",
+    "audio_src": "tts"
    },
    {
     "id": "LOV?QzWGLg",
@@ -2563,6 +3266,9 @@ window.VAO_UNITS = [
     "lao": "ໝາກເຜັດ",
     "img": "lao-L1-s044.jpg",
     "note": "phed = spicy",
+    "key": "c8c580d4b80a",
+    "audio": "tts/c8c580d4b80a.mp3",
+    "audio_src": "tts",
     "tiles": [
      "ໝາກ",
      "ເຜັດ"
@@ -2574,7 +3280,10 @@ window.VAO_UNITS = [
     "roman": "keua",
     "lao": "ເກືອ",
     "img": "lao-L1-s090.jpg",
-    "note": null
+    "note": null,
+    "key": "5e63c7272b7e",
+    "audio": "tts/5e63c7272b7e.mp3",
+    "audio_src": "tts"
    },
    {
     "id": "md$0&HL9V2",
@@ -2583,6 +3292,9 @@ window.VAO_UNITS = [
     "lao": "ແປ້ງນົວ",
     "img": "lao-L1-w117-24.jpg",
     "note": "paeng = flour, powder; nooa = umami",
+    "key": "46432fe92a2d",
+    "audio": "tts/46432fe92a2d.mp3",
+    "audio_src": "tts",
     "tiles": [
      "ແປ້ງ",
      "ນົວ"
@@ -2684,7 +3396,10 @@ window.VAO_UNITS = [
     "roman": "thaodai?",
     "lao": "ເທົ່າໃດ?",
     "img": "lao-L1-s069.jpg",
-    "note": null
+    "note": null,
+    "key": "6ae5c6043efe",
+    "audio": "tts/6ae5c6043efe.mp3",
+    "audio_src": "tts"
    },
    {
     "id": "uCb3M:jJa9",
@@ -2693,6 +3408,9 @@ window.VAO_UNITS = [
     "lao": "ອັນນີ້ເທົ່າໃດ?",
     "img": "lao-L1-s069.jpg",
     "note": null,
+    "key": "55d37d773473",
+    "audio": "tts/55d37d773473.mp3",
+    "audio_src": "tts",
     "tiles": [
      "ອັນນີ້",
      "ເທົ່າ",
@@ -2706,6 +3424,9 @@ window.VAO_UNITS = [
     "lao": "ທັງໝົດເທົ່າໃດ?",
     "img": "lao-L1-s104.jpg",
     "note": null,
+    "key": "3d25bb5f864b",
+    "audio": "tts/3d25bb5f864b.mp3",
+    "audio_src": "tts",
     "tiles": [
      "ທັງໝົດ",
      "ເທົ່າໃດ?"
@@ -2717,7 +3438,10 @@ window.VAO_UNITS = [
     "roman": "an nee",
     "lao": "ອັນນີ້",
     "img": "lao-L1-s069.jpg",
-    "note": null
+    "note": null,
+    "key": "881bdfc94cbf",
+    "audio": "tts/881bdfc94cbf.mp3",
+    "audio_src": "tts"
    },
    {
     "id": "KRCvVsEi+g",
@@ -2725,7 +3449,10 @@ window.VAO_UNITS = [
     "roman": "an nan",
     "lao": "ອັນນັ້ນ",
     "img": "lao-L1-s013.jpg",
-    "note": null
+    "note": null,
+    "key": "a076aaba214d",
+    "audio": "tts/a076aaba214d.mp3",
+    "audio_src": "tts"
    },
    {
     "id": "Pc/;Tq#ld>",
@@ -2733,7 +3460,10 @@ window.VAO_UNITS = [
     "roman": "dai / boh dai",
     "lao": "ໄດ້ / ບໍ່ໄດ້",
     "img": "lao-L1-s037.jpg",
-    "note": null
+    "note": null,
+    "key": "512e7b30f7c6",
+    "audio": "tts/512e7b30f7c6.mp3",
+    "audio_src": "tts"
    },
    {
     "id": "qNnN7uU3~v",
@@ -2741,7 +3471,10 @@ window.VAO_UNITS = [
     "roman": "sai",
     "lao": "ໃສ່",
     "img": "lao-L1-s098.jpg",
-    "note": "boh sai kapi = without shrimp paste"
+    "note": "boh sai kapi = without shrimp paste",
+    "key": "6e3109de11b8",
+    "audio": "tts/6e3109de11b8.mp3",
+    "audio_src": "tts"
    },
    {
     "id": "pb*iz-qO._",
@@ -2750,6 +3483,9 @@ window.VAO_UNITS = [
     "lao": "ອັນນັ້ນເທົ່າໃດ?",
     "img": "lao-L1-s069.jpg",
     "note": null,
+    "key": "6700378ac783",
+    "audio": "tts/6700378ac783.mp3",
+    "audio_src": "tts",
     "tiles": [
      "ອັນນັ້ນ",
      "ເທົ່າ",
@@ -2781,7 +3517,10 @@ window.VAO_UNITS = [
     "roman": "sathoo",
     "lao": "ສາທຸ",
     "img": "lao-L1-s111.jpg",
-    "note": null
+    "note": null,
+    "key": "568df594b63c",
+    "audio": "tts/568df594b63c.mp3",
+    "audio_src": "tts"
    },
    {
     "id": "n4i9n:Uw}9",
@@ -2789,7 +3528,10 @@ window.VAO_UNITS = [
     "roman": "(oi) taai leo",
     "lao": "(ໂອ້ຍ)ຕາຍແລ້ວ",
     "img": "lao-L1-s122.jpg",
-    "note": "lit. dead already"
+    "note": "lit. dead already",
+    "key": "75e84fae31fb",
+    "audio": "tts/75e84fae31fb.mp3",
+    "audio_src": "tts"
    },
    {
     "id": "y#|Y{|Oc6D",
@@ -2797,7 +3539,10 @@ window.VAO_UNITS = [
     "roman": "paa thee tho",
     "lao": "ປະທິໂທະ",
     "img": "lao-L1-s122.jpg",
-    "note": null
+    "note": null,
+    "key": "6e03aa4c5f4c",
+    "audio": "tts/6e03aa4c5f4c.mp3",
+    "audio_src": "tts"
    },
    {
     "id": "ia,ejuNP8!",
@@ -2805,7 +3550,10 @@ window.VAO_UNITS = [
     "roman": "khak",
     "lao": "ຄັກ",
     "img": "lao-L1-s122.jpg",
-    "note": null
+    "note": null,
+    "key": "ce97f60685ae",
+    "audio": "tts/ce97f60685ae.mp3",
+    "audio_src": "tts"
    },
    {
     "id": "zBN~kXj`;&",
@@ -2814,6 +3562,9 @@ window.VAO_UNITS = [
     "lao": "ສົມນ້ຳໜ້າ",
     "img": "lao-L1-s122.jpg",
     "note": null,
+    "key": "d67808f4c6da",
+    "audio": "tts/d67808f4c6da.mp3",
+    "audio_src": "tts",
     "tiles": [
      "ສົມ",
      "ນ້ຳ",
@@ -2826,7 +3577,10 @@ window.VAO_UNITS = [
     "roman": "pep neung",
     "lao": "ແປັບໜຶ່ງ",
     "img": "lao-L1-s122.jpg",
-    "note": null
+    "note": null,
+    "key": "8f8c9239a76a",
+    "audio": "tts/8f8c9239a76a.mp3",
+    "audio_src": "tts"
    },
    {
     "id": "E`hiz6R+mT",
@@ -2834,7 +3588,10 @@ window.VAO_UNITS = [
     "roman": "mooan",
     "lao": "ມ່ວນ",
     "img": "lao-L1-s041.jpg",
-    "note": null
+    "note": null,
+    "key": "4fcb3d86e380",
+    "audio": "tts/4fcb3d86e380.mp3",
+    "audio_src": "tts"
    },
    {
     "id": "OSAdWP,JRq",
@@ -2842,7 +3599,10 @@ window.VAO_UNITS = [
     "roman": "su su der (sux2 der)",
     "lao": "ສູ້ໆເດີ້",
     "img": null,
-    "note": null
+    "note": null,
+    "key": "a8d707113c9c",
+    "audio": "tts/a8d707113c9c.mp3",
+    "audio_src": "tts"
    },
    {
     "id": "Mz~K?[rR[u",
@@ -2851,6 +3611,9 @@ window.VAO_UNITS = [
     "lao": "ແລ້ວແຕ່",
     "img": "lao-L1-s122.jpg",
     "note": null,
+    "key": "c38414c3408d",
+    "audio": "tts/c38414c3408d.mp3",
+    "audio_src": "tts",
     "tiles": [
      "ແລ້ວ",
      "ແຕ່"
@@ -2862,7 +3625,10 @@ window.VAO_UNITS = [
     "roman": "naenam",
     "lao": "ແນະນຳ",
     "img": null,
-    "note": null
+    "note": null,
+    "key": "644c5d678df4",
+    "audio": "tts/644c5d678df4.mp3",
+    "audio_src": "tts"
    },
    {
     "id": "N4Nb-jX{*Y",
@@ -2871,6 +3637,9 @@ window.VAO_UNITS = [
     "lao": "ບໍ່ເມົາບໍ່ກັບ",
     "img": "lao-L1-s100.jpg",
     "note": null,
+    "key": "43ca3a2936e2",
+    "audio": "tts/43ca3a2936e2.mp3",
+    "audio_src": "tts",
     "tiles": [
      "ບໍ່",
      "ເມົາ",
@@ -2885,6 +3654,9 @@ window.VAO_UNITS = [
     "lao": "ບໍ່ເຜັດບໍ່ແຊບ",
     "img": "lao-L1-s118.jpg",
     "note": null,
+    "key": "062be8cb73cc",
+    "audio": "tts/062be8cb73cc.mp3",
+    "audio_src": "tts",
     "tiles": [
      "ບໍ່",
      "ເຜັດ",
@@ -2898,7 +3670,10 @@ window.VAO_UNITS = [
     "roman": "taai",
     "lao": "ຕາຍ",
     "img": "lao-L1-s109.jpg",
-    "note": "heew jon see taai leo = starving to death"
+    "note": "heew jon see taai leo = starving to death",
+    "key": "9de2a32e940e",
+    "audio": "tts/9de2a32e940e.mp3",
+    "audio_src": "tts"
    },
    {
     "id": "P[j.9:+In<",
@@ -2906,7 +3681,10 @@ window.VAO_UNITS = [
     "roman": "sooksan van __",
     "lao": "ສຸກສັນວັນ__",
     "img": null,
-    "note": "sooksan van kuhd = happy birthday"
+    "note": "sooksan van kuhd = happy birthday",
+    "key": "4a0d68bda0c1",
+    "audio": "tts/4a0d68bda0c1.mp3",
+    "audio_src": "tts"
    }
   ],
   "lessons": [
@@ -2942,6 +3720,9 @@ window.VAO_UNITS = [
     "lao": "ບົດຮຽນ",
     "img": "lao-L2-s008.jpg",
     "note": null,
+    "key": "960a84932759",
+    "audio": "tts/960a84932759.mp3",
+    "audio_src": "tts",
     "tiles": [
      "ບົດ",
      "ຮຽນ"
@@ -2953,7 +3734,10 @@ window.VAO_UNITS = [
     "roman": "viakbaan",
     "lao": "ວຽກບ້ານ",
     "img": "lao-L2-s008.jpg",
-    "note": null
+    "note": null,
+    "key": "f5fe74fd322d",
+    "audio": "tts/f5fe74fd322d.mp3",
+    "audio_src": "tts"
    },
    {
     "id": "f.98$l-_@2",
@@ -2961,7 +3745,10 @@ window.VAO_UNITS = [
     "roman": "khamthaam",
     "lao": "ຄຳຖາມ",
     "img": "lao-L2-s008.jpg",
-    "note": null
+    "note": null,
+    "key": "906601d0fbbf",
+    "audio": "tts/906601d0fbbf.mp3",
+    "audio_src": "tts"
    },
    {
     "id": "n~Z>2J-.=C",
@@ -2969,7 +3756,10 @@ window.VAO_UNITS = [
     "roman": "(kham)tohb",
     "lao": "ຄຳຕອບ",
     "img": "lao-L2-s008.jpg",
-    "note": null
+    "note": null,
+    "key": "8d091609ebe3",
+    "audio": "tts/8d091609ebe3.mp3",
+    "audio_src": "tts"
    },
    {
     "id": "oHK;UK~lp$",
@@ -2977,7 +3767,10 @@ window.VAO_UNITS = [
     "roman": "kham(sab)",
     "lao": "ຄຳສັບ",
     "img": "lao-L2-s008.jpg",
-    "note": null
+    "note": null,
+    "key": "b4280c233590",
+    "audio": "tts/b4280c233590.mp3",
+    "audio_src": "tts"
    },
    {
     "id": "G/}u%J{3Xz",
@@ -2985,7 +3778,10 @@ window.VAO_UNITS = [
     "roman": "panyok",
     "lao": "ປະໂຫຍກ",
     "img": "lao-L2-s008.jpg",
-    "note": null
+    "note": null,
+    "key": "51f6496d8eba",
+    "audio": "tts/51f6496d8eba.mp3",
+    "audio_src": "tts"
    },
    {
     "id": "t*s22l/_BD",
@@ -2994,6 +3790,9 @@ window.VAO_UNITS = [
     "lao": "ຂ້ອຍມີຄຳຖາມ",
     "img": "lao-L2-s008.jpg",
     "note": null,
+    "key": "33d0dcf913e6",
+    "audio": "tts/33d0dcf913e6.mp3",
+    "audio_src": "tts",
     "tiles": [
      "ຂ້ອຍ",
      "ມີ",
@@ -3007,6 +3806,9 @@ window.VAO_UNITS = [
     "lao": "ຂ້ອຍລືມ",
     "img": "lao-L2-s008.jpg",
     "note": "leum = to forget",
+    "key": "16d9e54bd02c",
+    "audio": "tts/16d9e54bd02c.mp3",
+    "audio_src": "tts",
     "tiles": [
      "ຂ້ອຍ",
      "ລືມ"
@@ -3018,7 +3820,10 @@ window.VAO_UNITS = [
     "roman": "khoi (boh) khaojai",
     "lao": "ຂ້ອຍ(ບໍ່)ເຂົ້າໃຈ",
     "img": null,
-    "note": null
+    "note": null,
+    "key": "90b9e9cfd81c",
+    "audio": "tts/90b9e9cfd81c.mp3",
+    "audio_src": "tts"
    },
    {
     "id": "K9y1yB^O(k",
@@ -3026,7 +3831,10 @@ window.VAO_UNITS = [
     "roman": "khoi (boh) hoo",
     "lao": "ຂ້ອຍ(ບໍ່)ຮູ້",
     "img": null,
-    "note": null
+    "note": null,
+    "key": "f05cf82b8ba2",
+    "audio": "tts/f05cf82b8ba2.mp3",
+    "audio_src": "tts"
    },
    {
     "id": "MyP|!uG*;7",
@@ -3035,6 +3843,9 @@ window.VAO_UNITS = [
     "lao": "ຖືກບໍ?",
     "img": "lao-L2-s008.jpg",
     "note": null,
+    "key": "a27deecefba4",
+    "audio": "tts/a27deecefba4.mp3",
+    "audio_src": "tts",
     "tiles": [
      "ຖືກ",
      "ບໍ?"
@@ -3046,7 +3857,10 @@ window.VAO_UNITS = [
     "roman": "phid",
     "lao": "ຜິດ",
     "img": "lao-L2-s008.jpg",
-    "note": null
+    "note": null,
+    "key": "36f0360e33c8",
+    "audio": "tts/36f0360e33c8.mp3",
+    "audio_src": "tts"
    },
    {
     "id": "HxvK?->:rz",
@@ -3054,7 +3868,10 @@ window.VAO_UNITS = [
     "roman": "maen",
     "lao": "ແມ່ນ",
     "img": "lao-L2-s021.jpg",
-    "note": null
+    "note": null,
+    "key": "69f90f7989ab",
+    "audio": "tts/69f90f7989ab.mp3",
+    "audio_src": "tts"
    },
    {
     "id": "J9?o[J?$O6",
@@ -3062,7 +3879,10 @@ window.VAO_UNITS = [
     "roman": "toh (pai)",
     "lao": "ຕໍ່(ໄປ)",
     "img": "lao-L2-s008.jpg",
-    "note": null
+    "note": null,
+    "key": "4f867ddf671b",
+    "audio": "tts/4f867ddf671b.mp3",
+    "audio_src": "tts"
    },
    {
     "id": "Oe_V%qK[p9",
@@ -3070,7 +3890,10 @@ window.VAO_UNITS = [
     "roman": "__ maen nyang?",
     "lao": "__ແມ່ນຫຍັງ?",
     "img": "lao-L2-s008.jpg",
-    "note": null
+    "note": null,
+    "key": "5438157d7815",
+    "audio": "tts/5438157d7815.mp3",
+    "audio_src": "tts"
    },
    {
     "id": "E1JGcH&y:8",
@@ -3078,7 +3901,10 @@ window.VAO_UNITS = [
     "roman": "khidvaa",
     "lao": "ຄິດວ່າ",
     "img": "lao-L2-s008.jpg",
-    "note": null
+    "note": null,
+    "key": "baf1f633ec2d",
+    "audio": "tts/baf1f633ec2d.mp3",
+    "audio_src": "tts"
    },
    {
     "id": "xfu3MfQ_NO",
@@ -3087,6 +3913,9 @@ window.VAO_UNITS = [
     "lao": "ເຈົ້າເວົ້າໃໝ່ໄດ້ບໍ?",
     "img": null,
     "note": "lit. can you speak again?",
+    "key": "51a87787d3f7",
+    "audio": "tts/51a87787d3f7.mp3",
+    "audio_src": "tts",
     "tiles": [
      "ເຈົ້າ",
      "ເວົ້າ",
@@ -3101,7 +3930,10 @@ window.VAO_UNITS = [
     "roman": "nai hoob nee mee…",
     "lao": "ໃນຮູບນີ້…",
     "img": "lao-L2-s062.jpg",
-    "note": "hoob = picture"
+    "note": "hoob = picture",
+    "key": "3818bc3fbdf6",
+    "audio": "tts/3818bc3fbdf6.mp3",
+    "audio_src": "tts"
    }
   ],
   "lessons": [
@@ -3142,7 +3974,10 @@ window.VAO_UNITS = [
     "roman": "lin",
     "lao": "ຫຼິ້ນ",
     "img": "lao-L2-s010.jpg",
-    "note": "lin kab moo = hang out with friends"
+    "note": "lin kab moo = hang out with friends",
+    "key": "e1dc25cbe728",
+    "audio": "tts/e1dc25cbe728.mp3",
+    "audio_src": "tts"
    },
    {
     "id": "L(Q1Gw/r4{",
@@ -3151,6 +3986,9 @@ window.VAO_UNITS = [
     "lao": "ຫຼິ້ນກິລາ",
     "img": "lao-L2-s011.jpg",
     "note": null,
+    "key": "b2a2c004f698",
+    "audio": "tts/b2a2c004f698.mp3",
+    "audio_src": "tts",
     "tiles": [
      "ຫຼິ້ນ",
      "ກິລາ"
@@ -3163,6 +4001,9 @@ window.VAO_UNITS = [
     "lao": "ເຕະບານ",
     "img": "lao-L2-s011.jpg",
     "note": null,
+    "key": "b94785164d49",
+    "audio": "tts/b94785164d49.mp3",
+    "audio_src": "tts",
     "tiles": [
      "ເຕະ",
      "ບານ"
@@ -3174,7 +4015,10 @@ window.VAO_UNITS = [
     "roman": "loy naam",
     "lao": "ລອຍນ້ຳ",
     "img": "lao-L2-s011.jpg",
-    "note": null
+    "note": null,
+    "key": "05673b65b31d",
+    "audio": "tts/05673b65b31d.mp3",
+    "audio_src": "tts"
    },
    {
     "id": "k,Jkn0_5fw",
@@ -3182,7 +4026,10 @@ window.VAO_UNITS = [
     "roman": "ohk kamlang kaai",
     "lao": "ອອກກຳລັງກາຍ",
     "img": "lao-L2-s011.jpg",
-    "note": "lift weights = nyok kaam"
+    "note": "lift weights = nyok kaam",
+    "key": "7df45c0cd532",
+    "audio": "tts/7df45c0cd532.mp3",
+    "audio_src": "tts"
    },
    {
     "id": "xt2Q7TFCrm",
@@ -3190,7 +4037,10 @@ window.VAO_UNITS = [
     "roman": "thaai hoob",
     "lao": "ຖ່າຍຮູບ",
     "img": "lao-L2-s010.jpg",
-    "note": null
+    "note": null,
+    "key": "de097c55e00f",
+    "audio": "tts/de097c55e00f.mp3",
+    "audio_src": "tts"
    },
    {
     "id": "hy#![WM,x2",
@@ -3199,6 +4049,9 @@ window.VAO_UNITS = [
     "lao": "ອ່ານປຶ້ມ",
     "img": "lao-L2-s010.jpg",
     "note": null,
+    "key": "e6141afa2e89",
+    "audio": "tts/e6141afa2e89.mp3",
+    "audio_src": "tts",
     "tiles": [
      "ອ່ານ",
      "ປຶ້ມ"
@@ -3211,6 +4064,9 @@ window.VAO_UNITS = [
     "lao": "ຮ້ອງເພງ",
     "img": "lao-L2-s010.jpg",
     "note": null,
+    "key": "087c546dd58f",
+    "audio": "tts/087c546dd58f.mp3",
+    "audio_src": "tts",
     "tiles": [
      "ຮ້ອງ",
      "ເພງ"
@@ -3223,6 +4079,9 @@ window.VAO_UNITS = [
     "lao": "ຟັງເພງ",
     "img": "lao-L2-s010.jpg",
     "note": null,
+    "key": "b90f25c467e3",
+    "audio": "tts/b90f25c467e3.mp3",
+    "audio_src": "tts",
     "tiles": [
      "ຟັງ",
      "ເພງ"
@@ -3234,7 +4093,10 @@ window.VAO_UNITS = [
     "roman": "ten",
     "lao": "ເຕັ້ນ",
     "img": "lao-L2-s010.jpg",
-    "note": null
+    "note": null,
+    "key": "f628acb49c7f",
+    "audio": "tts/f628acb49c7f.mp3",
+    "audio_src": "tts"
    },
    {
     "id": "Gpd/%&H(GM",
@@ -3242,7 +4104,10 @@ window.VAO_UNITS = [
     "roman": "hed kin / hed ahaan",
     "lao": "ເຮັດກິນ / ເຮັດອາຫານ",
     "img": "lao-L2-s010.jpg",
-    "note": null
+    "note": null,
+    "key": "38cb1c32eed4",
+    "audio": "tts/38cb1c32eed4.mp3",
+    "audio_src": "tts"
    },
    {
     "id": "ok^7/n$j+4",
@@ -3250,7 +4115,10 @@ window.VAO_UNITS = [
     "roman": "laen",
     "lao": "ແລ່ນ",
     "img": "lao-L2-s011.jpg",
-    "note": null
+    "note": null,
+    "key": "4228b2c14d14",
+    "audio": "tts/4228b2c14d14.mp3",
+    "audio_src": "tts"
    },
    {
     "id": "OKzZNsDmD>",
@@ -3258,7 +4126,10 @@ window.VAO_UNITS = [
     "roman": "fohn",
     "lao": "ຟ້ອນ",
     "img": null,
-    "note": null
+    "note": null,
+    "key": "7dc108be90cd",
+    "audio": "tts/7dc108be90cd.mp3",
+    "audio_src": "tts"
    },
    {
     "id": "JufFA3a$*L",
@@ -3266,7 +4137,10 @@ window.VAO_UNITS = [
     "roman": "lamvong",
     "lao": "ລຳວົງ",
     "img": null,
-    "note": null
+    "note": null,
+    "key": "b90536abeb40",
+    "audio": "tts/b90536abeb40.mp3",
+    "audio_src": "tts"
    },
    {
     "id": "u59-%Y>(th",
@@ -3274,7 +4148,10 @@ window.VAO_UNITS = [
     "roman": "tohn jao vaang, jao mak hed nyang?",
     "lao": "ຕອນເຈົ້າຫວ່າງ, ເຈົ້າມັກເຮັດຫຍັງ?",
     "img": "lao-L2-s014.jpg",
-    "note": null
+    "note": null,
+    "key": "bb9646231dc6",
+    "audio": "tts/bb9646231dc6.mp3",
+    "audio_src": "tts"
    },
    {
     "id": "bV4E=Jh_/;",
@@ -3282,7 +4159,10 @@ window.VAO_UNITS = [
     "roman": "badsalob",
     "lao": "ບັດສະລົບ",
     "img": null,
-    "note": null
+    "note": null,
+    "key": "16a306f82be4",
+    "audio": "tts/16a306f82be4.mp3",
+    "audio_src": "tts"
    }
   ],
   "lessons": [
@@ -3321,7 +4201,10 @@ window.VAO_UNITS = [
     "roman": "buhng",
     "lao": "ເບິ່ງ",
     "img": null,
-    "note": "buhng nang = watch a movie"
+    "note": "buhng nang = watch a movie",
+    "key": "8b5b9e7bf3b3",
+    "audio": "tts/8b5b9e7bf3b3.mp3",
+    "audio_src": "tts"
    },
    {
     "id": "rvL5;D(~5#",
@@ -3329,7 +4212,10 @@ window.VAO_UNITS = [
     "roman": "hen",
     "lao": "ເຫັນ",
     "img": null,
-    "note": null
+    "note": null,
+    "key": "e63dff690ee7",
+    "audio": "tts/e63dff690ee7.mp3",
+    "audio_src": "tts"
    },
    {
     "id": "zszg~Q%`hc",
@@ -3337,7 +4223,10 @@ window.VAO_UNITS = [
     "roman": "fang",
     "lao": "ຟັງ",
     "img": "lao-L2-s010.jpg",
-    "note": null
+    "note": null,
+    "key": "ecf03dbfa4de",
+    "audio": "tts/ecf03dbfa4de.mp3",
+    "audio_src": "tts"
    },
    {
     "id": "E#`5}f$m~{",
@@ -3346,6 +4235,9 @@ window.VAO_UNITS = [
     "lao": "ໄດ້ຍິນ",
     "img": "lao-L2-s018.jpg",
     "note": null,
+    "key": "3222152cad02",
+    "audio": "tts/3222152cad02.mp3",
+    "audio_src": "tts",
     "tiles": [
      "ໄດ້",
      "ຍິນ"
@@ -3357,7 +4249,10 @@ window.VAO_UNITS = [
     "roman": "puhd",
     "lao": "ເປີດ",
     "img": null,
-    "note": null
+    "note": null,
+    "key": "634abd90658f",
+    "audio": "tts/634abd90658f.mp3",
+    "audio_src": "tts"
    },
    {
     "id": "Q-=K?+.t*u",
@@ -3365,7 +4260,10 @@ window.VAO_UNITS = [
     "roman": "pid",
     "lao": "ປິດ",
     "img": null,
-    "note": null
+    "note": null,
+    "key": "bbff31176061",
+    "audio": "tts/bbff31176061.mp3",
+    "audio_src": "tts"
    },
    {
     "id": "nnC#7ZW:l*",
@@ -3373,7 +4271,10 @@ window.VAO_UNITS = [
     "roman": "nang",
     "lao": "ນັ່ງ",
     "img": null,
-    "note": null
+    "note": null,
+    "key": "629acc9d029e",
+    "audio": "tts/629acc9d029e.mp3",
+    "audio_src": "tts"
    },
    {
     "id": "H2X<g_LW!{",
@@ -3381,7 +4282,10 @@ window.VAO_UNITS = [
     "roman": "yeun",
     "lao": "ຢືນ",
     "img": null,
-    "note": null
+    "note": null,
+    "key": "dea185b00e76",
+    "audio": "tts/dea185b00e76.mp3",
+    "audio_src": "tts"
    },
    {
     "id": "MlU_:DMTy,",
@@ -3389,7 +4293,10 @@ window.VAO_UNITS = [
     "roman": "nyaang",
     "lao": "ຍ່າງ",
     "img": "lao-L2-s076.jpg",
-    "note": null
+    "note": null,
+    "key": "3335eb27e1a6",
+    "audio": "tts/3335eb27e1a6.mp3",
+    "audio_src": "tts"
    },
    {
     "id": "HVt_6pMiT2",
@@ -3397,7 +4304,10 @@ window.VAO_UNITS = [
     "roman": "laen",
     "lao": "ແລ່ນ",
     "img": null,
-    "note": null
+    "note": null,
+    "key": "4228b2c14d14",
+    "audio": "tts/4228b2c14d14.mp3",
+    "audio_src": "tts"
    },
    {
     "id": "i%`b8$*.2U",
@@ -3406,6 +4316,9 @@ window.VAO_UNITS = [
     "lao": "ກັບໄປ",
     "img": "lao-L2-s018.jpg",
     "note": "kab baan = go back home",
+    "key": "2f0e826fd81c",
+    "audio": "tts/2f0e826fd81c.mp3",
+    "audio_src": "tts",
     "tiles": [
      "ກັບ",
      "ໄປ"
@@ -3417,7 +4330,10 @@ window.VAO_UNITS = [
     "roman": "maa",
     "lao": "ມາ",
     "img": null,
-    "note": "kab maa = come back"
+    "note": "kab maa = come back",
+    "key": "0d3046b10f62",
+    "audio": "tts/0d3046b10f62.mp3",
+    "audio_src": "tts"
    },
    {
     "id": "eH2ZmsGBgI",
@@ -3425,7 +4341,10 @@ window.VAO_UNITS = [
     "roman": "feuk",
     "lao": "ຝຶກ",
     "img": null,
-    "note": null
+    "note": null,
+    "key": "d309fee36b7e",
+    "audio": "tts/d309fee36b7e.mp3",
+    "audio_src": "tts"
    },
    {
     "id": "A(p`ycN`k+",
@@ -3433,7 +4352,10 @@ window.VAO_UNITS = [
     "roman": "tohng",
     "lao": "ຕ້ອງ",
     "img": "lao-L2-s016.jpg",
-    "note": "khoi tohng khab lod = I must drive"
+    "note": "khoi tohng khab lod = I must drive",
+    "key": "aa9e63798499",
+    "audio": "tts/aa9e63798499.mp3",
+    "audio_src": "tts"
    },
    {
     "id": "gB/7bK:smq",
@@ -3441,7 +4363,10 @@ window.VAO_UNITS = [
     "roman": "leuak",
     "lao": "ເລືອກ",
     "img": null,
-    "note": null
+    "note": null,
+    "key": "a3b599d38595",
+    "audio": "tts/a3b599d38595.mp3",
+    "audio_src": "tts"
    },
    {
     "id": "z[P|%Pbc4X",
@@ -3449,7 +4374,10 @@ window.VAO_UNITS = [
     "roman": "sai (high falling tone)",
     "lao": "ໃຊ້",
     "img": null,
-    "note": null
+    "note": null,
+    "key": "27d71070561b",
+    "audio": "tts/27d71070561b.mp3",
+    "audio_src": "tts"
    },
    {
     "id": "KbK?g[Qndg",
@@ -3457,7 +4385,10 @@ window.VAO_UNITS = [
     "roman": "sai (middle tone)",
     "lao": "ໃສ່",
     "img": "lao-L2-s059.jpg",
-    "note": null
+    "note": null,
+    "key": "6e3109de11b8",
+    "audio": "tts/6e3109de11b8.mp3",
+    "audio_src": "tts"
    },
    {
     "id": "f_zV.NMPbr",
@@ -3465,7 +4396,10 @@ window.VAO_UNITS = [
     "roman": "phak phohn",
     "lao": "ພັກຜ່ອນ",
     "img": "lao-L2-s076.jpg",
-    "note": null
+    "note": null,
+    "key": "d61d47ab92b4",
+    "audio": "tts/d61d47ab92b4.mp3",
+    "audio_src": "tts"
    }
   ],
   "lessons": [
@@ -3506,7 +4440,10 @@ window.VAO_UNITS = [
     "roman": "kamlang",
     "lao": "ກຳລັງ",
     "img": null,
-    "note": "khoi kamlang kin khao = I am eating; slang: verb + yoo at end"
+    "note": "khoi kamlang kin khao = I am eating; slang: verb + yoo at end",
+    "key": "8bb51aeb163a",
+    "audio": "tts/8bb51aeb163a.mp3",
+    "audio_src": "tts"
    },
    {
     "id": "GnxIwtH*Sk",
@@ -3514,7 +4451,10 @@ window.VAO_UNITS = [
     "roman": "see / ja",
     "lao": "ຊິ / ຈະ",
     "img": "lao-L2-s017.jpg",
-    "note": "khoi see kin khao = I will eat"
+    "note": "khoi see kin khao = I will eat",
+    "key": "a14a4d05cbd4",
+    "audio": "tts/a14a4d05cbd4.mp3",
+    "audio_src": "tts"
    },
    {
     "id": "cEOzF`yKW5",
@@ -3523,6 +4463,9 @@ window.VAO_UNITS = [
     "lao": "ກຳລັງຊິ",
     "img": "lao-L2-s024.jpg",
     "note": "khoi kamlang see kin khao",
+    "key": "83f540442427",
+    "audio": "tts/83f540442427.mp3",
+    "audio_src": "tts",
     "tiles": [
      "ກຳລັງ",
      "ຊິ"
@@ -3534,7 +4477,10 @@ window.VAO_UNITS = [
     "roman": "dai",
     "lao": "ໄດ້",
     "img": "lao-L2-s026.jpg",
-    "note": "khoi dai kin khao = I ate; negative: boh dai + verb"
+    "note": "khoi dai kin khao = I ate; negative: boh dai + verb",
+    "key": "dedbd1407cd1",
+    "audio": "tts/dedbd1407cd1.mp3",
+    "audio_src": "tts"
    },
    {
     "id": "sE:~Z:DzZ/",
@@ -3542,7 +4488,10 @@ window.VAO_UNITS = [
     "roman": "leo",
     "lao": "ແລ້ວ",
     "img": "lao-L2-s026.jpg",
-    "note": "khoi kin khao leo = I ate already; goes at the end"
+    "note": "khoi kin khao leo = I ate already; goes at the end",
+    "key": "68c0c68f2b94",
+    "audio": "tts/68c0c68f2b94.mp3",
+    "audio_src": "tts"
    },
    {
     "id": "xb2,d<3|sC",
@@ -3550,7 +4499,10 @@ window.VAO_UNITS = [
     "roman": "khuh-ee",
     "lao": "ເຄີຍ",
     "img": "lao-L2-s026.jpg",
-    "note": "khoi khuh-ee kin khao = I have eaten it before"
+    "note": "khoi khuh-ee kin khao = I have eaten it before",
+    "key": "7102e23246d0",
+    "audio": "tts/7102e23246d0.mp3",
+    "audio_src": "tts"
    },
    {
     "id": "GV)td.jg:R",
@@ -3559,6 +4511,9 @@ window.VAO_UNITS = [
     "lao": "ບໍ່ເຄີຍ",
     "img": "lao-L2-s026.jpg",
     "note": null,
+    "key": "9627e35209ea",
+    "audio": "tts/9627e35209ea.mp3",
+    "audio_src": "tts",
     "tiles": [
      "ບໍ່",
      "ເຄີຍ"
@@ -3570,7 +4525,10 @@ window.VAO_UNITS = [
     "roman": "naaja",
     "lao": "ໜ້າຈະ",
     "img": "lao-L2-s026.jpg",
-    "note": "khoi naaja kin khao kohn hian"
+    "note": "khoi naaja kin khao kohn hian",
+    "key": "26f5db6c7380",
+    "audio": "tts/26f5db6c7380.mp3",
+    "audio_src": "tts"
    },
    {
     "id": "NXmJ#`:]sQ",
@@ -3578,7 +4536,10 @@ window.VAO_UNITS = [
     "roman": "meunee",
     "lao": "ມື້ນີ້",
     "img": "lao-L2-s024.jpg",
-    "note": null
+    "note": null,
+    "key": "1d825be688e1",
+    "audio": "tts/1d825be688e1.mp3",
+    "audio_src": "tts"
    },
    {
     "id": "O)H%}4>|(Q",
@@ -3586,7 +4547,10 @@ window.VAO_UNITS = [
     "roman": "meu eun",
     "lao": "ມື້ອື່ນ",
     "img": "lao-L2-s024.jpg",
-    "note": null
+    "note": null,
+    "key": "43a692993e4e",
+    "audio": "tts/43a692993e4e.mp3",
+    "audio_src": "tts"
    },
    {
     "id": "CZ8cVR!m6Z",
@@ -3594,7 +4558,10 @@ window.VAO_UNITS = [
     "roman": "meu heu",
     "lao": "ມື້ຮື",
     "img": "lao-L2-s024.jpg",
-    "note": null
+    "note": null,
+    "key": "8c6b3cf71f8a",
+    "audio": "tts/8c6b3cf71f8a.mp3",
+    "audio_src": "tts"
    },
    {
     "id": "mVF5p^Ywe:",
@@ -3603,6 +4570,9 @@ window.VAO_UNITS = [
     "lao": "ຄືນນີ້",
     "img": "lao-L2-s024.jpg",
     "note": "also meu laeng",
+    "key": "c854cdf97789",
+    "audio": "tts/c854cdf97789.mp3",
+    "audio_src": "tts",
     "tiles": [
      "ຄືນ",
      "ນີ້"
@@ -3614,7 +4584,10 @@ window.VAO_UNITS = [
     "roman": "meuvaan nee",
     "lao": "ມື້ວານນີ້",
     "img": "lao-L2-s026.jpg",
-    "note": null
+    "note": null,
+    "key": "27bbc457bc2b",
+    "audio": "tts/27bbc457bc2b.mp3",
+    "audio_src": "tts"
    },
    {
     "id": "Faqr&(.jw{",
@@ -3623,6 +4596,9 @@ window.VAO_UNITS = [
     "lao": "ມື້ກ່ອນ",
     "img": "lao-L2-s026.jpg",
     "note": null,
+    "key": "f33c9dd7cdd2",
+    "audio": "tts/f33c9dd7cdd2.mp3",
+    "audio_src": "tts",
     "tiles": [
      "ມື້",
      "ກ່ອນ"
@@ -3634,7 +4610,10 @@ window.VAO_UNITS = [
     "roman": "athid / deuan / pee nee",
     "lao": "ອາທິດນີ້ / ເດືອນນີ້ / ປີນີ້",
     "img": "lao-L2-s014.jpg",
-    "note": null
+    "note": null,
+    "key": "27a46918dab4",
+    "audio": "tts/27a46918dab4.mp3",
+    "audio_src": "tts"
    },
    {
     "id": "uHy$32G>j*",
@@ -3642,7 +4621,10 @@ window.VAO_UNITS = [
     "roman": "athid / deuan / pee naa",
     "lao": "ອາທິດໜ້າ / ເດືອນໜ້າ / ປີໜ້າ",
     "img": "lao-L2-s014.jpg",
-    "note": null
+    "note": null,
+    "key": "acd3bf30b827",
+    "audio": "tts/acd3bf30b827.mp3",
+    "audio_src": "tts"
    },
    {
     "id": "Q+kiuw}3cK",
@@ -3651,6 +4633,9 @@ window.VAO_UNITS = [
     "lao": "ວັນເສົາໜ້າ",
     "img": "lao-L2-s024.jpg",
     "note": null,
+    "key": "80dab6f6dd9b",
+    "audio": "tts/80dab6f6dd9b.mp3",
+    "audio_src": "tts",
     "tiles": [
      "ວັນ",
      "ເສົາ",
@@ -3664,6 +4649,9 @@ window.VAO_UNITS = [
     "lao": "ວັນເສົາກ່ອນ",
     "img": "lao-L2-s026.jpg",
     "note": null,
+    "key": "77d400dcc942",
+    "audio": "tts/77d400dcc942.mp3",
+    "audio_src": "tts",
     "tiles": [
      "ວັນ",
      "ເສົາ",
@@ -3676,7 +4664,10 @@ window.VAO_UNITS = [
     "roman": "3 meu kohn",
     "lao": "3 ມື້ກ່ອນ",
     "img": "lao-L2-s034.jpg",
-    "note": null
+    "note": null,
+    "key": "e37e38a08c6e",
+    "audio": "tts/e37e38a08c6e.mp3",
+    "audio_src": "tts"
    },
    {
     "id": "Fn8yejDoX`",
@@ -3684,7 +4675,10 @@ window.VAO_UNITS = [
     "roman": "nai 3 meu",
     "lao": "ໃນ 3 ມື້",
     "img": null,
-    "note": "eek 3 meu = 3 more days"
+    "note": "eek 3 meu = 3 more days",
+    "key": "60b6a38c28df",
+    "audio": "tts/60b6a38c28df.mp3",
+    "audio_src": "tts"
    },
    {
     "id": "f8xA[Y@mt+",
@@ -3692,7 +4686,10 @@ window.VAO_UNITS = [
     "roman": "pen",
     "lao": "ເປັນ",
     "img": null,
-    "note": "Ginie pen khoo; also symptoms: khoi pen khai"
+    "note": "Ginie pen khoo; also symptoms: khoi pen khai",
+    "key": "b012c1687ddd",
+    "audio": "tts/b012c1687ddd.mp3",
+    "audio_src": "tts"
    },
    {
     "id": "c9!PfA{MQu",
@@ -3700,7 +4697,10 @@ window.VAO_UNITS = [
     "roman": "maen",
     "lao": "ແມ່ນ",
     "img": "lao-L2-s022.jpg",
-    "note": "an nee maen peum = this is a book; 90% of the time you DON'T need pen/maen"
+    "note": "an nee maen peum = this is a book; 90% of the time you DON'T need pen/maen",
+    "key": "69f90f7989ab",
+    "audio": "tts/69f90f7989ab.mp3",
+    "audio_src": "tts"
    },
    {
     "id": "LTz,u68<PC",
@@ -3708,7 +4708,10 @@ window.VAO_UNITS = [
     "roman": "hai",
     "lao": "ໃຫ້",
     "img": "lao-L2-s003.jpg",
-    "note": "khoi hian phasa Lao hai jao"
+    "note": "khoi hian phasa Lao hai jao",
+    "key": "ad389760a737",
+    "audio": "tts/ad389760a737.mp3",
+    "audio_src": "tts"
    },
    {
     "id": "xU2e_ARMTh",
@@ -3716,7 +4719,10 @@ window.VAO_UNITS = [
     "roman": "samlab",
     "lao": "ສຳລັບ",
     "img": "lao-L2-s023.jpg",
-    "note": "samlab van kuhd jao = for your birthday"
+    "note": "samlab van kuhd jao = for your birthday",
+    "key": "6b0691f28d85",
+    "audio": "tts/6b0691f28d85.mp3",
+    "audio_src": "tts"
    },
    {
     "id": "PmTd>E?Q0;",
@@ -3724,7 +4730,10 @@ window.VAO_UNITS = [
     "roman": "meu eun, jao see hed nyang?",
     "lao": "ມື້ອື່ນເຈົ້າຊິເຮັດຫຍັງ?",
     "img": null,
-    "note": null
+    "note": null,
+    "key": "5748dc508e30",
+    "audio": "tts/5748dc508e30.mp3",
+    "audio_src": "tts"
    },
    {
     "id": "c%-+C7A]y.",
@@ -3732,7 +4741,10 @@ window.VAO_UNITS = [
     "roman": "meuvaan nee, jao dai hed nyang?",
     "lao": "ມື້ວານນີ້, ເຈົ້າໄດ້ເຮັດຫຍັງ?",
     "img": null,
-    "note": "the handout slide misprints the last word as ກຍັງ"
+    "note": "the handout slide misprints the last word as ກຍັງ",
+    "key": "05f241c5fb28",
+    "audio": "tts/05f241c5fb28.mp3",
+    "audio_src": "tts"
    },
    {
     "id": "K_/0Y*:Ye9",
@@ -3741,6 +4753,9 @@ window.VAO_UNITS = [
     "lao": "ຂ້ອຍຮຽນພາສາລາວໃຫ້ເຈົ້າ",
     "img": null,
     "note": "hai = for a specific person",
+    "key": "a16f8dd7ddd4",
+    "audio": "tts/a16f8dd7ddd4.mp3",
+    "audio_src": "tts",
     "tiles": [
      "ຂ້ອຍ",
      "ຮຽນ",
@@ -3756,7 +4771,10 @@ window.VAO_UNITS = [
     "roman": "jao hed nyang samlab van kuhd jao?",
     "lao": "ເຈົ້າເຮັດຫຍັງສຳລັບວັນເກີດ(ຂອງ)ເຈົ້າ?",
     "img": "lao-L2-s023.jpg",
-    "note": "samlab = for an occasion"
+    "note": "samlab = for an occasion",
+    "key": "8e1a7fa555eb",
+    "audio": "tts/8e1a7fa555eb.mp3",
+    "audio_src": "tts"
    }
   ],
   "lessons": [
@@ -3811,7 +4829,10 @@ window.VAO_UNITS = [
     "roman": "nyang",
     "lao": "ຫຍັງ",
     "img": "lao-L2-s008.jpg",
-    "note": "jao mak nyang? — question word usually at the end"
+    "note": "jao mak nyang? — question word usually at the end",
+    "key": "6dc6bd57d171",
+    "audio": "tts/6dc6bd57d171.mp3",
+    "audio_src": "tts"
    },
    {
     "id": "P,R7)B4/BR",
@@ -3820,6 +4841,9 @@ window.VAO_UNITS = [
     "lao": "ແມ່ນຫຍັງ",
     "img": "lao-L2-s039.jpg",
     "note": "an nee maen nyang?",
+    "key": "a4f94ce66fb9",
+    "audio": "tts/a4f94ce66fb9.mp3",
+    "audio_src": "tts",
     "tiles": [
      "ແມ່ນ",
      "ຫຍັງ"
@@ -3832,6 +4856,9 @@ window.VAO_UNITS = [
     "lao": "ເປັນຫຍັງ",
     "img": "lao-L2-s039.jpg",
     "note": "EXCEPTION: goes at the beginning",
+    "key": "a4dbd82b111c",
+    "audio": "tts/a4dbd82b111c.mp3",
+    "audio_src": "tts",
     "tiles": [
      "ເປັນ",
      "ຫຍັງ"
@@ -3843,7 +4870,10 @@ window.VAO_UNITS = [
     "roman": "phai",
     "lao": "ໃຜ",
     "img": "lao-L2-s002.jpg",
-    "note": "phai mak kin? / jao mak kin kab phai?"
+    "note": "phai mak kin? / jao mak kin kab phai?",
+    "key": "3a70abf926e2",
+    "audio": "tts/3a70abf926e2.mp3",
+    "audio_src": "tts"
    },
    {
     "id": "Qv1huYPNB_",
@@ -3852,6 +4882,9 @@ window.VAO_UNITS = [
     "lao": "ຂອງໃຜ",
     "img": "lao-L2-s040.jpg",
     "note": "an nee khohng phai?",
+    "key": "a0011dd4f266",
+    "audio": "tts/a0011dd4f266.mp3",
+    "audio_src": "tts",
     "tiles": [
      "ຂອງ",
      "ໃຜ"
@@ -3863,7 +4896,10 @@ window.VAO_UNITS = [
     "roman": "yoosai",
     "lao": "ຢູ່ໃສ",
     "img": "lao-L2-s041.jpg",
-    "note": "mae jao yoosai?"
+    "note": "mae jao yoosai?",
+    "key": "3d7bcce8d689",
+    "audio": "tts/3d7bcce8d689.mp3",
+    "audio_src": "tts"
    },
    {
     "id": "fSC4kj5s|J",
@@ -3872,6 +4908,9 @@ window.VAO_UNITS = [
     "lao": "ໄປໃສ",
     "img": "lao-L2-s041.jpg",
     "note": "pai sai maa = where have you been?",
+    "key": "741933065378",
+    "audio": "tts/741933065378.mp3",
+    "audio_src": "tts",
     "tiles": [
      "ໄປ",
      "ໃສ"
@@ -3883,7 +4922,10 @@ window.VAO_UNITS = [
     "roman": "jak __",
     "lao": "ຈັກ__",
     "img": "lao-L2-s042.jpg",
-    "note": null
+    "note": null,
+    "key": "4d11ef170656",
+    "audio": "tts/4d11ef170656.mp3",
+    "audio_src": "tts"
    },
    {
     "id": "DkU%)`uqNY",
@@ -3892,6 +4934,9 @@ window.VAO_UNITS = [
     "lao": "ຈັກໂມງ",
     "img": "lao-L2-s042.jpg",
     "note": null,
+    "key": "4df4ee858b18",
+    "audio": "tts/4df4ee858b18.mp3",
+    "audio_src": "tts",
     "tiles": [
      "ຈັກ",
      "ໂມງ"
@@ -3903,7 +4948,10 @@ window.VAO_UNITS = [
     "roman": "__ dai (low tone)",
     "lao": "__ໃດ",
     "img": "lao-L2-s043.jpg",
-    "note": "an dai = which one"
+    "note": "an dai = which one",
+    "key": "ea68593c28ca",
+    "audio": "tts/ea68593c28ca.mp3",
+    "audio_src": "tts"
    },
    {
     "id": "xY7O@TYwXd",
@@ -3911,7 +4959,10 @@ window.VAO_UNITS = [
     "roman": "tohn dai",
     "lao": "ຕອນໃດ",
     "img": "lao-L2-s043.jpg",
-    "note": null
+    "note": null,
+    "key": "33c1746e4cd9",
+    "audio": "tts/33c1746e4cd9.mp3",
+    "audio_src": "tts"
    },
    {
     "id": "fUDy4@S<v",
@@ -3919,7 +4970,10 @@ window.VAO_UNITS = [
     "roman": "meudai",
     "lao": "ມື້ໃດ",
     "img": "lao-L2-s044.jpg",
-    "note": "van dai = which day of the week"
+    "note": "van dai = which day of the week",
+    "key": "2756e260534a",
+    "audio": "tts/2756e260534a.mp3",
+    "audio_src": "tts"
    },
    {
     "id": "K!)</b./;)",
@@ -3928,6 +4982,9 @@ window.VAO_UNITS = [
     "lao": "ປີໃດ",
     "img": "lao-L2-s043.jpg",
     "note": null,
+    "key": "8dba988907db",
+    "audio": "tts/8dba988907db.mp3",
+    "audio_src": "tts",
     "tiles": [
      "ປີ",
      "ໃດ"
@@ -3940,6 +4997,9 @@ window.VAO_UNITS = [
     "lao": "ວັນທີເທົ່າໃດ",
     "img": "lao-L2-s043.jpg",
     "note": null,
+    "key": "6db7803cd773",
+    "audio": "tts/6db7803cd773.mp3",
+    "audio_src": "tts",
     "tiles": [
      "ວັນທີ",
      "ເທົ່າໃດ"
@@ -3951,7 +5011,10 @@ window.VAO_UNITS = [
     "roman": "thaodai",
     "lao": "ເທົ່າໃດ",
     "img": "lao-L2-s043.jpg",
-    "note": null
+    "note": null,
+    "key": "96c603fdeae5",
+    "audio": "tts/96c603fdeae5.mp3",
+    "audio_src": "tts"
    },
    {
     "id": "G[,@=6)h1<",
@@ -3959,7 +5022,10 @@ window.VAO_UNITS = [
     "roman": "neodai",
     "lao": "ແນວໃດ",
     "img": "lao-L2-s021.jpg",
-    "note": "jao khab lod neodai?"
+    "note": "jao khab lod neodai?",
+    "key": "5e71e48b742c",
+    "audio": "tts/5e71e48b742c.mp3",
+    "audio_src": "tts"
    },
    {
     "id": "vqfbaI$FV2",
@@ -3967,7 +5033,10 @@ window.VAO_UNITS = [
     "roman": "baebdai",
     "lao": "ແບບໃດ",
     "img": "lao-L2-s043.jpg",
-    "note": "jao mak steak baebdai?"
+    "note": "jao mak steak baebdai?",
+    "key": "b7711a6158e8",
+    "audio": "tts/b7711a6158e8.mp3",
+    "audio_src": "tts"
    },
    {
     "id": "N?,3|[E/Fy",
@@ -3975,7 +5044,10 @@ window.VAO_UNITS = [
     "roman": "jangdai / jeungdai",
     "lao": "ຈັ່ງໃດ",
     "img": "lao-L2-s043.jpg",
-    "note": null
+    "note": null,
+    "key": "4d2c4cd64669",
+    "audio": "tts/4d2c4cd64669.mp3",
+    "audio_src": "tts"
    },
    {
     "id": "ctQ:UWMUxT",
@@ -3984,6 +5056,9 @@ window.VAO_UNITS = [
     "lao": "ແລ້ວບໍ",
     "img": "lao-L2-s032.jpg",
     "note": "slang: la boh?, la?",
+    "key": "a1330987bde2",
+    "audio": "tts/a1330987bde2.mp3",
+    "audio_src": "tts",
     "tiles": [
      "ແລ້ວ",
      "ບໍ"
@@ -3996,6 +5071,9 @@ window.VAO_UNITS = [
     "lao": "ໄດ້ບໍ",
     "img": "lao-L2-s014.jpg",
     "note": "jao ten dai boh?",
+    "key": "940f8a3012d0",
+    "audio": "tts/940f8a3012d0.mp3",
+    "audio_src": "tts",
     "tiles": [
      "ໄດ້",
      "ບໍ"
@@ -4007,7 +5085,10 @@ window.VAO_UNITS = [
     "roman": "boh?",
     "lao": "ບໍ",
     "img": "lao-L2-s038.jpg",
-    "note": "maen boh? = is it?"
+    "note": "maen boh? = is it?",
+    "key": "fee119a79351",
+    "audio": "tts/fee119a79351.mp3",
+    "audio_src": "tts"
    },
    {
     "id": "gMVHT_-^*g",
@@ -4015,7 +5096,10 @@ window.VAO_UNITS = [
     "roman": "khan",
     "lao": "ຄັນ",
     "img": null,
-    "note": "lod 2 khan = 2 cars"
+    "note": "lod 2 khan = 2 cars",
+    "key": "048d7f75acb0",
+    "audio": "tts/048d7f75acb0.mp3",
+    "audio_src": "tts"
    },
    {
     "id": "mDxcO/`!u7",
@@ -4023,7 +5107,10 @@ window.VAO_UNITS = [
     "roman": "an dai",
     "lao": "ອັນໃດ",
     "img": "lao-L2-s043.jpg",
-    "note": null
+    "note": null,
+    "key": "ed28a2da927d",
+    "audio": "tts/ed28a2da927d.mp3",
+    "audio_src": "tts"
    },
    {
     "id": "B#r7qV4N3a",
@@ -4032,6 +5119,9 @@ window.VAO_UNITS = [
     "lao": "ວັນໃດ",
     "img": "lao-L2-s043.jpg",
     "note": null,
+    "key": "ca8085761b36",
+    "audio": "tts/ca8085761b36.mp3",
+    "audio_src": "tts",
     "tiles": [
      "ວັນ",
      "ໃດ"
@@ -4084,7 +5174,10 @@ window.VAO_UNITS = [
     "roman": "ladoo",
     "lao": "ລະດູ",
     "img": "lao-L2-s056.jpg",
-    "note": null
+    "note": null,
+    "key": "f506ccf8f3b1",
+    "audio": "tts/f506ccf8f3b1.mp3",
+    "audio_src": "tts"
    },
    {
     "id": "KquR4@i32w",
@@ -4093,6 +5186,9 @@ window.VAO_UNITS = [
     "lao": "ລະດູໜາວ",
     "img": "lao-L2-s056.jpg",
     "note": null,
+    "key": "468b5d7e679f",
+    "audio": "tts/468b5d7e679f.mp3",
+    "audio_src": "tts",
     "tiles": [
      "ລະດູ",
      "ໜາວ"
@@ -4104,7 +5200,10 @@ window.VAO_UNITS = [
     "roman": "ladoo baimai pong",
     "lao": "ລະດູໃບໄມ້ປົ່ງ",
     "img": "lao-L2-s056.jpg",
-    "note": "baimai = leaf, pong = to bloom"
+    "note": "baimai = leaf, pong = to bloom",
+    "key": "465068d1eee6",
+    "audio": "tts/465068d1eee6.mp3",
+    "audio_src": "tts"
    },
    {
     "id": "H>7k<JKdSG",
@@ -4113,6 +5212,9 @@ window.VAO_UNITS = [
     "lao": "ລະດູຮ້ອນ",
     "img": "lao-L2-s056.jpg",
     "note": null,
+    "key": "958481b1a417",
+    "audio": "tts/958481b1a417.mp3",
+    "audio_src": "tts",
     "tiles": [
      "ລະດູ",
      "ຮ້ອນ"
@@ -4124,7 +5226,10 @@ window.VAO_UNITS = [
     "roman": "ladoo baimai lon",
     "lao": "ລະດູໃບໄມ້ລົ່ນ",
     "img": "lao-L2-s056.jpg",
-    "note": "lon = to fall off"
+    "note": "lon = to fall off",
+    "key": "aba956f2c0cc",
+    "audio": "tts/aba956f2c0cc.mp3",
+    "audio_src": "tts"
    },
    {
     "id": "g$msEShK>#",
@@ -4133,6 +5238,9 @@ window.VAO_UNITS = [
     "lao": "ລະດູຝົນ",
     "img": "lao-L2-w056-25.jpg",
     "note": null,
+    "key": "2073959c63d8",
+    "audio": "tts/2073959c63d8.mp3",
+    "audio_src": "tts",
     "tiles": [
      "ລະດູ",
      "ຝົນ"
@@ -4144,7 +5252,10 @@ window.VAO_UNITS = [
     "roman": "ladoo laeng",
     "lao": "ລະດູແລ້ງ",
     "img": "lao-L2-w056-26.jpg",
-    "note": null
+    "note": null,
+    "key": "10aff784a87e",
+    "audio": "tts/10aff784a87e.mp3",
+    "audio_src": "tts"
    },
    {
     "id": "i.c>^c,W2&",
@@ -4152,7 +5263,10 @@ window.VAO_UNITS = [
     "roman": "akaad",
     "lao": "ອາກາດ",
     "img": "lao-L2-s057.jpg",
-    "note": null
+    "note": null,
+    "key": "c7982a0509bb",
+    "audio": "tts/c7982a0509bb.mp3",
+    "audio_src": "tts"
    },
    {
     "id": "izy+:Sf={E",
@@ -4161,6 +5275,9 @@ window.VAO_UNITS = [
     "lao": "ອາກາດເປັນແນວໃດ?",
     "img": "lao-L2-s057.jpg",
     "note": null,
+    "key": "bc639cfe7ada",
+    "audio": "tts/bc639cfe7ada.mp3",
+    "audio_src": "tts",
     "tiles": [
      "ອາກາດ",
      "ເປັນ",
@@ -4173,7 +5290,10 @@ window.VAO_UNITS = [
     "roman": "jak ongsaa?",
     "lao": "ຈັກອົງສາ?",
     "img": "lao-L2-s057.jpg",
-    "note": null
+    "note": null,
+    "key": "247c1a280a00",
+    "audio": "tts/247c1a280a00.mp3",
+    "audio_src": "tts"
    },
    {
     "id": "ymn~Cw{+wD",
@@ -4181,7 +5301,10 @@ window.VAO_UNITS = [
     "roman": "mee daed",
     "lao": "ມີແດດ",
     "img": "lao-L2-s057.jpg",
-    "note": "daed = sun(light)"
+    "note": "daed = sun(light)",
+    "key": "fb32449089e4",
+    "audio": "tts/fb32449089e4.mp3",
+    "audio_src": "tts"
    },
    {
     "id": "o:68(cccyU",
@@ -4189,7 +5312,10 @@ window.VAO_UNITS = [
     "roman": "mee khee feua / mee mayk",
     "lao": "ມີຂີ້ເຝື້ອ / ມີເມກ",
     "img": "lao-L2-s057.jpg",
-    "note": null
+    "note": null,
+    "key": "ee6c01bbfd1c",
+    "audio": "tts/ee6c01bbfd1c.mp3",
+    "audio_src": "tts"
    },
    {
     "id": "z~tOzN.xY;",
@@ -4198,6 +5324,9 @@ window.VAO_UNITS = [
     "lao": "ຫິມະຕົກ",
     "img": "lao-L2-s057.jpg",
     "note": "heema = snow",
+    "key": "329d81dc1286",
+    "audio": "tts/329d81dc1286.mp3",
+    "audio_src": "tts",
     "tiles": [
      "ຫິມະ",
      "ຕົກ"
@@ -4210,6 +5339,9 @@ window.VAO_UNITS = [
     "lao": "ຝົນຕົກ",
     "img": "lao-L2-s057.jpg",
     "note": "tok = to fall",
+    "key": "eb5ca9e9c994",
+    "audio": "tts/eb5ca9e9c994.mp3",
+    "audio_src": "tts",
     "tiles": [
      "ຝົນ",
      "ຕົກ"
@@ -4222,6 +5354,9 @@ window.VAO_UNITS = [
     "lao": "ຟ້າຮ້ອງ",
     "img": null,
     "note": "lit. sky shouting",
+    "key": "f69fa242762d",
+    "audio": "tts/f69fa242762d.mp3",
+    "audio_src": "tts",
     "tiles": [
      "ຟ້າ",
      "ຮ້ອງ"
@@ -4233,7 +5368,10 @@ window.VAO_UNITS = [
     "roman": "faa phaa",
     "lao": "ຟ້າຜ່າ",
     "img": "lao-L2-s057.jpg",
-    "note": "phaa = to strike"
+    "note": "phaa = to strike",
+    "key": "e1787d921d6d",
+    "audio": "tts/e1787d921d6d.mp3",
+    "audio_src": "tts"
    },
    {
     "id": "F5w94*_NWY",
@@ -4242,6 +5380,9 @@ window.VAO_UNITS = [
     "lao": "ມີລົມ",
     "img": "lao-L2-s057.jpg",
     "note": "lom haeng = strong wind",
+    "key": "b6f2d8d6353c",
+    "audio": "tts/b6f2d8d6353c.mp3",
+    "audio_src": "tts",
     "tiles": [
      "ມີ",
      "ລົມ"
@@ -4254,6 +5395,9 @@ window.VAO_UNITS = [
     "lao": "ພາຍຸກຳລັງມາ",
     "img": "lao-L2-s057.jpg",
     "note": null,
+    "key": "97b3755997b5",
+    "audio": "tts/97b3755997b5.mp3",
+    "audio_src": "tts",
     "tiles": [
      "ພາຍຸ",
      "ກຳລັງ",
@@ -4266,7 +5410,10 @@ window.VAO_UNITS = [
     "roman": "lom",
     "lao": "ລົມ",
     "img": "lao-L2-s057.jpg",
-    "note": "mee lom = windy"
+    "note": "mee lom = windy",
+    "key": "ece47ddcdff0",
+    "audio": "tts/ece47ddcdff0.mp3",
+    "audio_src": "tts"
    },
    {
     "id": "KkhaCl=Zc&",
@@ -4274,7 +5421,10 @@ window.VAO_UNITS = [
     "roman": "lom haeng",
     "lao": "ລົມແຮງ",
     "img": "lao-L2-s057.jpg",
-    "note": "this haeng means strong; not the same word as haeng = dry"
+    "note": "this haeng means strong; not the same word as haeng = dry",
+    "key": "ce5addc7eeb7",
+    "audio": "tts/ce5addc7eeb7.mp3",
+    "audio_src": "tts"
    }
   ],
   "lessons": [
@@ -4317,7 +5467,10 @@ window.VAO_UNITS = [
     "roman": "seuaphaa / kheuang noong",
     "lao": "ເສື້ອຜ້າ / ເຄື່ອງນຸ່ງ",
     "img": "lao-L2-s058.jpg",
-    "note": "seua = shirt, phaa = fabric"
+    "note": "seua = shirt, phaa = fabric",
+    "key": "1a74541af2c3",
+    "audio": "tts/1a74541af2c3.mp3",
+    "audio_src": "tts"
    },
    {
     "id": "sez]Ep{b~[",
@@ -4325,7 +5478,10 @@ window.VAO_UNITS = [
     "roman": "noong",
     "lao": "ນຸ່ງ",
     "img": "lao-L2-s058.jpg",
-    "note": null
+    "note": null,
+    "key": "1fdd0d7011e3",
+    "audio": "tts/1fdd0d7011e3.mp3",
+    "audio_src": "tts"
    },
    {
     "id": "fY,iGb;-RY",
@@ -4333,7 +5489,10 @@ window.VAO_UNITS = [
     "roman": "sai",
     "lao": "ໃສ່",
     "img": null,
-    "note": null
+    "note": null,
+    "key": "6e3109de11b8",
+    "audio": "tts/6e3109de11b8.mp3",
+    "audio_src": "tts"
    },
    {
     "id": "k?=Br-@P$Z",
@@ -4341,7 +5500,10 @@ window.VAO_UNITS = [
     "roman": "seua",
     "lao": "ເສື້ອ",
     "img": "lao-L2-s058.jpg",
-    "note": "seua yeud = t-shirt (yeud = stretch)"
+    "note": "seua yeud = t-shirt (yeud = stretch)",
+    "key": "0b43eee1b4fa",
+    "audio": "tts/0b43eee1b4fa.mp3",
+    "audio_src": "tts"
    },
    {
     "id": "N~db)x~a[?",
@@ -4350,6 +5512,9 @@ window.VAO_UNITS = [
     "lao": "ເສື້ອແຂນສັ້ນ",
     "img": null,
     "note": "khaen = arm, san = short",
+    "key": "5a61d501e9af",
+    "audio": "tts/5a61d501e9af.mp3",
+    "audio_src": "tts",
     "tiles": [
      "ເສື້ອ",
      "ແຂນ",
@@ -4363,6 +5528,9 @@ window.VAO_UNITS = [
     "lao": "ເສື້ອແຂນຍາວ",
     "img": null,
     "note": "nyaao = long",
+    "key": "570e03560416",
+    "audio": "tts/570e03560416.mp3",
+    "audio_src": "tts",
     "tiles": [
      "ເສື້ອ",
      "ແຂນ",
@@ -4375,7 +5543,10 @@ window.VAO_UNITS = [
     "roman": "seua kan naao",
     "lao": "ເສື້ອກັນໜາວ",
     "img": "lao-L2-s058.jpg",
-    "note": "kan = to protect; rain jacket = seua kan fon"
+    "note": "kan = to protect; rain jacket = seua kan fon",
+    "key": "b05df2f5849b",
+    "audio": "tts/b05df2f5849b.mp3",
+    "audio_src": "tts"
    },
    {
     "id": "G^doj,~I^6",
@@ -4383,7 +5554,10 @@ window.VAO_UNITS = [
     "roman": "sood",
     "lao": "ຊຸດ",
     "img": "lao-L2-s058.jpg",
-    "note": "swimsuit = sood loy naam"
+    "note": "swimsuit = sood loy naam",
+    "key": "05982f2bf3bb",
+    "audio": "tts/05982f2bf3bb.mp3",
+    "audio_src": "tts"
    },
    {
     "id": "bvPGI?w-bX",
@@ -4391,7 +5565,10 @@ window.VAO_UNITS = [
     "roman": "kapong",
     "lao": "ກະໂປ່ງ",
     "img": "lao-L2-s058.jpg",
-    "note": null
+    "note": null,
+    "key": "ef72d413650c",
+    "audio": "tts/ef72d413650c.mp3",
+    "audio_src": "tts"
    },
    {
     "id": "gb1W+#@oss",
@@ -4399,7 +5576,10 @@ window.VAO_UNITS = [
     "roman": "sin",
     "lao": "ສິ້ນ",
     "img": "lao-L2-w058-27.jpg",
-    "note": null
+    "note": null,
+    "key": "df2dbe0e9cd2",
+    "audio": "tts/df2dbe0e9cd2.mp3",
+    "audio_src": "tts"
    },
    {
     "id": "lRp{6AGf)@",
@@ -4408,6 +5588,9 @@ window.VAO_UNITS = [
     "lao": "ຜ້າໄໝ",
     "img": "lao-L2-s058.jpg",
     "note": null,
+    "key": "2d56a4d705fc",
+    "audio": "tts/2d56a4d705fc.mp3",
+    "audio_src": "tts",
     "tiles": [
      "ຜ້າ",
      "ໄໝ"
@@ -4419,7 +5602,10 @@ window.VAO_UNITS = [
     "roman": "song",
     "lao": "ໂສ້ງ",
     "img": "lao-L2-s058.jpg",
-    "note": "song khaa san = shorts (khaa = leg)"
+    "note": "song khaa san = shorts (khaa = leg)",
+    "key": "ae8df9ea7229",
+    "audio": "tts/ae8df9ea7229.mp3",
+    "audio_src": "tts"
    },
    {
     "id": "jr2B@B@(:8",
@@ -4427,7 +5613,10 @@ window.VAO_UNITS = [
     "roman": "salib",
     "lao": "ສະລິບ",
     "img": "lao-L2-s058.jpg",
-    "note": "from French \"le slip\""
+    "note": "from French \"le slip\"",
+    "key": "5dfc9fd67408",
+    "audio": "tts/5dfc9fd67408.mp3",
+    "audio_src": "tts"
    },
    {
     "id": "f`wQAhP!)<",
@@ -4436,6 +5625,9 @@ window.VAO_UNITS = [
     "lao": "ເສື້ອຊ້ອນ",
     "img": "lao-L2-s058.jpg",
     "note": "sohn = to stack",
+    "key": "2e0156a801ee",
+    "audio": "tts/2e0156a801ee.mp3",
+    "audio_src": "tts",
     "tiles": [
      "ເສື້ອ",
      "ຊ້ອນ"
@@ -4448,6 +5640,9 @@ window.VAO_UNITS = [
     "lao": "ຜ້າພັນຄໍ",
     "img": "lao-L2-s059.jpg",
     "note": "phan = to wrap, khoh = neck",
+    "key": "f208facd4273",
+    "audio": "tts/f208facd4273.mp3",
+    "audio_src": "tts",
     "tiles": [
      "ຜ້າ",
      "ພັນ",
@@ -4461,6 +5656,9 @@ window.VAO_UNITS = [
     "lao": "ຖົງຕີນ",
     "img": null,
     "note": "thong = bag, teen = feet",
+    "key": "5e170ba00688",
+    "audio": "tts/5e170ba00688.mp3",
+    "audio_src": "tts",
     "tiles": [
      "ຖົງ",
      "ຕີນ"
@@ -4472,7 +5670,10 @@ window.VAO_UNITS = [
     "roman": "mong",
     "lao": "ໂມງ",
     "img": "lao-L2-s059.jpg",
-    "note": null
+    "note": null,
+    "key": "471ebe4a5bb4",
+    "audio": "tts/471ebe4a5bb4.mp3",
+    "audio_src": "tts"
    },
    {
     "id": "hPc/?/!Xxa",
@@ -4480,7 +5681,10 @@ window.VAO_UNITS = [
     "roman": "kuhb",
     "lao": "ເກີບ",
     "img": "lao-L2-s059.jpg",
-    "note": "sports shoes = kuhb kilaa"
+    "note": "sports shoes = kuhb kilaa",
+    "key": "00482d4aca7d",
+    "audio": "tts/00482d4aca7d.mp3",
+    "audio_src": "tts"
    },
    {
     "id": "w.>>KIgkL;",
@@ -4489,6 +5693,9 @@ window.VAO_UNITS = [
     "lao": "ເກີບສົ້ນສູງ",
     "img": "lao-L2-s059.jpg",
     "note": null,
+    "key": "081ea63593fa",
+    "audio": "tts/081ea63593fa.mp3",
+    "audio_src": "tts",
     "tiles": [
      "ເກີບ",
      "ສົ້ນ",
@@ -4501,7 +5708,10 @@ window.VAO_UNITS = [
     "roman": "kuhb (e) tae",
     "lao": "ເກີບ(ອີ)ແຕະ",
     "img": null,
-    "note": null
+    "note": null,
+    "key": "661dfdbcca77",
+    "audio": "tts/661dfdbcca77.mp3",
+    "audio_src": "tts"
    },
    {
     "id": "JsjjO5vng$",
@@ -4509,7 +5719,10 @@ window.VAO_UNITS = [
     "roman": "vaentaa",
     "lao": "ແວ່ນຕາ",
     "img": "lao-L2-s059.jpg",
-    "note": "sunglasses = vaentaa kan daed"
+    "note": "sunglasses = vaentaa kan daed",
+    "key": "d90c0199eb80",
+    "audio": "tts/d90c0199eb80.mp3",
+    "audio_src": "tts"
    },
    {
     "id": "to48k8h(BA",
@@ -4517,7 +5730,10 @@ window.VAO_UNITS = [
     "roman": "vaen",
     "lao": "ແຫວນ",
     "img": "lao-L2-s059.jpg",
-    "note": null
+    "note": null,
+    "key": "ae08c5ca98bf",
+    "audio": "tts/ae08c5ca98bf.mp3",
+    "audio_src": "tts"
    },
    {
     "id": ">MrarvCeS",
@@ -4526,6 +5742,9 @@ window.VAO_UNITS = [
     "lao": "ສາຍແອວ",
     "img": null,
     "note": "saai = string",
+    "key": "1d58cc0e0f51",
+    "audio": "tts/1d58cc0e0f51.mp3",
+    "audio_src": "tts",
     "tiles": [
      "ສາຍ",
      "ແອວ"
@@ -4538,6 +5757,9 @@ window.VAO_UNITS = [
     "lao": "ສາຍຄໍ",
     "img": "lao-L2-s059.jpg",
     "note": null,
+    "key": "59711ae868c3",
+    "audio": "tts/59711ae868c3.mp3",
+    "audio_src": "tts",
     "tiles": [
      "ສາຍ",
      "ຄໍ"
@@ -4550,6 +5772,9 @@ window.VAO_UNITS = [
     "lao": "ສາຍແຂນ",
     "img": "lao-L2-s059.jpg",
     "note": null,
+    "key": "8ac70c169c98",
+    "audio": "tts/8ac70c169c98.mp3",
+    "audio_src": "tts",
     "tiles": [
      "ສາຍ",
      "ແຂນ"
@@ -4561,7 +5786,10 @@ window.VAO_UNITS = [
     "roman": "toom hoo",
     "lao": "ຕຸ້ມຫູ",
     "img": "lao-L2-s059.jpg",
-    "note": null
+    "note": null,
+    "key": "15f77ee51a44",
+    "audio": "tts/15f77ee51a44.mp3",
+    "audio_src": "tts"
    },
    {
     "id": "n,#x$U1?|M",
@@ -4569,7 +5797,10 @@ window.VAO_UNITS = [
     "roman": "kapao",
     "lao": "ກະເປົາ",
     "img": "lao-L2-s059.jpg",
-    "note": null
+    "note": null,
+    "key": "9cb469238def",
+    "audio": "tts/9cb469238def.mp3",
+    "audio_src": "tts"
    },
    {
     "id": "wGG)7em)C0",
@@ -4578,6 +5809,9 @@ window.VAO_UNITS = [
     "lao": "ກະເປົາເງິນ",
     "img": "lao-L2-s059.jpg",
     "note": "nguhn = money",
+    "key": "e706df675f51",
+    "audio": "tts/e706df675f51.mp3",
+    "audio_src": "tts",
     "tiles": [
      "ກະເປົາ",
      "ເງິນ"
@@ -4589,7 +5823,10 @@ window.VAO_UNITS = [
     "roman": "mooak",
     "lao": "ໝວກ",
     "img": "lao-L2-s059.jpg",
-    "note": null
+    "note": null,
+    "key": "c433a1bce360",
+    "audio": "tts/c433a1bce360.mp3",
+    "audio_src": "tts"
    },
    {
     "id": "M0#!Zi8~Lq",
@@ -4597,7 +5834,10 @@ window.VAO_UNITS = [
     "roman": "seua yeud",
     "lao": "ເສື້ອ(ຍືດ)",
     "img": "lao-L2-s058.jpg",
-    "note": "yeud = stretch"
+    "note": "yeud = stretch",
+    "key": "d6164c7a33d4",
+    "audio": "tts/d6164c7a33d4.mp3",
+    "audio_src": "tts"
    },
    {
     "id": "Yh;nnJ0$#",
@@ -4605,7 +5845,10 @@ window.VAO_UNITS = [
     "roman": "sood loy naam",
     "lao": "ຊຸດລອຍນ້ຳ",
     "img": null,
-    "note": null
+    "note": null,
+    "key": "f74976fba3c9",
+    "audio": "tts/f74976fba3c9.mp3",
+    "audio_src": "tts"
    },
    {
     "id": "Da@T+*TgKS",
@@ -4614,6 +5857,9 @@ window.VAO_UNITS = [
     "lao": "ໂສ້ງຂາສັ້ນ",
     "img": null,
     "note": "khaa = leg",
+    "key": "678c8d8f9814",
+    "audio": "tts/678c8d8f9814.mp3",
+    "audio_src": "tts",
     "tiles": [
      "ໂສ້ງ",
      "ຂາ",
@@ -4627,6 +5873,9 @@ window.VAO_UNITS = [
     "lao": "ໂສ້ງຂາຍາວ",
     "img": null,
     "note": null,
+    "key": "2a7b86aed2c6",
+    "audio": "tts/2a7b86aed2c6.mp3",
+    "audio_src": "tts",
     "tiles": [
      "ໂສ້ງ",
      "ຂາ",
@@ -4640,6 +5889,9 @@ window.VAO_UNITS = [
     "lao": "ເກີບກິລາ",
     "img": "lao-L2-s059.jpg",
     "note": null,
+    "key": "0861b0c760be",
+    "audio": "tts/0861b0c760be.mp3",
+    "audio_src": "tts",
     "tiles": [
      "ເກີບ",
      "ກິລາ"
@@ -4651,7 +5903,10 @@ window.VAO_UNITS = [
     "roman": "vaentaa kan daed",
     "lao": "ແວ່ນຕາກັນແດດ",
     "img": "lao-L2-s059.jpg",
-    "note": "kan = to protect, daed = sun"
+    "note": "kan = to protect, daed = sun",
+    "key": "f2f089ed183a",
+    "audio": "tts/f2f089ed183a.mp3",
+    "audio_src": "tts"
    }
   ],
   "lessons": [
@@ -4715,7 +5970,10 @@ window.VAO_UNITS = [
     "roman": "lod",
     "lao": "ລົດ",
     "img": "lao-L2-s016.jpg",
-    "note": null
+    "note": null,
+    "key": "5fd680c662fe",
+    "audio": "tts/5fd680c662fe.mp3",
+    "audio_src": "tts"
    },
    {
     "id": "z%{~4`KYEC",
@@ -4723,7 +5981,10 @@ window.VAO_UNITS = [
     "roman": "khab",
     "lao": "ຂັບ",
     "img": "lao-L2-s016.jpg",
-    "note": null
+    "note": null,
+    "key": "6553d4c17252",
+    "audio": "tts/6553d4c17252.mp3",
+    "audio_src": "tts"
    },
    {
     "id": "eAcF8]-i@t",
@@ -4731,7 +5992,10 @@ window.VAO_UNITS = [
     "roman": "khee (middle tone)",
     "lao": "ຂີ່",
     "img": "lao-L2-s065.jpg",
-    "note": null
+    "note": null,
+    "key": "c0efa6b37792",
+    "audio": "tts/c0efa6b37792.mp3",
+    "audio_src": "tts"
    },
    {
     "id": "I1w7sBkt+^",
@@ -4739,7 +6003,10 @@ window.VAO_UNITS = [
     "roman": "kheun",
     "lao": "ຂຶ້ນ",
     "img": "lao-L2-s065.jpg",
-    "note": null
+    "note": null,
+    "key": "5869fec3b228",
+    "audio": "tts/5869fec3b228.mp3",
+    "audio_src": "tts"
    },
    {
     "id": "r(bM,{v?Lc",
@@ -4747,7 +6014,10 @@ window.VAO_UNITS = [
     "roman": "lod theeb",
     "lao": "ລົດຖີບ",
     "img": "lao-L2-s065.jpg",
-    "note": "theeb = to kick/pedal"
+    "note": "theeb = to kick/pedal",
+    "key": "7901882cf24a",
+    "audio": "tts/7901882cf24a.mp3",
+    "audio_src": "tts"
    },
    {
     "id": "Q3[)Paq7pw",
@@ -4756,6 +6026,9 @@ window.VAO_UNITS = [
     "lao": "ລົດໄຟ",
     "img": "lao-L2-s065.jpg",
     "note": "fai = fire",
+    "key": "a11135b42e4f",
+    "audio": "tts/a11135b42e4f.mp3",
+    "audio_src": "tts",
     "tiles": [
      "ລົດ",
      "ໄຟ"
@@ -4767,7 +6040,10 @@ window.VAO_UNITS = [
     "roman": "nyon",
     "lao": "ຍົນ",
     "img": "lao-L2-s065.jpg",
-    "note": null
+    "note": null,
+    "key": "605fe248fa4c",
+    "audio": "tts/605fe248fa4c.mp3",
+    "audio_src": "tts"
    },
    {
     "id": "bl15R{9];6",
@@ -4776,6 +6052,9 @@ window.VAO_UNITS = [
     "lao": "ລົດໃຫຍ່",
     "img": "lao-L2-s065.jpg",
     "note": null,
+    "key": "440ff08fd31c",
+    "audio": "tts/440ff08fd31c.mp3",
+    "audio_src": "tts",
     "tiles": [
      "ລົດ",
      "ໃຫຍ່"
@@ -4787,7 +6066,10 @@ window.VAO_UNITS = [
     "roman": "heuaa",
     "lao": "ເຮືອ",
     "img": "lao-L2-s065.jpg",
-    "note": null
+    "note": null,
+    "key": "a2d84b6caa2c",
+    "audio": "tts/a2d84b6caa2c.mp3",
+    "audio_src": "tts"
    },
    {
     "id": "J?<7ASp6Ig",
@@ -4796,6 +6078,9 @@ window.VAO_UNITS = [
     "lao": "ລົດຈັກ",
     "img": "lao-L2-s065.jpg",
     "note": "jak = engine",
+    "key": "99568250a5e0",
+    "audio": "tts/99568250a5e0.mp3",
+    "audio_src": "tts",
     "tiles": [
      "ລົດ",
      "ຈັກ"
@@ -4807,7 +6092,10 @@ window.VAO_UNITS = [
     "roman": "lod may",
     "lao": "ລົດເມ",
     "img": "lao-L2-s065.jpg",
-    "note": null
+    "note": null,
+    "key": "606e7fc025d4",
+    "audio": "tts/606e7fc025d4.mp3",
+    "audio_src": "tts"
    },
    {
     "id": "u~FPxdwI+M",
@@ -4816,6 +6104,9 @@ window.VAO_UNITS = [
     "lao": "ລົດຕູ້",
     "img": "lao-L2-s065.jpg",
     "note": "too = cabinet",
+    "key": "149a5c79741b",
+    "audio": "tts/149a5c79741b.mp3",
+    "audio_src": "tts",
     "tiles": [
      "ລົດ",
      "ຕູ້"
@@ -4827,7 +6118,10 @@ window.VAO_UNITS = [
     "roman": "vad",
     "lao": "ວັດ",
     "img": "lao-L2-w066-28.jpg",
-    "note": null
+    "note": null,
+    "key": "f1f870bac29b",
+    "audio": "tts/f1f870bac29b.mp3",
+    "audio_src": "tts"
    },
    {
     "id": "c/~x%xBx2$",
@@ -4835,7 +6129,10 @@ window.VAO_UNITS = [
     "roman": "bod",
     "lao": "ໂບດ",
     "img": "lao-L2-s066.jpg",
-    "note": null
+    "note": null,
+    "key": "1e58eadd6823",
+    "audio": "tts/1e58eadd6823.mp3",
+    "audio_src": "tts"
    },
    {
     "id": "JbT-!V*6o+",
@@ -4843,7 +6140,10 @@ window.VAO_UNITS = [
     "roman": "baan",
     "lao": "ບ້ານ",
     "img": "lao-L2-s018.jpg",
-    "note": null
+    "note": null,
+    "key": "4ac9557e47bc",
+    "audio": "tts/4ac9557e47bc.mp3",
+    "audio_src": "tts"
    },
    {
     "id": "yUXz;b6F9Y",
@@ -4851,7 +6151,10 @@ window.VAO_UNITS = [
     "roman": "heuan",
     "lao": "ເຮືອນ",
     "img": "lao-L2-s066.jpg",
-    "note": null
+    "note": null,
+    "key": "d2221dc1a04f",
+    "audio": "tts/d2221dc1a04f.mp3",
+    "audio_src": "tts"
    },
    {
     "id": "x_r;JfwDR>",
@@ -4860,6 +6163,9 @@ window.VAO_UNITS = [
     "lao": "ສະຖານີລົດໄຟ",
     "img": "lao-L2-s066.jpg",
     "note": null,
+    "key": "3333bacc43ff",
+    "audio": "tts/3333bacc43ff.mp3",
+    "audio_src": "tts",
     "tiles": [
      "ສະຖານີ",
      "ລົດ",
@@ -4872,7 +6178,10 @@ window.VAO_UNITS = [
     "roman": "honghian",
     "lao": "ໂຮງຮຽນ",
     "img": "lao-L2-s035.jpg",
-    "note": null
+    "note": null,
+    "key": "45b1e7a8f8e0",
+    "audio": "tts/45b1e7a8f8e0.mp3",
+    "audio_src": "tts"
    },
    {
     "id": "O]GQCmGnDy",
@@ -4880,7 +6189,10 @@ window.VAO_UNITS = [
     "roman": "sanaambin",
     "lao": "ສະໜາມບິນ",
     "img": "lao-L2-s066.jpg",
-    "note": null
+    "note": null,
+    "key": "f82b4372c233",
+    "audio": "tts/f82b4372c233.mp3",
+    "audio_src": "tts"
    },
    {
     "id": "jJxooYSQ6Q",
@@ -4888,7 +6200,10 @@ window.VAO_UNITS = [
     "roman": "honghaem",
     "lao": "ໂຮງແຮມ",
     "img": "lao-L2-s066.jpg",
-    "note": null
+    "note": null,
+    "key": "ed0567a39306",
+    "audio": "tts/ed0567a39306.mp3",
+    "audio_src": "tts"
    },
    {
     "id": "u9S*Ftgltp",
@@ -4896,7 +6211,10 @@ window.VAO_UNITS = [
     "roman": "hongmoh",
     "lao": "ໂຮງໝໍ",
     "img": "lao-L2-s066.jpg",
-    "note": null
+    "note": null,
+    "key": "6f0a57f47dd9",
+    "audio": "tts/6f0a57f47dd9.mp3",
+    "audio_src": "tts"
    },
    {
     "id": "AkS^gT?oC*",
@@ -4905,6 +6223,9 @@ window.VAO_UNITS = [
     "lao": "ບ່ອນຈອດລົດ",
     "img": "lao-L2-s066.jpg",
     "note": "bohn = place",
+    "key": "c1617e7f3c07",
+    "audio": "tts/c1617e7f3c07.mp3",
+    "audio_src": "tts",
     "tiles": [
      "ບ່ອນ",
      "ຈອດ",
@@ -4918,6 +6239,9 @@ window.VAO_UNITS = [
     "lao": "ຫ້ອງການ",
     "img": null,
     "note": "hohng = room",
+    "key": "b11bd36b5d0c",
+    "audio": "tts/b11bd36b5d0c.mp3",
+    "audio_src": "tts",
     "tiles": [
      "ຫ້ອງ",
      "ການ"
@@ -4929,7 +6253,10 @@ window.VAO_UNITS = [
     "roman": "talaad",
     "lao": "ຕະຫຼາດ",
     "img": "lao-L2-s066.jpg",
-    "note": null
+    "note": null,
+    "key": "fac917ace45a",
+    "audio": "tts/fac917ace45a.mp3",
+    "audio_src": "tts"
    },
    {
     "id": "Rgx2(s4qy$",
@@ -4937,7 +6264,10 @@ window.VAO_UNITS = [
     "roman": "thanakhaan",
     "lao": "ທະນາຄານ",
     "img": "lao-L2-s066.jpg",
-    "note": null
+    "note": null,
+    "key": "3da2f0bf2cad",
+    "audio": "tts/3da2f0bf2cad.mp3",
+    "audio_src": "tts"
    },
    {
     "id": "D@t&ARxVy>",
@@ -4945,7 +6275,10 @@ window.VAO_UNITS = [
     "roman": "haan",
     "lao": "ຮ້ານ",
     "img": "lao-L2-s066.jpg",
-    "note": "haan ahaan = restaurant"
+    "note": "haan ahaan = restaurant",
+    "key": "2f13eca3786a",
+    "audio": "tts/2f13eca3786a.mp3",
+    "audio_src": "tts"
    },
    {
     "id": "gVYUE6ZWvw",
@@ -4953,7 +6286,10 @@ window.VAO_UNITS = [
     "roman": "sooan",
     "lao": "ສວນ",
     "img": "lao-L2-s066.jpg",
-    "note": null
+    "note": null,
+    "key": "b4695f07f75e",
+    "audio": "tts/b4695f07f75e.mp3",
+    "audio_src": "tts"
    },
    {
     "id": "hag&^8+GW>",
@@ -4962,6 +6298,9 @@ window.VAO_UNITS = [
     "lao": "ຮ້ານອາຫານ",
     "img": "lao-L2-s066.jpg",
     "note": null,
+    "key": "6bba80aa3fd7",
+    "audio": "tts/6bba80aa3fd7.mp3",
+    "audio_src": "tts",
     "tiles": [
      "ຮ້ານ",
      "ອາຫານ"
@@ -5020,7 +6359,10 @@ window.VAO_UNITS = [
     "roman": "nai",
     "lao": "ໃນ",
     "img": null,
-    "note": null
+    "note": null,
+    "key": "d6c4424a901d",
+    "audio": "tts/d6c4424a901d.mp3",
+    "audio_src": "tts"
    },
    {
     "id": "WKM)BT>i{",
@@ -5028,7 +6370,10 @@ window.VAO_UNITS = [
     "roman": "thuhng",
     "lao": "ເທິງ",
     "img": "lao-L2-s069.jpg",
-    "note": null
+    "note": null,
+    "key": "d729c7c5915c",
+    "audio": "tts/d729c7c5915c.mp3",
+    "audio_src": "tts"
    },
    {
     "id": "JUXX07>&TD",
@@ -5036,7 +6381,10 @@ window.VAO_UNITS = [
     "roman": "loom",
     "lao": "ລຸ່ມ",
     "img": "lao-L2-s069.jpg",
-    "note": null
+    "note": null,
+    "key": "2fcfdb803c8d",
+    "audio": "tts/2fcfdb803c8d.mp3",
+    "audio_src": "tts"
    },
    {
     "id": "cx>k=pv1Sk",
@@ -5044,7 +6392,10 @@ window.VAO_UNITS = [
     "roman": "khaang (khaang2)",
     "lao": "ຂ້າງ(ໆ)",
     "img": "lao-L2-s069.jpg",
-    "note": null
+    "note": null,
+    "key": "63339eddef93",
+    "audio": "tts/63339eddef93.mp3",
+    "audio_src": "tts"
    },
    {
     "id": "mdnbz+g$%I",
@@ -5052,7 +6403,10 @@ window.VAO_UNITS = [
     "roman": "lang",
     "lao": "ຫຼັງ",
     "img": "lao-L2-s069.jpg",
-    "note": "lang = back"
+    "note": "lang = back",
+    "key": "4b3dc87f1752",
+    "audio": "tts/4b3dc87f1752.mp3",
+    "audio_src": "tts"
    },
    {
     "id": "bSaU%HyM6e",
@@ -5060,7 +6414,10 @@ window.VAO_UNITS = [
     "roman": "naa",
     "lao": "ໜ້າ",
     "img": "lao-L2-s069.jpg",
-    "note": "naa = face"
+    "note": "naa = face",
+    "key": "c5989998d598",
+    "audio": "tts/c5989998d598.mp3",
+    "audio_src": "tts"
    },
    {
     "id": "t.yXDdE*1y",
@@ -5068,7 +6425,10 @@ window.VAO_UNITS = [
     "roman": "lavaang",
     "lao": "ລະຫວ່າງ",
     "img": "lao-L2-s069.jpg",
-    "note": null
+    "note": null,
+    "key": "86b2cb7d27fc",
+    "audio": "tts/86b2cb7d27fc.mp3",
+    "audio_src": "tts"
    },
    {
     "id": "B5E?29<oPr",
@@ -5076,7 +6436,10 @@ window.VAO_UNITS = [
     "roman": "kai (high tone)",
     "lao": "ໃກ້",
     "img": "lao-L2-s069.jpg",
-    "note": null
+    "note": null,
+    "key": "f7e00f8cdadf",
+    "audio": "tts/f7e00f8cdadf.mp3",
+    "audio_src": "tts"
    },
    {
     "id": "wh{`(`^uAY",
@@ -5084,7 +6447,10 @@ window.VAO_UNITS = [
     "roman": "kai (low tone)",
     "lao": "ໄກ",
     "img": "lao-L2-s069.jpg",
-    "note": "kai (middle) = chicken!"
+    "note": "kai (middle) = chicken!",
+    "key": "d5fdac06657d",
+    "audio": "tts/d5fdac06657d.mp3",
+    "audio_src": "tts"
    },
    {
     "id": "b!6{*,$E-[",
@@ -5092,7 +6458,10 @@ window.VAO_UNITS = [
     "roman": "thaang saai",
     "lao": "ທາງຊ້າຍ",
     "img": "lao-L2-s069.jpg",
-    "note": null
+    "note": null,
+    "key": "5b0d8a8ce014",
+    "audio": "tts/5b0d8a8ce014.mp3",
+    "audio_src": "tts"
    },
    {
     "id": "w<k)%cJ+hp",
@@ -5101,6 +6470,9 @@ window.VAO_UNITS = [
     "lao": "ທາງຂວາ",
     "img": "lao-L2-s069.jpg",
     "note": null,
+    "key": "c75dd5d341ac",
+    "audio": "tts/c75dd5d341ac.mp3",
+    "audio_src": "tts",
     "tiles": [
      "ທາງ",
      "ຂວາ"
@@ -5112,7 +6484,10 @@ window.VAO_UNITS = [
     "roman": "yoo",
     "lao": "ຢູ່",
     "img": null,
-    "note": "khoi yoo talaad = I'm at the market; motion verbs drop yoo: khoi see pai talaad"
+    "note": "khoi yoo talaad = I'm at the market; motion verbs drop yoo: khoi see pai talaad",
+    "key": "0a405477290c",
+    "audio": "tts/0a405477290c.mp3",
+    "audio_src": "tts"
    },
    {
     "id": "lLx(kSt9B.",
@@ -5120,7 +6495,10 @@ window.VAO_UNITS = [
     "roman": "laang",
     "lao": "ລ້າງ",
     "img": null,
-    "note": null
+    "note": null,
+    "key": "d14cce19a6b8",
+    "audio": "tts/d14cce19a6b8.mp3",
+    "audio_src": "tts"
    },
    {
     "id": "tepO3?k}:6",
@@ -5129,6 +6507,9 @@ window.VAO_UNITS = [
     "lao": "ລ້າງຖ້ວຍ",
     "img": null,
     "note": null,
+    "key": "58b3c86377f1",
+    "audio": "tts/58b3c86377f1.mp3",
+    "audio_src": "tts",
     "tiles": [
      "ລ້າງ",
      "ຖ້ວຍ"
@@ -5140,7 +6521,10 @@ window.VAO_UNITS = [
     "roman": "sak kheuang",
     "lao": "ຊັກເຄື່ອງ",
     "img": null,
-    "note": null
+    "note": null,
+    "key": "9966f5b3741f",
+    "audio": "tts/9966f5b3741f.mp3",
+    "audio_src": "tts"
    },
    {
     "id": "HRK9hR[&f!",
@@ -5148,7 +6532,10 @@ window.VAO_UNITS = [
     "roman": "hai ahaan __",
     "lao": "ໃຫ້ອາຫານ __",
     "img": null,
-    "note": null
+    "note": null,
+    "key": "6a278d034567",
+    "audio": "tts/6a278d034567.mp3",
+    "audio_src": "tts"
    },
    {
     "id": "gROC>T}0FG",
@@ -5156,7 +6543,10 @@ window.VAO_UNITS = [
     "roman": "paeng",
     "lao": "ແປງ",
     "img": "lao-L2-s070.jpg",
-    "note": null
+    "note": null,
+    "key": "a6f6a623703a",
+    "audio": "tts/a6f6a623703a.mp3",
+    "audio_src": "tts"
    },
    {
     "id": "I4}SG)dIVn",
@@ -5164,7 +6554,10 @@ window.VAO_UNITS = [
     "roman": "sed pohng ee-am",
     "lao": "ເຊັດປ່ອງຢ້ຽມ",
     "img": null,
-    "note": null
+    "note": null,
+    "key": "41bd731679f2",
+    "audio": "tts/41bd731679f2.mp3",
+    "audio_src": "tts"
    },
    {
     "id": "Pn2`@F;9/0",
@@ -5172,7 +6565,10 @@ window.VAO_UNITS = [
     "roman": "thaa see heuan",
     "lao": "ທາສີເຮືອນ",
     "img": "lao-L2-s070.jpg",
-    "note": null
+    "note": null,
+    "key": "b45a4c9b5306",
+    "audio": "tts/b45a4c9b5306.mp3",
+    "audio_src": "tts"
    },
    {
     "id": "P.r_!n=07`",
@@ -5180,7 +6576,10 @@ window.VAO_UNITS = [
     "roman": "nang seu phim",
     "lao": "ໜັງສືພິມ",
     "img": "lao-L2-s070.jpg",
-    "note": null
+    "note": null,
+    "key": "487d6b870c27",
+    "audio": "tts/487d6b870c27.mp3",
+    "audio_src": "tts"
    },
    {
     "id": "Lp,g;!9l>e",
@@ -5188,7 +6587,10 @@ window.VAO_UNITS = [
     "roman": "vithanyoo",
     "lao": "ວິທະຍຸ",
     "img": "lao-L2-s070.jpg",
-    "note": null
+    "note": null,
+    "key": "ae21084c4b00",
+    "audio": "tts/ae21084c4b00.mp3",
+    "audio_src": "tts"
    },
    {
     "id": "Lu)T[#B<kx",
@@ -5197,6 +6599,9 @@ window.VAO_UNITS = [
     "lao": "ບານຢູ່ໃສ?",
     "img": "lao-L2-s069.jpg",
     "note": null,
+    "key": "4795f339711f",
+    "audio": "tts/4795f339711f.mp3",
+    "audio_src": "tts",
     "tiles": [
      "ບານຢູ່",
      "ໃສ?"
@@ -5208,7 +6613,10 @@ window.VAO_UNITS = [
     "roman": "baan yoo __",
     "lao": "ບານຢູ່__",
     "img": "lao-L2-s069.jpg",
-    "note": "location goes after yoo: baan yoo nai kahb"
+    "note": "location goes after yoo: baan yoo nai kahb",
+    "key": "f12d4000368a",
+    "audio": "tts/f12d4000368a.mp3",
+    "audio_src": "tts"
    }
   ],
   "lessons": [
@@ -5256,7 +6664,10 @@ window.VAO_UNITS = [
     "roman": "thae",
     "lao": "ແທ້",
     "img": "lao-L2-s078.jpg",
-    "note": "ngaam thae = truly pretty"
+    "note": "ngaam thae = truly pretty",
+    "key": "08c09800d1fa",
+    "audio": "tts/08c09800d1fa.mp3",
+    "audio_src": "tts"
    },
    {
     "id": "h,R<qbTK4?",
@@ -5264,7 +6675,10 @@ window.VAO_UNITS = [
     "roman": "vao phod / vao pai",
     "lao": "ເວົ້າໂພດ / ເວົ້າໄປ",
     "img": "lao-L2-s078.jpg",
-    "note": null
+    "note": null,
+    "key": "752adad63381",
+    "audio": "tts/752adad63381.mp3",
+    "audio_src": "tts"
    },
    {
     "id": "tr)d74Fy_r",
@@ -5273,6 +6687,9 @@ window.VAO_UNITS = [
     "lao": "ຢ່າລືມ",
     "img": "lao-L2-s078.jpg",
     "note": null,
+    "key": "8ae54c849389",
+    "audio": "tts/8ae54c849389.mp3",
+    "audio_src": "tts",
     "tiles": [
      "ຢ່າ",
      "ລືມ"
@@ -5285,6 +6702,9 @@ window.VAO_UNITS = [
     "lao": "ບອກແລ້ວ",
     "img": "lao-L2-s078.jpg",
     "note": null,
+    "key": "c99eb95f5de1",
+    "audio": "tts/c99eb95f5de1.mp3",
+    "audio_src": "tts",
     "tiles": [
      "ບອກ",
      "ແລ້ວ"
@@ -5296,7 +6716,10 @@ window.VAO_UNITS = [
     "roman": "vao lin / vao yohk",
     "lao": "ເວົ້າຫຼິ້ນ / ເວົ້າຢອກ",
     "img": "lao-L2-s010.jpg",
-    "note": null
+    "note": null,
+    "key": "d5803d965d25",
+    "audio": "tts/d5803d965d25.mp3",
+    "audio_src": "tts"
    },
    {
     "id": "in%;B?:OY~",
@@ -5304,7 +6727,10 @@ window.VAO_UNITS = [
     "roman": "pianjai",
     "lao": "ປ່ຽນໃຈ",
     "img": "lao-L2-s078.jpg",
-    "note": null
+    "note": null,
+    "key": "e73d222c92a0",
+    "audio": "tts/e73d222c92a0.mp3",
+    "audio_src": "tts"
    },
    {
     "id": "fu)~4rtAEt",
@@ -5313,6 +6739,9 @@ window.VAO_UNITS = [
     "lao": "ເບິ່ງກ່ອນ",
     "img": "lao-L2-s078.jpg",
     "note": null,
+    "key": "cec34b4b808f",
+    "audio": "tts/cec34b4b808f.mp3",
+    "audio_src": "tts",
     "tiles": [
      "ເບິ່ງ",
      "ກ່ອນ"
@@ -5324,7 +6753,10 @@ window.VAO_UNITS = [
     "roman": "yaa nohm phae",
     "lao": "ຢ່າຍອມແພ້",
     "img": "lao-L2-s078.jpg",
-    "note": null
+    "note": null,
+    "key": "c1f9babb20a5",
+    "audio": "tts/c1f9babb20a5.mp3",
+    "audio_src": "tts"
    },
    {
     "id": "Nu4}c7dG!X",
@@ -5332,7 +6764,10 @@ window.VAO_UNITS = [
     "roman": "vaa (low rising tone)",
     "lao": "ຫວາ",
     "img": "lao-L2-s078.jpg",
-    "note": null
+    "note": null,
+    "key": "feda7edf7636",
+    "audio": "tts/feda7edf7636.mp3",
+    "audio_src": "tts"
    },
    {
     "id": "zj^,<?#{n1",
@@ -5340,7 +6775,10 @@ window.VAO_UNITS = [
     "roman": "noh",
     "lao": "ເນາະ",
     "img": "lao-L2-s078.jpg",
-    "note": null
+    "note": null,
+    "key": "30b27bbffedb",
+    "audio": "tts/30b27bbffedb.mp3",
+    "audio_src": "tts"
    }
   ],
   "lessons": [
@@ -5370,7 +6808,10 @@ window.VAO_UNITS = [
     "en": "What's your number?",
     "roman": "ber toh jao jak",
     "lao": "ເບີໂທເຈົ້າຈັກ",
-    "topic": "social"
+    "topic": "social",
+    "key": "0772460da234",
+    "audio": "tts/0772460da234.mp3",
+    "audio_src": "tts"
    },
    {
     "id": "Nl;5MDY6q5",
@@ -5378,6 +6819,9 @@ window.VAO_UNITS = [
     "roman": "phob gan mai",
     "lao": "ພົບກັນໃໝ່",
     "topic": "social",
+    "key": "8ab82849e9c3",
+    "audio": "tts/8ab82849e9c3.mp3",
+    "audio_src": "tts",
     "tiles": [
      "ພົບ",
      "ກັນ",
@@ -5390,6 +6834,9 @@ window.VAO_UNITS = [
     "roman": "khop jai laai laai",
     "lao": "ຂອບໃຈຫຼາຍໆ",
     "topic": "social",
+    "key": "98545d95f082",
+    "audio": "tts/98545d95f082.mp3",
+    "audio_src": "tts",
     "tiles": [
      "ຂອບໃຈ",
      "ຫຼາຍໆ"
@@ -5401,7 +6848,9 @@ window.VAO_UNITS = [
     "roman": "boh bpen nyang",
     "lao": "ບໍ່ເປັນຫຍັງ",
     "topic": "social",
+    "key": "8148016610d4",
     "audio": "lao_pilot_greet07.mp3",
+    "audio_src": "native",
     "tiles": [
      "ບໍ່",
      "ເປັນ",
@@ -5414,6 +6863,9 @@ window.VAO_UNITS = [
     "roman": "meuay laai",
     "lao": "ເມື່ອຍຫຼາຍ",
     "topic": "social",
+    "key": "7d841a306b6b",
+    "audio": "tts/7d841a306b6b.mp3",
+    "audio_src": "tts",
     "tiles": [
      "ເມື່ອຍ",
      "ຫຼາຍ"
@@ -5425,6 +6877,9 @@ window.VAO_UNITS = [
     "roman": "muan laai",
     "lao": "ມ່ວນຫຼາຍ",
     "topic": "social",
+    "key": "f94b03051ca4",
+    "audio": "tts/f94b03051ca4.mp3",
+    "audio_src": "tts",
     "tiles": [
      "ມ່ວນ",
      "ຫຼາຍ"
@@ -5436,6 +6891,9 @@ window.VAO_UNITS = [
     "roman": "saep laai",
     "lao": "ແຊບຫຼາຍ",
     "topic": "food",
+    "key": "842bba274c52",
+    "audio": "tts/842bba274c52.mp3",
+    "audio_src": "tts",
     "tiles": [
      "ແຊບ",
      "ຫຼາຍ"
@@ -5447,6 +6905,9 @@ window.VAO_UNITS = [
     "roman": "boh phet",
     "lao": "ບໍ່ເຜັດ",
     "topic": "food",
+    "key": "49ae58f73a06",
+    "audio": "tts/49ae58f73a06.mp3",
+    "audio_src": "tts",
     "tiles": [
      "ບໍ່",
      "ເຜັດ"
@@ -5458,6 +6919,9 @@ window.VAO_UNITS = [
     "roman": "eem laew",
     "lao": "ອີ່ມແລ້ວ",
     "topic": "food",
+    "key": "528380aed9d5",
+    "audio": "tts/528380aed9d5.mp3",
+    "audio_src": "tts",
     "tiles": [
      "ອີ່ມ",
      "ແລ້ວ"
@@ -5469,6 +6933,9 @@ window.VAO_UNITS = [
     "roman": "hong nam yuu sai",
     "lao": "ຫ້ອງນ້ຳຢູ່ໃສ",
     "topic": "practical",
+    "key": "7cbde70815eb",
+    "audio": "tts/7cbde70815eb.mp3",
+    "audio_src": "tts",
     "tiles": [
      "ຫ້ອງນ້ຳ",
      "ຢູ່",
@@ -5481,6 +6948,9 @@ window.VAO_UNITS = [
     "roman": "bpai bon nee dai boh",
     "lao": "ໄປບ່ອນນີ້ໄດ້ບໍ",
     "topic": "transport",
+    "key": "8abef9c12dd3",
+    "audio": "tts/8abef9c12dd3.mp3",
+    "audio_src": "tts",
     "tiles": [
      "ໄປ",
      "ບ່ອນ",
@@ -5495,6 +6965,9 @@ window.VAO_UNITS = [
     "roman": "jot bon nee",
     "lao": "ຈອດບ່ອນນີ້",
     "topic": "transport",
+    "key": "e91a15c399d1",
+    "audio": "tts/e91a15c399d1.mp3",
+    "audio_src": "tts",
     "tiles": [
      "ຈອດ",
      "ບ່ອນ",
@@ -5507,6 +6980,9 @@ window.VAO_UNITS = [
     "roman": "glai boh",
     "lao": "ໄກບໍ",
     "topic": "transport",
+    "key": "8cc729be3d2b",
+    "audio": "tts/8cc729be3d2b.mp3",
+    "audio_src": "tts",
     "tiles": [
      "ໄກ",
      "ບໍ"
@@ -5517,49 +6993,70 @@ window.VAO_UNITS = [
     "en": "Do you offer wash and dry service here?",
     "roman": "yoo nee hab sak lae ob kheuang hai boh?",
     "lao": "ຢູ່ນີ້ຮັບຊັກແລະອົບເຄື່ອງໃຫ້ບໍ",
-    "topic": "laundry"
+    "topic": "laundry",
+    "key": "b33d7def38e6",
+    "audio": "tts/b33d7def38e6.mp3",
+    "audio_src": "tts"
    },
    {
     "id": "BrdH>*^.b1",
     "en": "Can I drop off my laundry to be washed and dried here?",
     "roman": "faak sak lae ob kheuang yoo nee dai boh?",
     "lao": "ຝາກຊັກແລະອົບເຄື່ອງຢູ່ນີ້ໄດ້ບໍ?",
-    "topic": "laundry"
+    "topic": "laundry",
+    "key": "537bb14f7884",
+    "audio": "tts/537bb14f7884.mp3",
+    "audio_src": "tts"
    },
    {
     "id": "Gws]YB=X${",
     "en": "I'd like to drop off my laundry to be washed and dried please",
     "roman": "khoh faak sak lae ob kheuang hai dae",
     "lao": "ຂໍຝາກຊັກແລະອົບເຄື່ອງໃຫ້ແດ່",
-    "topic": "laundry"
+    "topic": "laundry",
+    "key": "8ed65b57149c",
+    "audio": "tts/8ed65b57149c.mp3",
+    "audio_src": "tts"
    },
    {
     "id": "oZj!D2<M(>",
     "en": "Please wash and dry my clothes for me",
     "roman": "sooai sak lae ob kheuang hai dae",
     "lao": "ຊ່ວຍຊັກແລະອົບເຄື່ອງໃຫ້ແດ່",
-    "topic": "laundry"
+    "topic": "laundry",
+    "key": "c35438cbeda5",
+    "audio": "tts/c35438cbeda5.mp3",
+    "audio_src": "tts"
    },
    {
     "id": "oz<b0AfiAU",
     "en": "I'm here to pick up the clothes",
     "roman": "maa hab ao kheuang",
     "lao": "ມາຮັບເອົາເຄື່ອງ",
-    "topic": "laundry"
+    "topic": "laundry",
+    "key": "b08a08524a0a",
+    "audio": "tts/b08a08524a0a.mp3",
+    "audio_src": "tts"
    },
    {
     "id": "F2|+&7AI/c",
     "en": "I'd like to drop off my laundry please",
     "roman": "khoh faak sak lae ob kheuang hai dae",
     "lao": "ຂໍຝາກຊັກແລະອົບເຄື່ອງໃຫ້ແດ່",
-    "topic": "laundry"
+    "topic": "laundry",
+    "key": "8ed65b57149c",
+    "audio": "tts/8ed65b57149c.mp3",
+    "audio_src": "tts"
    },
    {
     "id": "d0>IVhNj&F",
     "en": "Please wash and dry my clothes",
     "roman": "sooai sak lae ob kheuang hai dae",
     "lao": "ຊ່ວຍຊັກແລະອົບເຄື່ອງໃຫ້ແດ່",
-    "topic": "laundry"
+    "topic": "laundry",
+    "key": "c35438cbeda5",
+    "audio": "tts/c35438cbeda5.mp3",
+    "audio_src": "tts"
    }
   ],
   "lessons": [
@@ -5604,6 +7101,9 @@ window.VAO_UNITS = [
     "img": null,
     "note": null,
     "topic": "questions",
+    "key": "376255e6cb9f",
+    "audio": "tts/376255e6cb9f.mp3",
+    "audio_src": "tts",
     "tiles": [
      "ເຈົ້າ",
      "ມີ",
@@ -5620,6 +7120,9 @@ window.VAO_UNITS = [
     "img": null,
     "note": null,
     "topic": "questions",
+    "key": "9945ef050242",
+    "audio": "tts/9945ef050242.mp3",
+    "audio_src": "tts",
     "tiles": [
      "ເຈົ້າ",
      "ເກີດ",
@@ -5636,6 +7139,9 @@ window.VAO_UNITS = [
     "img": null,
     "note": null,
     "topic": "questions",
+    "key": "0e7045340bc2",
+    "audio": "tts/0e7045340bc2.mp3",
+    "audio_src": "tts",
     "tiles": [
      "ເຈົ້າ",
      "ກຳລັງ",
@@ -5651,6 +7157,9 @@ window.VAO_UNITS = [
     "img": null,
     "note": null,
     "topic": "questions",
+    "key": "ea9f78af97df",
+    "audio": "tts/ea9f78af97df.mp3",
+    "audio_src": "tts",
     "tiles": [
      "ເຈົ້າ",
      "ມັກ",
@@ -5670,6 +7179,9 @@ window.VAO_UNITS = [
     "img": null,
     "note": null,
     "topic": "questions",
+    "key": "b562eb78ff3f",
+    "audio": "tts/b562eb78ff3f.mp3",
+    "audio_src": "tts",
     "tiles": [
      "ນີ້",
      "ແມ່ນ",
@@ -5685,7 +7197,10 @@ window.VAO_UNITS = [
     "lao": "ເຮັດແກງໜໍ່ໄມ້ແນວໃດ?",
     "img": null,
     "note": null,
-    "topic": "questions"
+    "topic": "questions",
+    "key": "7b5b7d40690d",
+    "audio": "tts/7b5b7d40690d.mp3",
+    "audio_src": "tts"
    },
    {
     "id": "cn-9be4e1de",
@@ -5694,7 +7209,10 @@ window.VAO_UNITS = [
     "lao": "ເຈົ້າຢາກຊື້ເສື້ອໂຕໃດ?",
     "img": null,
     "note": null,
-    "topic": "questions"
+    "topic": "questions",
+    "key": "172786ea1b75",
+    "audio": "tts/172786ea1b75.mp3",
+    "audio_src": "tts"
    },
    {
     "id": "cn-c6df0762",
@@ -5704,6 +7222,9 @@ window.VAO_UNITS = [
     "img": null,
     "note": null,
     "topic": "questions",
+    "key": "6352d396993a",
+    "audio": "tts/6352d396993a.mp3",
+    "audio_src": "tts",
     "tiles": [
      "ເຈົ້າ",
      "ເຮັດ",
@@ -5720,6 +7241,9 @@ window.VAO_UNITS = [
     "img": null,
     "note": null,
     "topic": "questions",
+    "key": "334f082bfc40",
+    "audio": "tts/334f082bfc40.mp3",
+    "audio_src": "tts",
     "tiles": [
      "ວັນ",
      "ເສົາ",
@@ -5740,7 +7264,10 @@ window.VAO_UNITS = [
     "lao": "ມື້ອື່ນ, ພວກເຈົ້າຊິເຮັດຫຍັງຢູ່ບ້ານ?",
     "img": null,
     "note": null,
-    "topic": "questions"
+    "topic": "questions",
+    "key": "83affeed651b",
+    "audio": "tts/83affeed651b.mp3",
+    "audio_src": "tts"
    },
    {
     "id": "cn-e0853f97",
@@ -5750,6 +7277,9 @@ window.VAO_UNITS = [
     "img": null,
     "note": null,
     "topic": "questions",
+    "key": "88730ed27646",
+    "audio": "tts/88730ed27646.mp3",
+    "audio_src": "tts",
     "tiles": [
      "ປີ",
      "ໜ້າ,",
@@ -5767,7 +7297,10 @@ window.VAO_UNITS = [
     "lao": "ມື້ວານນີ້, ເຈົ້າໄດ້ໄປຕະຫຼາດກັບໃຜ?",
     "img": null,
     "note": null,
-    "topic": "questions"
+    "topic": "questions",
+    "key": "dc095b2d8fb0",
+    "audio": "tts/dc095b2d8fb0.mp3",
+    "audio_src": "tts"
    },
    {
     "id": "cn-58a64906",
@@ -5776,7 +7309,10 @@ window.VAO_UNITS = [
     "lao": "ເຈົ້າກິນເຂົ້າແລງແລ້ວບໍ?",
     "img": null,
     "note": null,
-    "topic": "questions"
+    "topic": "questions",
+    "key": "e760fb109a41",
+    "audio": "tts/e760fb109a41.mp3",
+    "audio_src": "tts"
    },
    {
     "id": "cn-f2e6776c",
@@ -5786,6 +7322,9 @@ window.VAO_UNITS = [
     "img": null,
     "note": null,
     "topic": "questions",
+    "key": "69fb8ce799e7",
+    "audio": "tts/69fb8ce799e7.mp3",
+    "audio_src": "tts",
     "tiles": [
      "ວັນ",
      "ຈັນ",
@@ -5804,7 +7343,10 @@ window.VAO_UNITS = [
     "lao": "ເກີບອີແຕະນີ້ລາຄາເທົ່າໃດ?",
     "img": null,
     "note": null,
-    "topic": "questions"
+    "topic": "questions",
+    "key": "a4c16ce55101",
+    "audio": "tts/a4c16ce55101.mp3",
+    "audio_src": "tts"
    },
    {
     "id": "cn-d763a215",
@@ -5814,6 +7356,9 @@ window.VAO_UNITS = [
     "img": null,
     "note": null,
     "topic": "questions",
+    "key": "aa2895516e3a",
+    "audio": "tts/aa2895516e3a.mp3",
+    "audio_src": "tts",
     "tiles": [
      "ເຈົ້າ",
      "ຊິ",
@@ -5831,7 +7376,10 @@ window.VAO_UNITS = [
     "lao": "ຂ້ອຍຂໍສັ່ງໂມຄາເຢັນສອງຈອກໄດ້ບໍ?",
     "img": null,
     "note": null,
-    "topic": "coffee"
+    "topic": "coffee",
+    "key": "f84467437d16",
+    "audio": "tts/f84467437d16.mp3",
+    "audio_src": "tts"
    },
    {
     "id": "cn-08cbd02a",
@@ -5840,7 +7388,10 @@ window.VAO_UNITS = [
     "lao": "ເອົາໂມຄາເຢັນສອງ",
     "img": null,
     "note": null,
-    "topic": "coffee"
+    "topic": "coffee",
+    "key": "3dcf7777bf2f",
+    "audio": "tts/3dcf7777bf2f.mp3",
+    "audio_src": "tts"
    },
    {
     "id": "cn-4886801e",
@@ -5849,7 +7400,10 @@ window.VAO_UNITS = [
     "lao": "ເອົາຈອກໃຫຍ່",
     "img": null,
     "note": null,
-    "topic": "coffee"
+    "topic": "coffee",
+    "key": "54185d717cbe",
+    "audio": "tts/54185d717cbe.mp3",
+    "audio_src": "tts"
    },
    {
     "id": "cn-d6e304bb",
@@ -5858,7 +7412,10 @@ window.VAO_UNITS = [
     "lao": "ຫວານໜ້ອຍ",
     "img": null,
     "note": null,
-    "topic": "coffee"
+    "topic": "coffee",
+    "key": "4b02af814d42",
+    "audio": "tts/4b02af814d42.mp3",
+    "audio_src": "tts"
    },
    {
     "id": "cn-eae0ad2a",
@@ -5867,7 +7424,10 @@ window.VAO_UNITS = [
     "lao": "ໝາກໝອດ",
     "img": null,
     "note": null,
-    "topic": "fruits"
+    "topic": "fruits",
+    "key": "6ffebfb6f624",
+    "audio": "tts/6ffebfb6f624.mp3",
+    "audio_src": "tts"
    },
    {
     "id": "cn-52d61ecf",
@@ -5877,6 +7437,9 @@ window.VAO_UNITS = [
     "img": null,
     "note": null,
     "topic": "fruits",
+    "key": "7fd68f7d6f0d",
+    "audio": "tts/7fd68f7d6f0d.mp3",
+    "audio_src": "tts",
     "tiles": [
      "ໝາກ",
      "ແກ້ວ",
