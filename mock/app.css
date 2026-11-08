@@ -265,3 +265,12 @@ kbd { font: 11px "JetBrains Mono", monospace; border: 1px solid var(--line); bor
 .gmissed { width: 100%; margin-top: 14px; text-align: left; max-height: 150px; overflow-y: auto; }
 .gmissed div:not(.label) { display: flex; justify-content: space-between; align-items: center; padding: 6px 2px; border-bottom: 1px solid var(--line); font-size: 13px; }
 .gmissed .lao { font-size: 17px; }
+
+/* Whisper score on the Speak exercise */
+.score { display: flex; align-items: center; gap: 10px; margin-top: 12px; padding: 8px 12px; border-radius: 12px; font-size: 13px; text-align: left; }
+.score b { font-size: 22px; min-width: 2.2ch; text-align: center; }
+.score .lao { font-size: 15px; }
+.score.good { background: #e3f4e8; color: #225a33; }
+.score.ok { background: #fff4d6; color: #7a5a00; }
+.score.bad { background: #fde6e6; color: #8a2b2b; }
+.score.pending { color: var(--muted); }

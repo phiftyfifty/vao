@@ -338,6 +338,7 @@ const RENDER = {
   },
   speak(st) {
     const it = st.item;
+    myClip = null; myScore = null;
     $("lbody").innerHTML = `
       <div class="label">Speak</div>
       <div class="q">Say this out loud in Lao</div>
@@ -345,6 +346,7 @@ const RENDER = {
         <div class="hero-en" style="font-size:28px;font-weight:700;margin-top:30px">${esc(it.en)}</div>
         <button class="mic" id="mic">${ICON_MIC}</button>
         <div class="src" id="micHint">Tap to record yourself (optional)</div>
+        <div id="micScore"></div>
         <div id="reveal" class="speak-reveal" style="display:none"></div>
       </div>`;
     $("mic").onclick = () => toggleRecord(st);
@@ -384,8 +386,31 @@ const CHECK = {
   build: (st, a) => a.join(" ").toLowerCase() === st.target.join(" ").toLowerCase(),
 };
 
-/* speak: optional recording, then self-grade */
-let rec = null, recChunks = [], myClip = null;
+/* speak: optional recording, scored by local Whisper when server/score.py is serving the page, then self-grade */
+let rec = null, recChunks = [], myClip = null, myScore = null, SCORER = false;
+fetch("/api/health").then(r => r.ok && r.json()).then(j => { SCORER = !!(j && j.ok); }).catch(() => {});
+function scoreHtml(sc) {
+  if (!sc) return "";
+  if (sc.pending) return `<div class="score pending">Scoring…</div>`;
+  if (sc.error) return `<div class="score bad">Couldn't score: ${esc(sc.error)}</div>`;
+  const cls = sc.score >= 80 ? "good" : sc.score >= 50 ? "ok" : "bad";
+  return `<div class="score ${cls}"><b>${sc.score}</b><span>Heard “${esc((sc.heard || "").replace(/[.!?。]+$/, "") || "nothing")}”. This checks the sounds, not the tones.</span></div>`;
+}
+function showScore() {
+  const html = scoreHtml(myScore);
+  ["micScore", "revealScore"].forEach(id => { if ($(id)) $(id).innerHTML = html; });
+}
+async function scoreClip(blob, it) {
+  myScore = { pending: true }; showScore();
+  try {
+    const r = await fetch(`/api/score?target=${encodeURIComponent(it.lao)}&roman=${encodeURIComponent(it.roman)}`, { method: "POST", body: blob });
+    const j = await r.json();
+    myScore = r.ok ? j : { error: j.error || `HTTP ${r.status}` };
+  } catch (e) {
+    myScore = { error: e.message };
+  }
+  showScore();
+}
 async function toggleRecord(st) {
   if (rec && rec.state === "recording") { rec.stop(); return; }
   try {
@@ -394,9 +419,11 @@ async function toggleRecord(st) {
     rec.ondataavailable = e => recChunks.push(e.data);
     rec.onstop = () => {
       stream.getTracks().forEach(t => t.stop());
-      myClip = URL.createObjectURL(new Blob(recChunks, { type: rec.mimeType }));
+      const blob = new Blob(recChunks, { type: rec.mimeType });
+      myClip = URL.createObjectURL(blob);
       $("mic")?.classList.remove("rec");
       if ($("micHint")) $("micHint").textContent = "Recorded. Show the answer to compare.";
+      if (SCORER) scoreClip(blob, st.item);
     };
     rec.start(); $("mic").classList.add("rec"); $("micHint").textContent = "Recording… tap to stop";
   } catch (e) {
@@ -412,14 +439,16 @@ function speakReveal(st) {
     <div class="cmp">
       <div><button class="play sm" id="ref">${ICON_PLAY}</button>reference</div>
       ${myClip ? `<div><button class="play sm" id="mine" style="background:var(--good);box-shadow:0 4px 0 #225a33">${ICON_PLAY}</button>you</div>` : ""}
-    </div>${srcTag(it)}`;
+    </div><div id="revealScore"></div>${srcTag(it)}`;
+  $("micScore")?.remove();
+  showScore();
   $("ref").onclick = () => playItem(it);
   if ($("mine")) $("mine").onclick = () => new Audio(myClip).play();
   setTimeout(() => playItem(it, true), 150);
   const f = $("lfoot");
   f.innerHTML = '<div class="row2"><button class="cta ghost" id="no">Not yet</button><button class="cta" id="yes">I said it</button></div>';
-  $("yes").onclick = () => { myClip = null; L.state = "checked"; renderFooter(st, grade(st, true)); };
-  $("no").onclick = () => { myClip = null; L.state = "checked"; renderFooter(st, grade(st, false)); };
+  $("yes").onclick = () => { myClip = null; myScore = null; L.state = "checked"; renderFooter(st, grade(st, true)); };
+  $("no").onclick = () => { myClip = null; myScore = null; L.state = "checked"; renderFooter(st, grade(st, false)); };
 }
 
 function renderComplete() {
