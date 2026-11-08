@@ -1,0 +1,171 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Vao: learn the Lao your family speaks</title>
+<meta name="description" content="Short daily lessons in real Lao script, built for speaking, with audio from the people you want to talk to.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=Noto+Sans+Lao:wght@500;700&display=swap" rel="stylesheet">
+<style>
+  :root { --bg: #eef2f8; --ink: #14213a; --muted: #5f6b84; --card: #fbfcfe; --line: #d8e0ec; --accent: #2457c5; --accent-dark: #193f91; --soft: #dde7fb; }
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body { font-family: Inter, system-ui, sans-serif; background: var(--bg); color: var(--ink); line-height: 1.5; }
+  .lao { font-family: "Noto Sans Lao", sans-serif; }
+  .draft { background: var(--ink); color: var(--card); font-size: 13px; text-align: center; padding: 8px 16px; }
+  .wrap { max-width: 1120px; margin: 0 auto; padding: 0 24px; }
+  nav { display: flex; justify-content: space-between; align-items: center; padding: 22px 0; }
+  .logo { font-weight: 800; font-size: 24px; color: var(--accent); letter-spacing: -0.03em; }
+  nav a { color: var(--ink); font-weight: 600; font-size: 14px; text-decoration: none; border: 2px solid var(--ink); padding: 8px 16px; border-radius: 12px; }
+
+  .hero { display: grid; grid-template-columns: 1.1fr .9fr; gap: 48px; align-items: center; padding: 40px 0 80px; }
+  .kicker { font-size: 13px; font-weight: 700; letter-spacing: .1em; text-transform: uppercase; color: var(--accent); }
+  h1 { font-size: 58px; line-height: 1.04; letter-spacing: -0.035em; margin-top: 14px; font-weight: 800; }
+  h1 .lao { display: block; font-size: 40px; color: var(--accent); margin-top: 10px; letter-spacing: 0; font-weight: 700; }
+  .lede { font-size: 19px; color: #3a465e; margin-top: 22px; max-width: 520px; }
+  form { display: flex; gap: 10px; margin-top: 30px; max-width: 480px; }
+  input { flex: 1; font: 16px Inter, sans-serif; padding: 15px 16px; border-radius: 14px; border: 2px solid var(--line); background: white; }
+  input:focus { outline: none; border-color: var(--accent); }
+  button { font: 700 15px Inter, sans-serif; padding: 0 22px; border-radius: 14px; border: none; background: var(--accent); color: white; box-shadow: 0 5px 0 var(--accent-dark); cursor: pointer; letter-spacing: .02em; }
+  button:active { transform: translateY(3px); box-shadow: 0 2px 0 var(--accent-dark); }
+  .fine { font-size: 13px; color: var(--muted); margin-top: 12px; }
+  .thanks { display: none; margin-top: 30px; font-weight: 600; color: #2f7a45; }
+  .phones { position: relative; height: 600px; }
+  .phones img { position: absolute; width: 270px; border-radius: 40px; box-shadow: 0 30px 60px -25px rgba(20,33,58,.5); }
+  .phones img:first-child { left: 0; top: 40px; transform: rotate(-5deg); }
+  .phones img:last-child { right: 0; top: 0; transform: rotate(4deg); }
+
+  section { padding: 80px 0; }
+  section.alt { background: var(--card); border-top: 1px solid var(--line); border-bottom: 1px solid var(--line); }
+  h2 { font-size: 38px; letter-spacing: -0.03em; line-height: 1.1; max-width: 640px; }
+  .sub { color: var(--muted); font-size: 17px; margin-top: 12px; max-width: 600px; }
+  .three { display: grid; grid-template-columns: repeat(3, 1fr); gap: 22px; margin-top: 44px; }
+  .feat { background: var(--card); border: 1px solid var(--line); border-radius: 22px; padding: 26px; }
+  section.alt .feat { background: var(--bg); }
+  .feat .num { font-size: 13px; font-weight: 800; color: var(--accent); }
+  .feat h3 { font-size: 20px; margin-top: 8px; letter-spacing: -0.01em; }
+  .feat p { color: #3a465e; margin-top: 8px; font-size: 15px; }
+  .feat img { width: 100%; border-radius: 16px; margin-top: 18px; border: 1px solid var(--line); }
+
+  .quote { display: grid; grid-template-columns: 1fr 1fr; gap: 48px; align-items: center; }
+  .quote blockquote { font-size: 26px; line-height: 1.35; letter-spacing: -0.01em; font-weight: 600; }
+  .quote blockquote span { color: var(--accent); }
+  .quote p { color: #3a465e; font-size: 16px; }
+  .quote p + p { margin-top: 12px; }
+
+  .faq { margin-top: 36px; display: grid; gap: 12px; max-width: 760px; }
+  details { background: var(--card); border: 1px solid var(--line); border-radius: 16px; padding: 18px 22px; }
+  summary { font-weight: 600; cursor: pointer; font-size: 16px; }
+  details p { margin-top: 10px; color: #3a465e; }
+
+  .cta-band { text-align: center; }
+  .cta-band h2 { margin: 0 auto; }
+  .cta-band form { margin: 30px auto 0; }
+  footer { padding: 34px 0 48px; color: var(--muted); font-size: 13px; text-align: center; }
+
+  @media (max-width: 860px) {
+    .hero, .quote { grid-template-columns: 1fr; }
+    .three { grid-template-columns: 1fr; }
+    h1 { font-size: 42px; }
+    .phones { height: 520px; }
+    .phones img { width: 230px; }
+  }
+</style>
+</head>
+<body>
+<div class="draft">Draft landing page. Not published, and the waitlist form doesn't send anywhere yet.</div>
+
+<div class="wrap">
+  <nav><div class="logo">vao</div><a href="#join">Join the waitlist</a></nav>
+
+  <div class="hero">
+    <div>
+      <div class="kicker">Lao for heritage learners</div>
+      <h1>Learn the Lao your family speaks.<span class="lao">ເວົ້າລາວກັບຄອບຄົວ</span></h1>
+      <p class="lede">Five-minute lessons in real Lao script, built for speaking out loud, with audio recorded by the people you actually want to talk to.</p>
+      <form class="join" onsubmit="return joined(this)">
+        <input type="email" required placeholder="you@email.com" aria-label="Email">
+        <button type="submit">Get early access</button>
+      </form>
+      <div class="thanks">You're on the list. We'll email you when the beta opens.</div>
+      <p class="fine">Free while in beta. One email when it's ready, nothing else.</p>
+    </div>
+    <div class="phones">
+      <img src="img/listen.png" alt="A listening exercise: hear a Lao phrase and pick what it means">
+      <img src="img/speak.png" alt="A speaking exercise: say Hello in Lao, then compare with the reference audio">
+    </div>
+  </div>
+</div>
+
+<section class="alt">
+  <div class="wrap">
+    <h2>You understand more than you can say.</h2>
+    <p class="sub">That's the usual spot for kids who grew up hearing Lao at home. Vao starts from listening and gets you to speaking, without a classroom.</p>
+    <div class="three">
+      <div class="feat">
+        <div class="num">01</div>
+        <h3>Hear it first</h3>
+        <p>Every lesson opens with sound. You pick the meaning by ear before you ever see a spelling, the same way you learned it at home.</p>
+        <img src="img/listen.png" alt="Listening exercise">
+      </div>
+      <div class="feat">
+        <div class="num">02</div>
+        <h3>Build it in Lao script</h3>
+        <p>Put phrases together from real Lao words, not just transliteration. Romanization is there when you need it and turns off when you don't.</p>
+        <img src="img/build.png" alt="Building a Lao phrase from word tiles">
+      </div>
+      <div class="feat">
+        <div class="num">03</div>
+        <h3>Say it, then compare</h3>
+        <p>Record yourself and play it back next to a native speaker. Anything you miss comes back on a spaced schedule until it sticks.</p>
+        <img src="img/speak.png" alt="Speaking exercise with your recording next to the reference">
+      </div>
+    </div>
+  </div>
+</section>
+
+<section>
+  <div class="wrap quote">
+    <blockquote>The best Lao audio isn't in an app. <span>It's your mom saying it.</span></blockquote>
+    <div>
+      <p>Vao lets a family member record the words in your lessons, so the voice you learn from is the one you'll hear at the dinner table, accent and all.</p>
+      <p>Everyday words come first: family, food, getting around, the things people actually say at home and at the temple.</p>
+    </div>
+  </div>
+</section>
+
+<section class="alt">
+  <div class="wrap">
+    <h2>Questions</h2>
+    <div class="faq">
+      <details><summary>Who is it for?</summary><p>Mostly people with Lao family who want to speak with them: second-generation kids, partners, in-laws. It also works if you're moving to Laos or heading there for work.</p></details>
+      <details><summary>Do I need to read Lao already?</summary><p>No. Romanization is on by default and every word has audio. You can switch it off once the script starts to feel familiar.</p></details>
+      <details><summary>Is it free?</summary><p>Yes while it's in beta. The core lessons are meant to stay free.</p></details>
+      <details><summary>iPhone or Android?</summary><p>It runs in your phone's browser and works offline once it's loaded, so both.</p></details>
+    </div>
+  </div>
+</section>
+
+<section class="cta-band" id="join">
+  <div class="wrap">
+    <h2>Start with ສະບາຍດີ.</h2>
+    <p class="sub" style="margin:12px auto 0">Join the beta and get the first units free.</p>
+    <form class="join" onsubmit="return joined(this)">
+      <input type="email" required placeholder="you@email.com" aria-label="Email">
+      <button type="submit">Get early access</button>
+    </form>
+    <div class="thanks">You're on the list. We'll email you when the beta opens.</div>
+  </div>
+</section>
+
+<footer>vao · made by a Lao learner</footer>
+
+<script>
+function joined(form) {
+  form.style.display = "none";
+  form.nextElementSibling.style.display = "block";
+  return false;
+}
+</script>
+</body>
+</html>
